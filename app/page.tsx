@@ -92,8 +92,8 @@ export default function Home() {
         <div className="divider max-w-7xl mx-auto hidden md:block"></div>
         
         {/* Mobile Menu Overlay */}
-        <div className={`mobile-menu-overlay md:hidden fixed top-[72px] left-0 right-0 bg-[#0a0a0a]/98 backdrop-blur-xl border-b border-[#3d3630] ${mobileMenuOpen ? 'block' : 'hidden'}`}>
-          <div className="flex flex-col py-4">
+        <div className={`md:hidden fixed top-0 left-0 z-40 w-72 h-full bg-[#0a0a0a]/98 backdrop-blur-xl border-r border-[#3d3630] transition-all duration-300 ${mobileMenuOpen ? 'translate-x-0' : '-translate-x-full'}`}>
+          <div className="pt-20 flex flex-col py-4">
             {navItems.map((item, idx) => (
               <button
                 key={item.name}
@@ -102,13 +102,20 @@ export default function Home() {
                   setMobileMenuOpen(false);
                 }}
                 className="mobile-menu-item label-caps text-[#f5f0eb] hover:text-[#c9a96e] px-6 py-4 text-left border-b border-[#3d3630]/30 hover:bg-[#c9a96e]/5 transition-all"
-                style={{ animationDelay: `${idx * 0.08 + 0.1}s` }}
+                style={{ animationDelay: mobileMenuOpen ? `${idx * 0.08 + 0.1}s` : '0s' }}
               >
                 {item.name}
               </button>
             ))}
           </div>
         </div>
+        {/* Backdrop overlay when menu is open */}
+        {mobileMenuOpen && (
+          <div 
+            className="md:hidden fixed inset-0 z-30 bg-black/50 backdrop-blur-sm"
+            onClick={() => setMobileMenuOpen(false)}
+          />
+        )}
       </nav>
 
       {/* ── Hero ── */}
