@@ -126,6 +126,64 @@ body {
 .menu-item:nth-child(3) { animation-delay: 1.5s; }
 .menu-item:nth-child(4) { animation-delay: 1.65s; }
 
+/* Hamburger Animation */
+.hamburger-btn {
+  transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.hamburger-btn:hover {
+  transform: scale(1.1);
+}
+
+.hamburger-btn:active {
+  transform: scale(0.95);
+}
+
+/* Mobile Menu Overlay */
+.mobile-menu-overlay {
+  animation: mobileMenuSlideIn 0.4s cubic-bezier(0.23, 1, 0.32, 1) forwards;
+}
+
+@keyframes mobileMenuSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Mobile Menu Item Animation */
+@keyframes mobileMenuItemEnter {
+  from {
+    opacity: 0;
+    transform: translateX(-15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.mobile-menu-item {
+  opacity: 0;
+  animation: mobileMenuItemEnter 0.4s cubic-bezier(0.23, 1, 0.32, 1) forwards;
+  transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.mobile-menu-item:hover {
+  padding-left: 12px;
+  color: #c9a96e;
+  background: rgba(201, 169, 110, 0.1);
+}
+
+/* RTL Support */
+[dir="rtl"] {
+  text-align: right;
+}
+
 /* Menu Item Hover Effect */
 .menu-item {
   position: relative;
