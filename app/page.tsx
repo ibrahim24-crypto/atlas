@@ -125,29 +125,29 @@ export default function Home() {
           </div>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-12">
             <div className="text-center space-y-3 group">
-              <div className="w-20 h-20 mx-auto border border-[#3d3630] rounded-full flex items-center justify-center group-hover:border-[#c9a96e] transition-colors duration-500">
-                <span className="text-2xl group-hover:scale-110 transition-transform duration-500">🪵</span>
+              <div className="w-20 h-20 mx-auto border border-[#3d3630] rounded-full overflow-hidden flex items-center justify-center group-hover:border-[#c9a96e] transition-colors duration-500">
+                <img src="/images/Gmail/1000106356.png" alt="Oud" className="w-full h-full object-cover" />
               </div>
               <p className="label-caps text-[#f5f0eb] text-xs">Oud</p>
               <p className="text-xs text-[#8a7e6b] italic">Assam, India</p>
             </div>
             <div className="text-center space-y-3 group">
-              <div className="w-20 h-20 mx-auto border border-[#3d3630] rounded-full flex items-center justify-center group-hover:border-[#c9a96e] transition-colors duration-500">
-                <span className="text-2xl group-hover:scale-110 transition-transform duration-500">🌿</span>
+              <div className="w-20 h-20 mx-auto border border-[#3d3630] rounded-full overflow-hidden flex items-center justify-center group-hover:border-[#c9a96e] transition-colors duration-500">
+                <img src="/images/Gmail/1000106367.png" alt="Saffron" className="w-full h-full object-cover" />
               </div>
               <p className="label-caps text-[#f5f0eb] text-xs">Saffron</p>
               <p className="text-xs text-[#8a7e6b] italic">Khorasan, Iran</p>
             </div>
             <div className="text-center space-y-3 group">
-              <div className="w-20 h-20 mx-auto border border-[#3d3630] rounded-full flex items-center justify-center group-hover:border-[#c9a96e] transition-colors duration-500">
-                <span className="text-2xl group-hover:scale-110 transition-transform duration-500">✨</span>
+              <div className="w-20 h-20 mx-auto border border-[#3d3630] rounded-full overflow-hidden flex items-center justify-center group-hover:border-[#c9a96e] transition-colors duration-500">
+                <img src="/images/Gmail/1000106373.png" alt="Amber" className="w-full h-full object-cover" />
               </div>
               <p className="label-caps text-[#f5f0eb] text-xs">Amber</p>
               <p className="text-xs text-[#8a7e6b] italic">Baltic Coast</p>
             </div>
             <div className="text-center space-y-3 group">
-              <div className="w-20 h-20 mx-auto border border-[#3d3630] rounded-full flex items-center justify-center group-hover:border-[#c9a96e] transition-colors duration-500">
-                <span className="text-2xl group-hover:scale-110 transition-transform duration-500">🌹</span>
+              <div className="w-20 h-20 mx-auto border border-[#3d3630] rounded-full overflow-hidden flex items-center justify-center group-hover:border-[#c9a96e] transition-colors duration-500">
+                <img src="/images/Gmail/1000106361.png" alt="Rose" className="w-full h-full object-cover" />
               </div>
               <p className="label-caps text-[#f5f0eb] text-xs">Rose</p>
               <p className="text-xs text-[#8a7e6b] italic">Grasse, France</p>
@@ -155,29 +155,29 @@ export default function Home() {
           </div>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-12 mt-16">
             <div className="text-center space-y-3 group">
-              <div className="w-20 h-20 mx-auto border border-[#3d3630] rounded-full flex items-center justify-center group-hover:border-[#c9a96e] transition-colors duration-500">
-                <span className="text-2xl group-hover:scale-110 transition-transform duration-500">🍋</span>
+              <div className="w-20 h-20 mx-auto border border-[#3d3630] rounded-full overflow-hidden flex items-center justify-center group-hover:border-[#c9a96e] transition-colors duration-500">
+                <img src="/images/Gmail/1000106391.png" alt="Bergamot" className="w-full h-full object-cover" />
               </div>
               <p className="label-caps text-[#f5f0eb] text-xs">Bergamot</p>
               <p className="text-xs text-[#8a7e6b] italic">Calabria, Italy</p>
             </div>
             <div className="text-center space-y-3 group">
-              <div className="w-20 h-20 mx-auto border border-[#3d3630] rounded-full flex items-center justify-center group-hover:border-[#c9a96e] transition-colors duration-500">
-                <span className="text-2xl group-hover:scale-110 transition-transform duration-500">🌑</span>
+              <div className="w-20 h-20 mx-auto border border-[#3d3630] rounded-full overflow-hidden flex items-center justify-center group-hover:border-[#c9a96e] transition-colors duration-500">
+                <img src="/images/Gmail/1000106365.png" alt="Iris" className="w-full h-full object-cover" />
               </div>
               <p className="label-caps text-[#f5f0eb] text-xs">Iris</p>
               <p className="text-xs text-[#8a7e6b] italic">Tuscany, Italy</p>
             </div>
             <div className="text-center space-y-3 group">
-              <div className="w-20 h-20 mx-auto border border-[#3d3630] rounded-full flex items-center justify-center group-hover:border-[#c9a96e] transition-colors duration-500">
-                <span className="text-2xl group-hover:scale-110 transition-transform duration-500">🪔</span>
+              <div className="w-20 h-20 mx-auto border border-[#3d3630] rounded-full overflow-hidden flex items-center justify-center group-hover:border-[#c9a96e] transition-colors duration-500">
+                <img src="/images/Gmail/1000106388.png" alt="Musk" className="w-full h-full object-cover" />
               </div>
               <p className="label-caps text-[#f5f0eb] text-xs">Musk</p>
               <p className="text-xs text-[#8a7e6b] italic">Ethical Sources</p>
             </div>
             <div className="text-center space-y-3 group">
-              <div className="w-20 h-20 mx-auto border border-[#3d3630] rounded-full flex items-center justify-center group-hover:border-[#c9a96e] transition-colors duration-500">
-                <span className="text-2xl group-hover:scale-110 transition-transform duration-500">🌲</span>
+              <div className="w-20 h-20 mx-auto border border-[#3d3630] rounded-full overflow-hidden flex items-center justify-center group-hover:border-[#c9a96e] transition-colors duration-500">
+                <img src="/images/Gmail/1000106399.png" alt="Vetiver" className="w-full h-full object-cover" />
               </div>
               <p className="label-caps text-[#f5f0eb] text-xs">Vetiver</p>
               <p className="text-xs text-[#8a7e6b] italic">Haiti</p>
