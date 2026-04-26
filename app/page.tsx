@@ -104,13 +104,15 @@ export default function Home() {
 
       {/* ── Floating Quote ── */}
       <section className="py-20 md:py-32 px-4 md:px-16 max-w-4xl mx-auto text-center">
-        <RevealSection>
-          <img src="/images/Gmail/1000106367.png" alt="Quote decor" className="mx-auto w-48 h-48 object-cover rounded-md opacity-60 mb-6" />
-          <p className="text-2xl md:text-4xl font-serif font-light italic text-[#c9a96e]/80 leading-relaxed">
+        <RevealSection className="bg-[#141414] p-12 md:p-16 rounded-lg border border-[#3d3630]">
+          <div className="mb-8">
+            <img src="/images/Gmail/1000106367.png" alt="Quote decor" className="mx-auto w-40 h-40 object-cover rounded-full border-2 border-[#c9a96e]/30" />
+          </div>
+          <p className="text-2xl md:text-4xl font-serif font-light italic text-[#c9a96e]/80 leading-relaxed mb-8">
             "Luxury is not about price. It's about the feeling that a single drop of fragrance can carry a world."
           </p>
-          <div className="w-12 h-px bg-[#c9a96e] mx-auto mt-8"></div>
-          <p className="label-caps text-[#8a7e6b] mt-4">— The Atlas Philosophy</p>
+          <div className="w-12 h-px bg-[#c9a96e] mx-auto mb-4"></div>
+          <p className="label-caps text-[#8a7e6b] tracking-widest">— The Atlas Philosophy</p>
         </RevealSection>
       </section>
 
