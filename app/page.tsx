@@ -93,11 +93,11 @@ export default function Home() {
         
         {/* Mobile Menu Overlay */}
         <div 
-          className={`md:hidden fixed top-0 h-full w-80 bg-[#0a0a0a]/95 backdrop-blur-2xl border-l border-[#c9a96e]/20 z-50 overflow-hidden ${mobileMenuOpen ? 'translate-x-0' : 'translate-x-full'}`}
+          className="md:hidden fixed top-0 h-full w-80 bg-[#0a0a0a]/95 backdrop-blur-2xl border-l border-[#c9a96e]/20 z-50 overflow-hidden"
           style={{ 
-            transition: 'transform 0.4s cubic-bezier(0.23, 1, 0.32, 1)',
-            right: dir === 'rtl' ? 'auto' : '0',
-            left: dir === 'rtl' ? '0' : 'auto',
+            transition: 'all 0.4s cubic-bezier(0.23, 1, 0.32, 1)',
+            right: mobileMenuOpen ? '0' : '-100%',
+            opacity: mobileMenuOpen ? 1 : 0,
           }}
         >
           {/* Close button inside menu */}
@@ -148,7 +148,12 @@ export default function Home() {
         
         {/* Backdrop overlay when menu is open */}
         <div 
-          className={`md:hidden fixed inset-0 z-40 bg-black/60 backdrop-blur-sm transition-opacity duration-300 ${mobileMenuOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'}`}
+          className="md:hidden fixed inset-0 z-40 bg-black/60 backdrop-blur-sm"
+          style={{ 
+            transition: 'opacity 0.3s ease',
+            opacity: mobileMenuOpen ? 1 : 0,
+            pointerEvents: mobileMenuOpen ? 'auto' : 'none',
+          }}
           onClick={() => setMobileMenuOpen(false)}
         />
       </nav>
