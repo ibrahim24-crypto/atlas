@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import { TransitionProvider } from "@/components/page-transition";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -13,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "HORA & ESSENCE | Luxury Fragrances",
-  description: "Discover the world of HORA & ESSENCE, where 180 years of perfume craftsmanship meets contemporary luxury. Explore our exquisite collection of haute fragrance.",
+  title: "ATLAS MARAKECH | Luxury Fragrances",
+  description: "Discover ATLAS MARAKECH - modern luxury fragrances inspired by the spirit of Marrakech. Contemporary scents crafted for the bold and the refined.",
   icons: {
     icon: "/favicon.ico",
   },
@@ -30,7 +31,11 @@ export default function RootLayout({
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full flex flex-col">
+        <TransitionProvider>
+          {children}
+        </TransitionProvider>
+      </body>
     </html>
   );
 }
