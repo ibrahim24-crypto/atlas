@@ -82,7 +82,6 @@ export default function Home() {
           <source src="/product-video.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a0a]/70 via-[#0a0a0a]/80 to-[#0a0a0a]"></div>
-        <img src="/images/Gmail/1000106389.png" alt="Decor" className="hidden md:block absolute top-6 right-6 w-28 h-28 object-cover rounded-full opacity-70 z-20" />
         <div className="relative z-10 max-w-5xl mx-auto text-center space-y-6 md:space-y-8">
           <div className="label-caps text-[#c9a96e] tracking-[0.3em] mb-4 opacity-0 animate-fade-in" style={{ animationDelay: '0.8s', animationFillMode: 'forwards' }}>
             THE SPIRIT OF MARRAKECH
