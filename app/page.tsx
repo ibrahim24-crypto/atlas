@@ -82,6 +82,7 @@ export default function Home() {
           <source src="/product-video.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a0a]/70 via-[#0a0a0a]/80 to-[#0a0a0a]"></div>
+        <img src="/images/Gmail/1000106389.png" alt="Decor" className="hidden md:block absolute top-6 right-6 w-28 h-28 object-cover rounded-full opacity-70 z-20" />
         <div className="relative z-10 max-w-5xl mx-auto text-center space-y-6 md:space-y-8">
           <div className="label-caps text-[#c9a96e] tracking-[0.3em] mb-4 opacity-0 animate-fade-in" style={{ animationDelay: '0.8s', animationFillMode: 'forwards' }}>
             THE SPIRIT OF MARRAKECH
@@ -105,6 +106,7 @@ export default function Home() {
       {/* ── Floating Quote ── */}
       <section className="py-20 md:py-32 px-4 md:px-16 max-w-4xl mx-auto text-center">
         <RevealSection>
+          <img src="/images/Gmail/1000106367.png" alt="Quote decor" className="mx-auto w-48 h-48 object-cover rounded-md opacity-60 mb-6" />
           <p className="text-2xl md:text-4xl font-serif font-light italic text-[#c9a96e]/80 leading-relaxed">
             "Luxury is not about price. It's about the feeling that a single drop of fragrance can carry a world."
           </p>
@@ -195,11 +197,12 @@ export default function Home() {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-12">
             {[
-              { title: 'Bold Ingredients', description: 'Oud, saffron, amber—sourced from the finest suppliers across Morocco and beyond.' },
-              { title: 'Modern Craft', description: 'Contemporary perfumery techniques that push boundaries while respecting the art.' },
-              { title: 'Unapologetic Luxury', description: 'No pretense. Just exceptional fragrances that speak for themselves.' }
+              { title: 'Bold Ingredients', description: 'Oud, saffron, amber—sourced from the finest suppliers across Morocco and beyond.', img: '/images/Gmail/1000106373.png' },
+              { title: 'Modern Craft', description: 'Contemporary perfumery techniques that push boundaries while respecting the art.', img: '/images/Gmail/1000106388.png' },
+              { title: 'Unapologetic Luxury', description: 'No pretense. Just exceptional fragrances that speak for themselves.', img: '/images/Gmail/1000106399.png' }
             ].map((value, idx) => (
               <div key={idx} className="space-y-4 border-l border-[#3d3630] pl-6">
+                <img src={value.img} alt={value.title} className="w-12 h-12 rounded-full object-cover" />
                 <h3 className="text-xl md:text-2xl font-serif text-[#f5f0eb]">{value.title}</h3>
                 <p className="body-lg text-[#c4b8a8] text-sm md:text-base">{value.description}</p>
               </div>
@@ -218,6 +221,11 @@ export default function Home() {
             <p className="body-lg text-[#c4b8a8] max-w-2xl mx-auto text-base md:text-lg">
               Visit our atelier or book a private consultation. Discover the scent that defines you.
             </p>
+            <div className="flex justify-center gap-4 mt-6">
+              <img src="/images/Gmail/1000106361.png" alt="Atelier 1" className="hidden md:block w-40 h-24 object-cover rounded-md" />
+              <img src="/images/Gmail/1000106367.png" alt="Atelier 2" className="hidden md:block w-40 h-24 object-cover rounded-md" />
+              <img src="/images/Gmail/1000106373.png" alt="Atelier 3" className="hidden md:block w-40 h-24 object-cover rounded-md" />
+            </div>
             <div className="flex flex-col md:flex-row gap-4 md:gap-6 justify-center">
               <Link href="/atelier"><button className="btn-primary label-caps w-full md:w-auto">Visit Atelier</button></Link>
               <button className="btn-secondary label-caps w-full md:w-auto">Book Consultation</button>
