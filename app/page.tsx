@@ -104,7 +104,7 @@ export default function Home() {
 
       {/* ── Floating Quote ── */}
       <section className="py-20 md:py-32 px-4 md:px-16 max-w-4xl mx-auto text-center">
-        <RevealSection className="bg-[#141414] p-12 md:p-16 rounded-lg border border-[#3d3630]">
+        <div className="bg-[#141414] p-12 md:p-16 rounded-lg border border-[#3d3630]">
           <div className="mb-8">
             <img src="/images/Gmail/1000106367.png" alt="Quote decor" className="mx-auto w-40 h-40 object-cover rounded-full border-2 border-[#c9a96e]/30" />
           </div>
@@ -113,14 +113,14 @@ export default function Home() {
           </p>
           <div className="w-12 h-px bg-[#c9a96e] mx-auto mb-4"></div>
           <p className="label-caps text-[#8a7e6b] tracking-widest">— The Atlas Philosophy</p>
-        </RevealSection>
+        </div>
       </section>
 
       <SectionSeparator />
 
       {/* ── Ingredient Showcase ── */}
       <section className="py-20 md:py-40 px-4 md:px-16 bg-[#141414]">
-        <RevealSection>
+        <div>
           <div className="text-center mb-12 md:mb-20">
             <div className="label-caps text-[#c9a96e] mb-4 tracking-[0.3em]">RAW MATERIALS</div>
             <h2 className="text-3xl md:text-5xl font-serif font-light text-[#f5f0eb]">The Ingredients</h2>
@@ -186,14 +186,14 @@ export default function Home() {
               <p className="text-xs text-[#8a7e6b] italic">Haiti</p>
             </div>
           </div>
-        </RevealSection>
+        </div>
       </section>
 
       <SectionSeparator />
 
       {/* ── Fragrance Gallery ── */}
       <section className="py-20 md:py-40 px-4 md:px-16 max-w-7xl mx-auto">
-        <RevealSection>
+        <div>
           <div className="text-center mb-12 md:mb-20">
             <div className="label-caps text-[#c9a96e] mb-4 tracking-[0.3em]">CURATED SELECTION</div>
             <h2 className="text-3xl md:text-5xl font-serif font-light text-[#f5f0eb]">Essence Gallery</h2>
@@ -221,12 +221,12 @@ export default function Home() {
               <p className="body-md text-[#c4b8a8] text-sm">Earthy, grounding, authentically timeless.</p>
             </div>
           </div>
-        </RevealSection>
+        </div>
       </section>
 
       {/* ── Values ── */}
       <section className="py-20 md:py-40 px-4 md:px-16 max-w-7xl mx-auto">
-        <RevealSection>
+        <div>
           <div className="mb-12 md:mb-20">
             <div className="label-caps text-[#c9a96e] mb-4 tracking-[0.3em]">WHAT WE STAND FOR</div>
             <h2 className="text-3xl md:text-5xl font-serif font-light text-[#f5f0eb]">The Atlas Way</h2>
@@ -244,14 +244,14 @@ export default function Home() {
               </div>
             ))}
           </div>
-        </RevealSection>
+        </div>
       </section>
 
       <SectionSeparator />
 
       {/* ── CTA ── */}
       <section className="py-20 md:py-40 px-4 md:px-16 max-w-7xl mx-auto">
-        <RevealSection>
+        <div>
           <div className="text-center space-y-6 md:space-y-8">
             <h2 className="text-3xl md:text-5xl font-serif font-light text-[#f5f0eb]">Find Your Signature</h2>
             <p className="body-lg text-[#c4b8a8] max-w-2xl mx-auto text-base md:text-lg">
@@ -267,7 +267,7 @@ export default function Home() {
               <button className="btn-secondary label-caps w-full md:w-auto">Book Consultation</button>
             </div>
           </div>
-        </RevealSection>
+        </div>
       </section>
 
       {/* ── Footer ── */}
