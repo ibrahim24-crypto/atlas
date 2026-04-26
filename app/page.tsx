@@ -4,10 +4,12 @@ import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { useTransitionNavigation } from '@/components/page-transition';
 import { GrainOverlay, RevealSection, SectionSeparator, AnimatedHeroTitle, AmbientLight } from '@/components/vfx';
+import { useI18n } from '@/components/i18n';
 
 /* ── Main Page ── */
 export default function Home() {
   const { navigate } = useTransitionNavigation();
+  const { t, locale, setLocale, dir } = useI18n();
   const [isScrolled, setIsScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [ambientColor, setAmbientColor] = useState('#1a1a1a');
@@ -17,56 +19,96 @@ export default function Home() {
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
+
   const navItems = [
-    { name: 'Collections', href: '/collections' },
-    { name: 'Journal', href: '/journal' },
-    { name: 'Atelier', href: '/atelier' },
-    { name: 'About', href: '/heritage' },
+    { name: t('nav.collections'), href: '/collections' },
+    { name: t('nav.journal'), href: '/journal' },
+    { name: t('nav.atelier'), href: '/atelier' },
+    { name: t('nav.about'), href: '/heritage' },
   ];
 
+  const handleLocaleChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
+    setLocale(e.target.value as any);
+  };
+
   return (
-    <main className="bg-[#0a0a0a] text-[#f5f0eb] overflow-hidden relative">
+    <main className="bg-[#0a0a0a] text-[#f5f0eb] overflow-hidden relative" dir={dir}>
       {/* VFX Layers */}
       <GrainOverlay />
       <AmbientLight color={ambientColor} />
 
       {/* ── Navigation ── */}
       <nav className={`fixed top-0 w-full z-50 transition-all duration-300 nav-entrance ${isScrolled ? 'bg-[#0a0a0a]/90 backdrop-blur-md border-b border-[#3d3630]' : 'bg-transparent'}`}>
-        <div className="max-w-7xl mx-auto px-4 md:px-16 py-6 flex justify-between items-center">
-          <Link href="/">
-            <div className="text-lg md:text-xl font-light tracking-[0.3em] text-[#c9a96e]">ATLAS</div>
-          </Link>
-          <div className="hidden md:flex gap-12">
-            {navItems.map((item) => (
-              <button key={item.name} onClick={() => navigate(item.href)} className="menu-item label-caps text-[#f5f0eb] hover:text-[#c9a96e]">{item.name}</button>
+        <div className="max-w-7xl mx-auto px-4 md:px-16">
+          <div className="py-4 md:py-6 flex justify-between items-center relative">
+            {/* Hamburger Menu - Left */}
+            <button 
+              className="hamburger-btn p-2 rounded-lg hover:bg-[#c9a96e]/10 transition-colors"
+              onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+              title="Menu"
+            >
+              <svg className={`w-6 h-6 text-[#c9a96e] ${mobileMenuOpen ? 'rotate-90' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                {mobileMenuOpen ? (
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 18L18 6M6 6l12 12" />
+                ) : (
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 6h16M4 12h16M4 18h16" />
+                )}
+              </svg>
+            </button>
+            
+            {/* ATLAS Logo - Center */}
+            <Link href="/" className="absolute left-1/2 -translate-x-1/2">
+              <div className="text-lg md:text-xl font-light tracking-[0.3em] text-[#c9a96e]">ATLAS</div>
+            </Link>
+            
+            {/* Language Selector - Right */}
+            <select 
+              value={locale} 
+              onChange={handleLocaleChange}
+              className="text-xs md:text-sm label-caps bg-transparent border border-[#c9a96e]/30 rounded-lg px-2 md:px-3 py-2 text-[#c9a96e] hover:border-[#c9a96e] transition-colors cursor-pointer"
+            >
+              <option value="en">EN</option>
+              <option value="ar">AR</option>
+              <option value="fr">FR</option>
+              <option value="es">ES</option>
+              <option value="ja">JP</option>
+            </select>
+          </div>
+
+          {/* Desktop Menu Tabs - Below Logo */}
+          <div className="hidden md:flex border-t border-[#3d3630]/50 gap-4 pb-0 justify-center">
+            {navItems.map((item, idx) => (
+              <button
+                key={item.name}
+                onClick={() => navigate(item.href)}
+                className="menu-item label-caps text-[#f5f0eb] hover:text-[#c9a96e] px-6 py-4 whitespace-nowrap flex-shrink-0 border-b-2 border-transparent hover:border-[#c9a96e] transition-all relative group"
+              >
+                {item.name}
+                <span className="absolute bottom-0 left-0 w-0 h-[2px] bg-[#c9a96e] group-hover:w-full transition-all duration-500"></span>
+              </button>
             ))}
           </div>
-          <div className="hidden md:flex gap-6 text-[#c9a96e]">
-            <button className="hover:opacity-70 transition-opacity">
-              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg>
-            </button>
-            <button className="hover:opacity-70 transition-opacity">
-              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" /></svg>
-            </button>
-          </div>
-          <button onClick={() => setMobileMenuOpen(!mobileMenuOpen)} className="md:hidden text-[#c9a96e] text-xl">
-            {mobileMenuOpen ? (
-              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" /></svg>
-            ) : (
-              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" /></svg>
-            )}
-          </button>
         </div>
-        {mobileMenuOpen && (
-          <div className="md:hidden border-t border-[#3d3630] bg-[#0a0a0a]/95 backdrop-blur-md">
-            <div className="px-4 py-4 space-y-4">
-              {navItems.map((item) => (
-                <button key={item.name} onClick={() => { navigate(item.href); setMobileMenuOpen(false); }} className="block label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-colors py-2 text-left w-full">{item.name}</button>
-              ))}
-            </div>
+        <div className="divider max-w-7xl mx-auto hidden md:block"></div>
+        
+        {/* Mobile Menu Overlay */}
+        <div className={`mobile-menu-overlay md:hidden fixed top-[72px] left-0 right-0 bg-[#0a0a0a]/98 backdrop-blur-xl border-b border-[#3d3630] ${mobileMenuOpen ? 'block' : 'hidden'}`}>
+          <div className="flex flex-col py-4">
+            {navItems.map((item, idx) => (
+              <button
+                key={item.name}
+                onClick={() => {
+                  navigate(item.href);
+                  setMobileMenuOpen(false);
+                }}
+                className="mobile-menu-item label-caps text-[#f5f0eb] hover:text-[#c9a96e] px-6 py-4 text-left border-b border-[#3d3630]/30 hover:bg-[#c9a96e]/5 transition-all"
+                style={{ animationDelay: `${idx * 0.08 + 0.1}s` }}
+              >
+                {item.name}
+              </button>
+            ))}
           </div>
-        )}
-        <div className="divider max-w-7xl mx-auto"></div>
+        </div>
       </nav>
 
       {/* ── Hero ── */}
