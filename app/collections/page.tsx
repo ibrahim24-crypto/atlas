@@ -117,11 +117,19 @@ export default function Collections() {
           {fragrances.map((fragrance, idx) => (
             <Link key={fragrance.id} href={`/product/${fragrance.id}`}>
               <div className="space-y-6 group cursor-pointer animate-fade-in-up" style={{ animationDelay: `${idx * 100}ms` }}>
-                <div className="aspect-square bg-gradient-to-br from-[#1a1a1a] to-[#141414] border border-[#3d3630] flex items-center justify-center overflow-hidden group-hover:border-[#c9a96e] transition-all duration-300">
-                  <div className="text-center text-[#8a7e6b] group-hover:text-[#c9a96e] transition-colors">
-                    <div className="text-4xl md:text-6xl mb-4 group-hover:scale-110 transition-transform">🧴</div>
-                    <p className="body-md text-xs md:text-sm">{fragrance.name}</p>
-                  </div>
+                <div className="aspect-square bg-gradient-to-br from-[#1a1a1a] to-[#141414] border border-[#3d3630] overflow-hidden group-hover:border-[#c9a96e] transition-all duration-300">
+                  <img 
+                    src={[
+                      '/images/Gmail/1000106365.png',
+                      '/images/Gmail/1000106389.png',
+                      '/images/Gmail/1000106399.png',
+                      '/images/Gmail/1000106356.png',
+                      '/images/Gmail/1000106361.png',
+                      '/images/Gmail/1000106367.png'
+                    ][idx % 6]} 
+                    alt={fragrance.name} 
+                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                  />
                 </div>
                 <div>
                   <div className="flex justify-between items-start mb-2">

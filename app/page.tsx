@@ -187,6 +187,41 @@ export default function Home() {
         </RevealSection>
       </section>
 
+      <SectionSeparator />
+
+      {/* ── Fragrance Gallery ── */}
+      <section className="py-20 md:py-40 px-4 md:px-16 max-w-7xl mx-auto">
+        <RevealSection>
+          <div className="text-center mb-12 md:mb-20">
+            <div className="label-caps text-[#c9a96e] mb-4 tracking-[0.3em]">CURATED SELECTION</div>
+            <h2 className="text-3xl md:text-5xl font-serif font-light text-[#f5f0eb]">Essence Gallery</h2>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12">
+            <div className="space-y-4">
+              <div className="aspect-square overflow-hidden rounded-lg">
+                <img src="/images/Gmail/1000106365.png" alt="Essence 1" className="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
+              </div>
+              <h3 className="text-xl font-serif text-[#f5f0eb]">Iris Mystique</h3>
+              <p className="body-md text-[#c4b8a8] text-sm">Delicate floralacy meets ancient mystery.</p>
+            </div>
+            <div className="space-y-4">
+              <div className="aspect-square overflow-hidden rounded-lg">
+                <img src="/images/Gmail/1000106389.png" alt="Essence 2" className="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
+              </div>
+              <h3 className="text-xl font-serif text-[#f5f0eb]">Amber Dream</h3>
+              <p className="body-md text-[#c4b8a8] text-sm">Warm, enveloping, eternally sophisticated.</p>
+            </div>
+            <div className="space-y-4">
+              <div className="aspect-square overflow-hidden rounded-lg">
+                <img src="/images/Gmail/1000106399.png" alt="Essence 3" className="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
+              </div>
+              <h3 className="text-xl font-serif text-[#f5f0eb]">Vetiver Soul</h3>
+              <p className="body-md text-[#c4b8a8] text-sm">Earthy, grounding, authentically timeless.</p>
+            </div>
+          </div>
+        </RevealSection>
+      </section>
+
       {/* ── Values ── */}
       <section className="py-20 md:py-40 px-4 md:px-16 max-w-7xl mx-auto">
         <RevealSection>
