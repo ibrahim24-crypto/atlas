@@ -38,7 +38,7 @@ export default function Home() {
           </Link>
           <div className="hidden md:flex gap-12">
             {navItems.map((item) => (
-              <button key={item.name} onClick={() => navigate(item.href)} className="label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-colors">{item.name}</button>
+              <button key={item.name} onClick={() => navigate(item.href)} className="menu-item label-caps text-[#f5f0eb] hover:text-[#c9a96e]">{item.name}</button>
             ))}
           </div>
           <div className="hidden md:flex gap-6 text-[#c9a96e]">
