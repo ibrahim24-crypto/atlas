@@ -25,9 +25,6 @@ export default function Home() {
   }, []);
 
   const navItems = [
-    { name: 'Collections', href: '/collections' },
-    { name: 'Journal', href: '/journal' },
-    { name: 'Atelier', href: '/atelier' },
     { name: 'Heritage', href: '/heritage' },
   ];
 
