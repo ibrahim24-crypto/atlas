@@ -39,6 +39,18 @@ html::-webkit-scrollbar-thumb {
   display: none;
 }
 
+/* Hide scrollbars in menu panels */
+.menu-no-scroll {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.menu-no-scroll::-webkit-scrollbar {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
 :root {
   /* ATLAS MARAKECH - Modern Luxury Palette */
   --color-surface: #0a0a0a;
@@ -739,144 +751,148 @@ body {
   box-shadow: 0 0 30px rgba(201, 169, 110, 0.3);
 }
 
-/* Typography */
-.headline-xl {
-  font-family: 'Playfair Display', serif;
-  @apply text-5xl md:text-7xl font-light leading-tight tracking-tight;
+@layer components {
+  /* Typography */
+  .headline-xl {
+    font-family: 'Playfair Display', serif;
+    @apply text-5xl md:text-7xl font-light leading-tight tracking-tight;
+  }
+
+  .headline-lg {
+    font-family: 'Playfair Display', serif;
+    @apply text-3xl md:text-5xl font-light leading-tight;
+  }
+
+  .headline-md {
+    font-family: 'Playfair Display', serif;
+    @apply text-xl md:text-2xl font-normal leading-relaxed;
+  }
+
+  .body-lg {
+    @apply text-lg font-light leading-relaxed tracking-wide;
+  }
+
+  .body-md {
+    @apply text-base font-normal leading-relaxed;
+  }
+
+  .label-caps {
+    @apply text-xs font-medium uppercase tracking-[0.2em] leading-relaxed;
+  }
+
+  /* Social Icons */
+  .social-icon {
+    width: 18px;
+    height: 18px;
+    fill: currentColor;
+    flex-shrink: 0;
+  }
+
+  /* Buttons */
+  .btn-primary {
+    @apply px-8 py-3 bg-[#c9a96e]/90 text-[#0a0a0a] font-medium transition-all duration-300;
+    border-radius: 12px;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+  }
+
+  .btn-primary:hover {
+    @apply bg-[#dfc08a]/90;
+    backdrop-filter: blur(25px);
+    -webkit-backdrop-filter: blur(25px);
+    box-shadow: 0 8px 24px rgba(201, 169, 110, 0.25);
+  }
+
+  .btn-secondary {
+    @apply px-8 py-3 border border-[#c9a96e]/60 text-[#c9a96e] transition-all duration-300;
+    border-radius: 12px;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+  }
+
+  .btn-secondary:hover {
+    @apply bg-[#c9a96e]/90 text-[#0a0a0a];
+    backdrop-filter: blur(25px);
+    -webkit-backdrop-filter: blur(25px);
+    box-shadow: 0 8px 24px rgba(201, 169, 110, 0.25);
+  }
 }
 
-.headline-lg {
-  font-family: 'Playfair Display', serif;
-  @apply text-3xl md:text-5xl font-light leading-tight;
-}
-
-.headline-md {
-  font-family: 'Playfair Display', serif;
-  @apply text-xl md:text-2xl font-normal leading-relaxed;
-}
-
-.body-lg {
-  @apply text-lg font-light leading-relaxed tracking-wide;
-}
-
-.body-md {
-  @apply text-base font-normal leading-relaxed;
-}
-
-.label-caps {
-  @apply text-xs font-medium uppercase tracking-[0.2em] leading-relaxed;
-}
-
-/* Social Icons */
-.social-icon {
-  width: 18px;
-  height: 18px;
-  fill: currentColor;
-  flex-shrink: 0;
-}
-
-/* Buttons */
-.btn-primary {
-  @apply px-8 py-3 bg-[#c9a96e]/90 text-[#0a0a0a] font-medium transition-all duration-300;
-  border-radius: 12px;
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
-}
-
-.btn-primary:hover {
-  @apply bg-[#dfc08a]/90;
-  backdrop-filter: blur(25px);
-  -webkit-backdrop-filter: blur(25px);
-  box-shadow: 0 8px 24px rgba(201, 169, 110, 0.25);
-}
-
-.btn-secondary {
-  @apply px-8 py-3 border border-[#c9a96e]/60 text-[#c9a96e] transition-all duration-300;
-  border-radius: 12px;
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
-}
-
-.btn-secondary:hover {
-  @apply bg-[#c9a96e]/90 text-[#0a0a0a];
-  backdrop-filter: blur(25px);
-  -webkit-backdrop-filter: blur(25px);
-  box-shadow: 0 8px 24px rgba(201, 169, 110, 0.25);
-}
-
-/* Hero Buttons with Strong Blur */
-.hero-btn-primary {
-  padding: 12px 32px;
-  font-size: 0.75rem;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  width: 100%;
-  background: rgba(201, 169, 110, 0.85);
-  backdrop-filter: blur(30px);
-  -webkit-backdrop-filter: blur(30px);
-  color: #0a0a0a;
-  border: none;
-  border-radius: 12px;
-  transition: all 0.3s ease;
-  cursor: pointer;
-}
-
-@media (min-width: 768px) {
+@layer components {
+  /* Hero Buttons with Strong Blur */
   .hero-btn-primary {
-    width: auto;
+    padding: 12px 32px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    width: 100%;
+    background: rgba(201, 169, 110, 0.85);
+    backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(30px);
+    color: #0a0a0a;
+    border: none;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+    cursor: pointer;
   }
-}
 
-.hero-btn-primary:hover {
-  background: rgba(223, 192, 138, 0.95);
-  backdrop-filter: blur(35px);
-  -webkit-backdrop-filter: blur(35px);
-  box-shadow: 0 8px 32px rgba(201, 169, 110, 0.3);
-  transform: translateY(-2px);
-}
+  @media (min-width: 768px) {
+    .hero-btn-primary {
+      width: auto;
+    }
+  }
 
-.hero-btn-secondary {
-  padding: 12px 32px;
-  font-size: 0.75rem;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  width: 100%;
-  background: rgba(255, 255, 255, 0.03);
-  backdrop-filter: blur(30px);
-  -webkit-backdrop-filter: blur(30px);
-  border: 1px solid rgba(201, 169, 110, 0.5);
-  color: #c9a96e;
-  border-radius: 12px;
-  transition: all 0.3s ease;
-  cursor: pointer;
-}
+  .hero-btn-primary:hover {
+    background: rgba(223, 192, 138, 0.95);
+    backdrop-filter: blur(35px);
+    -webkit-backdrop-filter: blur(35px);
+    box-shadow: 0 8px 32px rgba(201, 169, 110, 0.3);
+    transform: translateY(-2px);
+  }
 
-@media (min-width: 768px) {
   .hero-btn-secondary {
-    width: auto;
+    padding: 12px 32px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(30px);
+    border: 1px solid rgba(201, 169, 110, 0.5);
+    color: #c9a96e;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+    cursor: pointer;
   }
-}
 
-.hero-btn-secondary:hover {
-  background: rgba(201, 169, 110, 0.15);
-  backdrop-filter: blur(35px);
-  -webkit-backdrop-filter: blur(35px);
-  border-color: #c9a96e;
-  box-shadow: 0 8px 32px rgba(201, 169, 110, 0.2);
-  transform: translateY(-2px);
-}
+  @media (min-width: 768px) {
+    .hero-btn-secondary {
+      width: auto;
+    }
+  }
 
-/* Dividers */
-.divider {
-  @apply h-px bg-[#3d3630];
-}
+  .hero-btn-secondary:hover {
+    background: rgba(201, 169, 110, 0.15);
+    backdrop-filter: blur(35px);
+    -webkit-backdrop-filter: blur(35px);
+    border-color: #c9a96e;
+    box-shadow: 0 8px 32px rgba(201, 169, 110, 0.2);
+    transform: translateY(-2px);
+  }
 
-.divider-gold {
-  @apply h-px bg-[#c9a96e];
+  /* Dividers */
+  .divider {
+    @apply h-px bg-[#3d3630];
+  }
+
+  .divider-gold {
+    @apply h-px bg-[#c9a96e];
+  }
 }
 
 /* Animations */

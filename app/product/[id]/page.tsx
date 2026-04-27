@@ -3,8 +3,9 @@
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import { useState } from 'react';
-import { products, socialAccounts } from '@/lib/data';
+import { products, socialAccounts, ingredients } from '@/lib/data';
 import { MobileMenu } from '@/components/mobile-menu';
+import { DesktopMenu } from '@/components/desktop-menu';
 import { SocialLink } from '@/components/social-links';
 
 export default function ProductDetail() {
@@ -49,6 +50,9 @@ export default function ProductDetail() {
       {/* Mobile Menu */}
       <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} activePath={`/product/${id}`} navItems={navItems} />
 
+      {/* Desktop Menu */}
+      <DesktopMenu isOpen={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} navItems={navItems} />
+
       {/* Product Hero */}
       <section className="pt-24 md:pt-32 pb-12 md:pb-20 px-4 md:px-16 max-w-7xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-16 items-start">
@@ -92,34 +96,94 @@ export default function ProductDetail() {
         </div>
       </section>
 
-      {/* Olfactory Profile */}
+      {/* Olfactory Profile with Ingredient Images */}
       <section className="py-12 md:py-20 px-4 md:px-16 bg-[#141414] border-y border-[#3d3630]">
         <div className="max-w-7xl mx-auto">
           <h2 className="text-2xl md:text-4xl font-serif text-[#f5f0eb] mb-8 md:mb-12">Olfactory Profile</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12">
+            {/* Top Notes */}
             <div className="space-y-4">
-              <p className="label-caps text-[#c9a96e] mb-4">TOP NOTES</p>
-              <ul className="space-y-2">
-                {product.topNotes.map((note: string, idx: number) => (
-                  <li key={idx} className="body-md text-[#c4b8a8]">• {note}</li>
-                ))}
-              </ul>
+              <p className="label-caps text-[#c9a96e] mb-6">TOP NOTES</p>
+              <div className="space-y-3">
+                {product.topNotes.map((note: string, idx: number) => {
+                  const ingredient = ingredients.find((ing: any) => ing.name === note);
+                  return (
+                    <div
+                      key={idx}
+                      className="group relative cursor-pointer overflow-hidden rounded-lg transition-all duration-300"
+                    >
+                      <div className="bg-[#1a1a1a] border border-[#3d3630] p-4 rounded-lg transition-all duration-300 group-hover:border-[#c9a96e] group-hover:shadow-lg group-hover:shadow-[#c9a96e]/10">
+                        <p className="body-md text-[#c4b8a8] group-hover:text-[#c9a96e] transition-colors">{note}</p>
+                      </div>
+                      {ingredient && (
+                        <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none">
+                          <img
+                            src={ingredient.image}
+                            alt={ingredient.name}
+                            className="w-full h-full object-cover absolute top-0 left-0 opacity-20"
+                          />
+                        </div>
+                      )}
+                    </div>
+                  );
+                })}
+              </div>
             </div>
+            {/* Heart Notes */}
             <div className="space-y-4">
-              <p className="label-caps text-[#c9a96e] mb-4">HEART NOTES</p>
-              <ul className="space-y-2">
-                {product.heartNotes.map((note: string, idx: number) => (
-                  <li key={idx} className="body-md text-[#c4b8a8]">• {note}</li>
-                ))}
-              </ul>
+              <p className="label-caps text-[#c9a96e] mb-6">HEART NOTES</p>
+              <div className="space-y-3">
+                {product.heartNotes.map((note: string, idx: number) => {
+                  const ingredient = ingredients.find((ing: any) => ing.name === note);
+                  return (
+                    <div
+                      key={idx}
+                      className="group relative cursor-pointer overflow-hidden rounded-lg transition-all duration-300"
+                    >
+                      <div className="bg-[#1a1a1a] border border-[#3d3630] p-4 rounded-lg transition-all duration-300 group-hover:border-[#c9a96e] group-hover:shadow-lg group-hover:shadow-[#c9a96e]/10">
+                        <p className="body-md text-[#c4b8a8] group-hover:text-[#c9a96e] transition-colors">{note}</p>
+                      </div>
+                      {ingredient && (
+                        <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none">
+                          <img
+                            src={ingredient.image}
+                            alt={ingredient.name}
+                            className="w-full h-full object-cover absolute top-0 left-0 opacity-20"
+                          />
+                        </div>
+                      )}
+                    </div>
+                  );
+                })}
+              </div>
             </div>
+            {/* Base Notes */}
             <div className="space-y-4">
-              <p className="label-caps text-[#c9a96e] mb-4">BASE NOTES</p>
-              <ul className="space-y-2">
-                {product.baseNotes.map((note: string, idx: number) => (
-                  <li key={idx} className="body-md text-[#c4b8a8]">• {note}</li>
-                ))}
-              </ul>
+              <p className="label-caps text-[#c9a96e] mb-6">BASE NOTES</p>
+              <div className="space-y-3">
+                {product.baseNotes.map((note: string, idx: number) => {
+                  const ingredient = ingredients.find((ing: any) => ing.name === note);
+                  return (
+                    <div
+                      key={idx}
+                      className="group relative cursor-pointer overflow-hidden rounded-lg transition-all duration-300"
+                    >
+                      <div className="bg-[#1a1a1a] border border-[#3d3630] p-4 rounded-lg transition-all duration-300 group-hover:border-[#c9a96e] group-hover:shadow-lg group-hover:shadow-[#c9a96e]/10">
+                        <p className="body-md text-[#c4b8a8] group-hover:text-[#c9a96e] transition-colors">{note}</p>
+                      </div>
+                      {ingredient && (
+                        <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none">
+                          <img
+                            src={ingredient.image}
+                            alt={ingredient.name}
+                            className="w-full h-full object-cover absolute top-0 left-0 opacity-20"
+                          />
+                        </div>
+                      )}
+                    </div>
+                  );
+                })}
+              </div>
             </div>
           </div>
         </div>

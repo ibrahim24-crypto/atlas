@@ -6,6 +6,7 @@ import { useTransitionNavigation } from '@/components/page-transition';
 import { GrainOverlay, RevealSection, SectionSeparator, AnimatedHeroTitle, AmbientLight } from '@/components/vfx';
 import { useI18n } from '@/components/i18n';
 import { MobileMenu } from '@/components/mobile-menu';
+import { DesktopMenu } from '@/components/desktop-menu';
 import { ingredients, socialAccounts } from '@/lib/data';
 import { SocialLink } from '@/components/social-links';
 
@@ -85,6 +86,9 @@ export default function Home() {
         
         {/* Mobile Menu */}
         <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} activePath="/" navItems={navItems} />
+
+        {/* Desktop Menu */}
+        <DesktopMenu isOpen={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} navItems={navItems} />
       </nav>
 
       {/* ── Hero ── */}

@@ -1,0 +1,3853 @@
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ >  adding hover to ingredients in down of products and replace the emoji by    
+    picture in single product page menu need to be vertical and tabs in menu    
+    and social accounts in it and also adding threads and youtube in social and 
+     the menu should be dynamic use @profesioal websites folder u can use       
+    richard mille as base                                                       
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+✕  [API Error: SSE message timeout: no data for 60s]
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ >  /login                                                                      
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ >  adding hover to ingredients in down of products and replace the emoji by    
+    picture in single product page menu need to be vertical and tabs in menu    
+    and social accounts in it and also adding threads and youtube in social and 
+     the menu should be dynamic use @profesioal websites folder u can use       
+    richard mille as base                                                       
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+✕  [API Error: SSE message timeout: no data for 60s]
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ >  /login                                                                      
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ >  adding hover to ingredients in down of products and replace the emoji by    
+    picture in single product page menu need to be vertical and tabs in menu    
+    and social accounts in it and also adding threads and youtube in social and 
+     the menu should be dynamic use @profesioal websites folder u can use       
+    richard mille as base                                                       
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+ Thinking... 
+ │ I need to first explore the project structure and read the reference website 
+ │ to understand what changes are needed before implementing them.
+ ▪ I'll start by exploring the project structure and the Richard Mille reference
+    to understand the current codebase and the design direction.
+  ✓  Agent {"description":"Explore project structure","prompt":"Explore thi…
+     Subagent  Explore  completed.
+
+     ✓  Glob '*'
+        Found 100 matching file(s)
+     ✓  Glob '**/*'
+        Found 100 matching file(s)
+     ✓  Glob '*.*'
+        Found 100 matching file(s)
+     ✓  Glob 'app/**/*'
+        Found 12 matching file(s)
+     ✓  Glob 'components/**/*'
+        Found 3 matching file(s)
+     ✓  Glob 'lib/**/*'
+        No files found
+     ✓  Glob 'data/**/*'
+        No files found
+     ✓  Glob 'public/**/*'
+        Found 16 matching file(s)
+     ✓  Read package.json
+     ✓  Read README.md
+     ✓  Glob '*profesioal*'
+        No files found
+     ✓  Glob '*Richard*'
+        Found 1 matching file(s)
+     ✓  Glob '**/*richard*'
+        No files found
+     ✓  Read app/layout.tsx
+     ✓  Read app/page.tsx
+     ✓  Read app/globals.css
+     ✓  Read app/product/[id]/page.tsx
+     ✓  Read app/collections/page.tsx
+     ✓  Read app/heritage/page.tsx
+     ✓  Read app/atelier/page.tsx
+     ✓  Read app/journal/page.tsx
+     ✓  Read components/vfx.tsx
+     ✓  Read components/page-transition.tsx
+     ✓  Read components/i18n.tsx
+     ✓  Read app/legal/privacy/page.tsx
+     ✓  Read app/legal/terms/page.tsx
+     ✓  Read app/legal/contact/page.tsx
+     ✓  Read tsconfig.json
+     ✓  Read postcss.config.mjs
+     ✓  Read eslint.config.mjs
+
+     Here is a thorough analysis of the ATLAS MARAKECH Next.js project:
+
+     ---
+
+     1. Overall Project Structure
+       1 /home/ibrahim/projects/atlas/
+       2 ├── app/                          # Next.js App Router
+       3 │   ├── layout.tsx                # Root layout with I18n + 
+         Transition providers
+       4 │   ├── globals.css               # All styling (Tailwind + custom 
+         CSS)
+       5 │   ├── page.tsx                  # Homepage (main landing)
+       6 │   ├── favicon.ico
+       7 │   ├── collections/page.tsx      # Product catalog page
+       8 │   ├── product/[id]/page.tsx     # Dynamic product detail page
+       9 │   ├── heritage/page.tsx         # About/brand story page
+      10 │   ├── atelier/page.tsx          # Store locations page
+      11 │   ├── journal/page.tsx          # Blog/articles page
+      12 │   └── legal/
+      13 │       ├── privacy/page.tsx
+      14 │       ├── terms/page.tsx
+      15 │       └── contact/page.tsx
+      16 ├── components/
+      17 │   ├── vfx.tsx                   # Visual effects (grain, cursor, 
+         parallax, reveals)
+      18 │   ├── page-transition.tsx       # Page slide transitions
+      19 │   └── i18n.tsx                  # Internationalization provider 
+         (en/ar/fr/es/ja)
+      20 ├── public/
+      21 │   ├── bg.png
+      22 │   ├── product-video.mp4
+      23 │   ├── images/Gmail/             # 9 ingredient/product images 
+         (1000106356.png etc.)
+      24 │   └── [default Next.js SVGs]
+      25 ├── package.json
+      26 ├── tsconfig.json
+      27 ├── postcss.config.mjs
+      28 └── eslint.config.mjs
+     No lib/ or data/ directories exist. There is no Tailwind config file
+     (tailwind.config.ts) -- the project uses Tailwind CSS v4 with inline
+     @theme directives in globals.css.
+
+     No separate "profesioal websites" or "Richard Mille" folder exists --
+     there is a single reference HTML file at the project root:
+     - /home/ibrahim/projects/atlas/profssional websites for basing/Richard 
+     Mille _ A racing machine on the wrist.html
+
+     ---
+
+     2. Components Related to Products, Pages, Menus, Navigation, and Social 
+     Links
+
+     Navigation
+
+     All navigation is hardcoded inline in each page file -- there is no
+     reusable <Navbar> or <Header> component. The navigation pattern is
+     duplicated across every page:
+
+     - Desktop nav: ATLAS logo (center), 4 menu items (Collections, Journal,
+     Atelier, Heritage), search + cart icon buttons
+     - Mobile nav: Hamburger button with slide-in overlay panel
+     - Home page (/home/ibrahim/projects/atlas/app/page.tsx): Has the most
+     elaborate nav with language selector dropdown, desktop tab bar below the
+      logo, and social links (Instagram, Twitter/X) inside the mobile menu
+
+     Nav items (defined in app/page.tsx lines 23-28, using i18n t() keys):
+      1 nav.collections -> /collections
+      2 nav.journal     -> /journal
+      3 nav.atelier     -> /atelier
+      4 nav.about       -> /heritage
+     Social Links
+
+     Social links are duplicated in every footer across all pages. The three
+     accounts are:
+     - Instagram: https://www.instagram.com/atlas_marakech/
+     - Facebook: https://www.facebook.com/profile.php?id=61589002400891
+     - X/Twitter: https://twitter.com/atlasmarakech
+
+     They appear in:
+     - app/page.tsx (footer + mobile menu) -- lines 370-381, 138-143
+     - app/product/[id]/page.tsx (footer) -- lines 252-263
+     - app/collections/page.tsx (footer) -- lines 165-176
+     - app/heritage/page.tsx (footer) -- lines 174-185
+     - app/atelier/page.tsx (footer) -- lines 153-164
+     - app/journal/page.tsx (footer) -- lines 127-138
+     - app/legal/*/page.tsx (footer)
+
+     Product Data
+
+     Products are hardcoded in two places:
+
+     app/collections/page.tsx (lines 11-60) -- 6 fragrances with id, name,
+     tagline, description, notes array, price:
+       - Celestial Meridian ($280), Obsidian Night ($240), Aurore Essence
+     ($260), Temporal Whisper ($320), Veiled Violet ($270), Nocturne ($300)
+     app/product/[id]/page.tsx (lines 12-97) -- Same 6 products with richer
+     data: topNotes, heartNotes, baseNotes, concentration, edition,
+     longevity, fullDescription
+
+     Ingredient Data
+
+     Ingredients are hardcoded inline on the homepage (app/page.tsx, lines
+     218-277) in two grid rows of 4:
+     - Row 1: Oud (Assam, India), Saffron (Khorasan, Iran), Amber (Baltic
+     Coast), Rose (Grasse, France)
+     - Row 2: Bergamot (Calabria, Italy), Iris (Tuscany, Italy), Musk
+     (Ethical Sources), Vetiver (Haiti)
+
+     Menu/Navigation Components
+
+     There are no dedicated menu components. Navigation is built inline in
+     each page using:
+     - useTransitionNavigation() from
+     /home/ibrahim/projects/atlas/components/page-transition.tsx for
+     client-side route transitions
+     - useI18n() from /home/ibrahim/projects/atlas/components/i18n.tsx for
+     translation keys
+
+     VFX Components (/home/ibrahim/projects/atlas/components/vfx.tsx)
+
+     - GrainOverlay -- SVG noise texture overlay
+     - CustomCursor -- Gold dot + ring custom cursor
+     - ParallaxTilt -- 3D mouse-follow tilt container
+     - FluidShutter -- Circular clip-path transition
+     - AmbientLight -- Radial gradient background light
+     - CollectionScrubber -- Horizontal scrollable collection selector
+     (partially implemented)
+     - RevealSection -- Intersection Observer-based clip-path reveal
+     - SectionSeparator -- Animated gold line divider
+     - AnimatedHeroTitle -- Letter-by-letter title animation
+
+     Page Transition 
+     (/home/ibrahim/projects/atlas/components/page-transition.tsx)
+
+     - TransitionProvider -- Wraps app, provides navigate() function with
+     directional slide animations
+     - Nav order: ['/', '/collections', '/journal', '/atelier', '/heritage']
+
+     I18n (/home/ibrahim/projects/atlas/components/i18n.tsx)
+
+     - Supports: en, ar, fr, es, ja
+     - Arabic triggers RTL (dir="rtl")
+     - Translations are expected from /locales/{locale}.json but no locale
+     files exist yet
+     - Translation objects are currently empty
+
+     ---
+
+     3. Current Styling Approach
+
+     Tailwind CSS v4 is used with no separate config file. All theming is
+     done via @theme inline in globals.css.
+
+     /home/ibrahim/projects/atlas/app/globals.css (1183 lines):
+
+     Color Palette (CSS custom properties in :root)
+     ┌────────────────────────────┬────────────────┐
+     │ Variable                   │ Value          │
+     ├────────────────────────────┼────────────────┤
+     │ --color-surface            │ #0a0a0a        │
+     │ --color-surface-container  │ #141414        │
+     │ --color-surface-elevated   │ #1a1a1a        │
+     │ --color-on-surface         │ #f5f0eb        │
+     │ --color-on-surface-variant │ #c4b8a8        │
+     │ --color-outline            │ #8a7e6b        │
+     │ --color-outline-variant    │ #3d3630        │
+     │ --color-primary            │ #c9a96e (gold) │
+     │ --color-primary-light      │ #dfc08a        │
+     │ --color-on-primary         │ #1a1408        │
+     └────────────────────────────┴────────────────┘
+     Fonts
+
+     - Google Fonts import: Playfair Display (serif) + Inter (sans-serif)
+     - Tailwind @theme inline: --font-sans: 'Inter', --font-serif: 'Playfair 
+     Display'
+     - Next.js fonts in layout.tsx: Geist + Geist_Mono (loaded but not
+     actively used in CSS classes)
+
+     Typography Utility Classes
+
+     - .headline-xl, .headline-lg, .headline-md (Playfair Display serif)
+     - .body-lg, .body-md (Inter sans)
+     - .label-caps -- 0.75rem, 500 weight, 0.2em letter-spacing, uppercase
+
+     Button Classes
+
+     - .btn-primary / .btn-secondary -- gold buttons with blur backdrop
+     - .hero-btn-primary / .hero-btn-secondary -- hero-specific variants
+     - .product-btn-primary -- slide-fill gold button
+
+     Animations (extensive)
+
+     - Grain overlay, mouse-follow light, nav entrance, menu item stagger,
+     hamburger rotation
+     - Letter-by-letter hero animation, clip-path reveal, parallax image
+     scale
+     - Glass card, section separator, custom cursor, fluid shutter
+     - Content exit/enter, bottle scale, ambient light, 3D parallax tilt
+     - Scrubber, shimmer text, product glow, rotating conic border
+     - Page slide transitions (left/right directional)
+     - FadeIn, slideIn, scaleIn keyframes
+
+     ---
+
+     4. Existing Data Files
+
+     There are no dedicated data files. All data is hardcoded inline:
+     ┌───────────────────┬───────────────────────────────────────────────┐
+     │ Data Type         │ Location                                      │
+     ├───────────────────┼───────────────────────────────────────────────┤
+     │ Products (list    │ app/collections/page.tsx lines 11-60          │
+     │ view)             │                                               │
+     │ Products (detail  │ app/product/[id]/page.tsx lines 12-97         │
+     │ view)             │                                               │
+     │ Ingredients       │ app/page.tsx lines 218-277                    │
+     │ Nav items         │ app/page.tsx lines 23-28; repeated in each    │
+     │                   │ page                                          │
+     │ Atelier locations │ app/atelier/page.tsx lines 11-40 (Geneva,     │
+     │                   │ Paris, Tokyo, Dubai)                          │
+     │ Journal articles  │ app/journal/page.tsx lines 11-40 (4 articles) │
+     │ Social accounts   │ Duplicated in every page footer               │
+     │ Values (Atlas     │ app/page.tsx lines 324-327                    │
+     │ Way)              │                                               │
+     │ Fragrance gallery │ app/page.tsx lines 290-313                    │
+     └───────────────────┴───────────────────────────────────────────────┘
+     Images: 9 PNG files in public/images/Gmail/ used for ingredients,
+     gallery items, and values sections.
+
+     Video: public/product-video.mp4 used as hero background.
+
+     ---
+
+     5. Reference File
+
+     Found at:
+     /home/ibrahim/projects/atlas/profssional websites for basing/Richard 
+     Mille _ A racing machine on the wrist.html
+
+     This is a single HTML file (note: "profssional" is misspelled in the
+     filename). It is not a folder -- it appears to be a saved webpage of the
+      Richard Mille website, likely used as a design reference for the luxury
+      aesthetic.
+
+     ---
+
+     Key Observations
+
+     1. Heavy duplication: Navigation, footer, and social links are
+     copy-pasted across all 10 page files with no shared components.
+     2. No data layer: Everything is hardcoded in-page. No lib/, data/, or
+     API routes exist.
+     3. All 'use client': Every page component is a client component -- no
+     server-side rendering optimization.
+     4. Tailwind v4: Uses the new v4 approach with @theme inline in CSS
+     instead of a config file.
+     5. Rich VFX system: The vfx.tsx and globals.css have an extensive
+     animation/effect library that is partially utilized.
+     6. i18n scaffolding exists but is empty: The translation system is set
+     up but no locale JSON files or translation strings are populated.
+     7. Inconsistent footer taglines: Some pages say "The Spirit of
+     Marrakech", others say "L'Art de Precision", and some say "Luxury
+     fragrances since 1842" -- contradictory brand messaging.
+  ✓  Glob('**/richard*')
+     → No files found
+
+        **/richard*
+
+  ✓  Glob('**/profesioal*/**')
+     → No files found
+
+        **/profesioal*/**
+
+
+ Thinking... 
+ │ Now I need to read the actual content of the reference file, product page, 
+ │ and home page to understand the current implementation and design inspiration
+ │  before implementing the changes.
+ ▪ Let me read the key files to understand the current implementation.
+  ✓  Read(/home/ibrahim/pr...n the wrist.html)
+  ✓  Read(/home/.../app/product/[id]/page.tsx)
+  ✓  Read(/home/.../atlas/app/page.tsx)
+
+ Thinking... 
+ │ I have gathered all the necessary context about the project structure, 
+ │ current implementation, and design reference, so I should now create a 
+ │ structured todo list to organize the multiple tasks requested by the user.
+ ▪ Now let me read the globals.css and other page files to understand the full
+   picture.
+  ✓  TodoWrite Set 6 todo(s)
+
+ Thinking... 
+ │ Let me read the remaining page files to understand the full scope of 
+ │ navigation patterns before implementing changes.
+
+  ✓  Read(/home/.../app/collections/page.tsx)
+  ✓  Read(/home/.../app/heritage/page.tsx)
+  ✓  Read(/home/.../app/atelier/page.tsx)
+  ✓  Read(/home/.../app/journal/page.tsx)
+
+ Thinking... 
+ │ Now I have a complete picture of the codebase and can start implementing - 
+ │ first creating the centralized data file with products, ingredients, menu 
+ │ items, and social accounts.
+ ▪ Now I have a complete picture. Let me start implementing all the changes.
+   I'll create the data file first, then the shared components, and finally
+   update all pages.
+  ✓  TodoWrite Set 6 todo(s)
+
+ Thinking... 
+ │ Now I'll create the centralized data file containing all products, 
+ │ ingredients, social accounts, and menu items.
+
+  ✓  Write(/home/.../atlas/lib/data.ts)
+     → Accepted (+151, -0)
+
+         1 export const products = [
+         2   {
+         3     id: '1',
+         4     name: 'Celestial Meridian',
+         5     tagline: 'Series 01 // Limited Edition',
+         6     price: '$280',
+         7     year: '2024',
+         8     description: 'A masterwork of olfactory cartography. This com
+           position features a tourbillon of bergamot, amber, and precious o
+           ud, encased in hand-blown obsidian glass.',
+         9     fullDescription: 'The Celestial Meridian represents the pinna
+           cle of our artisanal process. Over 400 hours of meticulous crafti
+           ng go into each bottle—from the hand-blown glass to the careful l
+           ayering of each olfactory note. This is a fragrance designed to b
+           e discovered anew with each wearing.',
+        10     image: '/images/Gmail/1000106365.png',
+        11     topNotes: ['Bergamot', 'Pink Pepper', 'Saffron'],
+        12     heartNotes: ['Oud', 'Rose Absolute', 'Jasmine'],
+        13     baseNotes: ['Amber', 'Sandalwood', 'Vetiver'],
+        14     concentration: 'Eau de Parfum 50ml',
+        15     edition: '08 / 10',
+        16     longevity: '12+ Hours'
+        17   },
+        18   {
+        19     id: '2',
+        20     name: 'Obsidian Night',
+        21     tagline: 'Signature Series',
+        22     price: '$240',
+        23     year: '2023',
+        24     description: 'Deep, mysterious notes of midnight iris and vet
+           iver. Where darkness becomes allure.',
+        25     fullDescription: 'A meditation on the elegance of shadow. The
+            Obsidian Night captures the essence of twilight—that moment when
+            day surrenders to night. It is a fragrance for those who underst
+           and that true luxury whispers rather than shouts.',
+        26     image: '/images/Gmail/1000106389.png',
+        27     topNotes: ['Cardamom', 'Bergamot', 'Black Pepper'],
+        28     heartNotes: ['Iris', 'Violet Leaf', 'Geranium'],
+        29     baseNotes: ['Vetiver', 'Musk', 'Patchouli'],
+        30     concentration: 'Eau de Parfum 50ml',
+        31     edition: 'Open Edition',
+        32     longevity: '10+ Hours'
+        33   },
+        34   {
+        35     id: '3',
+        36     name: 'Aurore Essence',
+        37     tagline: 'Heritage Collection',
+        38     price: '$260',
+        39     year: '2022',
+        40     description: 'Luminous citrus and white florals unite in a ce
+           lebration of dawn. Inspired by the first light over the Swiss Alp
+           s.',
+        41     fullDescription: 'Aurore Essence captures the golden moment w
+           hen dawn breaks over the Alpine horizon. This fragrance is a test
+           ament to the power of light—how it transforms, how it reveals, ho
+           w it inspires. Each note is a ray of morning sun.',
+        42     image: '/images/Gmail/1000106399.png',
+        43     topNotes: ['Lemon', 'Neroli', 'Bergamot'],
+        44     heartNotes: ['Jasmine', 'White Rose', 'Lily of the Valley'],
+        45     baseNotes: ['White Musk', 'Cedar', 'Blonde Amber'],
+        46     concentration: 'Eau de Parfum 50ml',
+        47     edition: 'Open Edition',
+        48     longevity: '8+ Hours'
+        49   },
+        50   {
+        51     id: '4',
+        52     name: 'Temporal Whisper',
+        53     tagline: 'Exclusive Release',
+        54     price: '$320',
+        55     year: '2024',
+        56     description: 'Ephemeral saffron, sandalwood, and rose absolut
+           e converge in a meditation on the passage of time.',
+        57     fullDescription: 'Time leaves its mark on everything it touch
+           es. Temporal Whisper distills this truth into a fragrance that ev
+           olves on your skin—each hour revealing a new facet, a new emotion
+           , a new memory. This is a scent that tells the story of you.',
+        58     image: '/images/Gmail/1000106356.png',
+        59     topNotes: ['Saffron', 'Pink Pepper', 'Elemi'],
+        60     heartNotes: ['Rose Absolute', 'Orris Butter', 'Ylang-Ylang'],
+        61     baseNotes: ['Sandalwood', 'Ambergris', 'Cashmeran'],
+        62     concentration: 'Extrait de Parfum 50ml',
+        63     edition: '05 / 10',
+        64     longevity: '14+ Hours'
+        65   },
+        66   {
+        67     id: '5',
+        68     name: 'Veiled Violet',
+        69     tagline: 'New Arrival',
+        70     price: '$270',
+        71     year: '2025',
+        72     description: 'Sophisticated violets, iris root, and amber cre
+           ate a fragrance of quiet power and subtle grace.',
+        73     fullDescription: 'The violet has long been a symbol of modest
+           y and refinement. Veiled Violet takes this symbolism and transfor
+           ms it into an olfactory statement—quiet but unmistakable, delicat
+           e yet enduring. This is a fragrance for those who need no introdu
+           ction.',
+        74     image: '/images/Gmail/1000106361.png',
+        75     topNotes: ['Violet Leaf', 'Bergamot', 'Clary Sage'],
+        76     heartNotes: ['Iris Root', 'Violet', 'Heliotrope'],
+        77     baseNotes: ['Amber', 'Blond Woods', 'Soft Musk'],
+        78     concentration: 'Eau de Parfum 50ml',
+        79     edition: 'Open Edition',
+        80     longevity: '9+ Hours'
+        81   },
+        82   {
+        83     id: '6',
+        84     name: 'Nocturne',
+        85     tagline: 'Master Series',
+        86     price: '$300',
+        87     year: '2024',
+        88     description: 'Midnight serenity expressed through rich leathe
+           r, aged tobacco, and vanilla. A nocturnal masterpiece.',
+        89     fullDescription: 'Nocturne is an ode to the hours between dus
+           k and dawn. It draws inspiration from the nocturnal rituals of ma
+           ster perfumers past—those who knew that the most profound fragran
+           ces reveal themselves in darkness. Each wearing is a private perf
+           ormance.',
+        90     image: '/images/Gmail/1000106367.png',
+        91     topNotes: ['Tobacco Leaf', 'Cinnamon', 'Black Currant'],
+        92     heartNotes: ['Leather', 'Oud', 'Rose'],
+        93     baseNotes: ['Vanilla', 'Tonka Bean', 'Benzoin'],
+        94     concentration: 'Eau de Parfum 50ml',
+        95     edition: '03 / 10',
+        96     longevity: '12+ Hours'
+        97   }
+        98 ];
+        99 
+       100 export const ingredients = [
+       101   { name: 'Oud', origin: 'Assam, India', image: '/images/Gmail/10
+           00106356.png', description: 'The king of fragrance woods' },
+       102   { name: 'Saffron', origin: 'Khorasan, Iran', image: '/images/Gm
+           ail/1000106367.png', description: 'The most precious spice on ear
+           th' },
+       103   { name: 'Amber', origin: 'Baltic Coast', image: '/images/Gmail/
+           1000106373.png', description: 'Fossilized warmth of ancient seas'
+            },
+       104   { name: 'Rose', origin: 'Grasse, France', image: '/images/Gmail
+           /1000106361.png', description: 'The queen of floral notes' },
+       105   { name: 'Bergamot', origin: 'Calabria, Italy', image: '/images/
+           Gmail/1000106391.png', description: 'The sunlit citrus spark' },
+       106   { name: 'Iris', origin: 'Tuscany, Italy', image: '/images/Gmail
+           /1000106365.png', description: 'Powdery elegance of the earth' },
+       107   { name: 'Musk', origin: 'Ethical Sources', image: '/images/Gmai
+           l/1000106388.png', description: 'The intimate skin-warm base' },
+       108   { name: 'Vetiver', origin: 'Haiti', image: '/images/Gmail/10001
+           06399.png', description: 'Earthy roots of sophistication' }
+       109 ];
+       110 
+       111 export const socialAccounts = [
+       112   {
+       113     name: 'Instagram',
+       114     url: 'https://www.instagram.com/atlas_marakech/',
+       115     icon: 'instagram'
+       116   },
+       117   {
+       118     name: 'Facebook',
+       119     url: 'https://www.facebook.com/profile.php?id=61589002400891'
+           ,
+       120     icon: 'facebook'
+       121   },
+       122   {
+       123     name: 'X',
+       124     url: 'https://twitter.com/atlasmarakech',
+       125     icon: 'x'
+       126   },
+       127   {
+       128     name: 'Threads',
+       129     url: 'https://www.threads.net/@atlas_marakech',
+       130     icon: 'threads'
+       131   },
+       132   {
+       133     name: 'YouTube',
+       134     url: 'https://www.youtube.com/@atlasmarrakech',
+       135     icon: 'youtube'
+       136   }
+       137 ];
+       138 
+       139 export const menuItems = [
+       140   { name: 'Collections', href: '/collections' },
+       141   { name: 'Journal', href: '/journal' },
+       142   { name: 'Atelier', href: '/atelier' },
+       143   { name: 'Heritage', href: '/heritage' },
+       144 ];
+       145 
+       146 export const menuTabs = [
+       147   { label: 'Discover', items: ['The Brand', 'Our Philosophy', 'Ma
+           rrakech Inspiration'] },
+       148   { label: 'Collection', items: ['All Fragrances', 'Limited Editi
+           ons', 'Archive'] },
+       149   { label: 'Experience', items: ['Atelier Visits', 'Consultations
+           ', 'Events'] },
+       150   { label: 'Journal', items: ['Latest Stories', 'Interviews', 'In
+           gredient Deep Dives'] },
+       151 ];
+
+
+ Thinking... 
+ │ Now I need to create the shared components for social icons and the dynamic 
+ │ menu that will be reused across all pages.
+ ▪ Now let me create the shared components:
+  ✓  Write(/home/.../social-links.tsx)
+     → Accepted (+78, -0)
+
+        1 import Link from 'next/link';
+        2 
+        3 const icons: Record<string, React.ReactNode> = {
+        4   instagram: (
+        5     <svg viewBox="0 0 24 24" fill="currentColor">
+        6       <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771
+           1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.58
+          4-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07
+          -4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-
+          4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149
+          -3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0
+          -2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.
+          059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.35
+          8 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668
+          -.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.68
+          9.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.
+          979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2
+          .759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0
+          -3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.2
+          09 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 
+          0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.43
+          9-1.44s-.644-1.44-1.439-1.44z"/>
+        7     </svg>
+        8   ),
+        9   facebook: (
+       10     <svg viewBox="0 0 24 24" fill="currentColor">
+       11       <path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.
+          192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4
+          .615v3.385z"/>
+       12     </svg>
+       13   ),
+       14   x: (
+       15     <svg viewBox="0 0 24 24" fill="currentColor">
+       16       <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5
+          .214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231z
+          m-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+       17     </svg>
+       18   ),
+       19   threads: (
+       20     <svg viewBox="0 0 24 24" fill="currentColor">
+       21       <path d="M12.186 24h-.007c-3.581-.024-6.334-1.205-8.184-3.50
+          9C2.35 18.44 1.5 15.586 1.472 12.01v-.017c.03-3.579.879-6.43 2.525
+          -8.482C5.845 1.205 8.6.024 12.18 0h.014c2.719.02 5.013.797 6.824 2
+          .312 1.965 1.64 2.99 3.98 3.043 6.951v.017c-.014 1.07-.185 2.078-.
+          509 3.007.887.516 1.485 1.19 1.78 2.015.314.883.327 1.9.039 3.033-
+          .327 1.29-.89 2.364-1.674 3.188-.81.85-1.835 1.456-3.043 1.8-.89.2
+          54-1.84.387-2.836.397zm-.194-20.67c-2.386.024-4.31.929-5.722 2.702
+          C4.92 7.72 4.24 9.987 4.216 12.993c.023 3.006.704 5.273 2.054 6.96
+           1.411 1.773 3.335 2.678 5.722 2.702 2.386-.024 4.31-.929 5.722-2.
+          702 1.35-1.687 2.031-3.954 2.054-6.96-.024-3.006-.704-5.273-2.054-
+          6.96-1.411-1.773-3.335-2.678-5.722-2.702zM12 18.39c-1.03 0-1.877-.
+          267-2.518-.795-.641-.528-.977-1.243-1.001-2.125h2.04c.024.528.215.
+          933.576 1.215.361.282.801.423 1.313.423.536 0 .963-.141 1.284-.423
+          .321-.282.492-.687.517-1.215h2.04c-.024.882-.36 1.597-1.001 2.125-
+          .641.528-1.488.795-2.518.795h-.732zm-3.518-5.436c-.024-.882.312-1.
+          597.953-2.125.641-.528 1.488-.795 2.518-.795 1.03 0 1.877.267 2.51
+          8.795.641.528.977 1.243 1.001 2.125h-2.04c-.024-.528-.215-.933-.57
+          6-1.215-.361-.282-.801-.423-1.313-.423-.536 0-.963.141-1.284.423-.
+          321.282-.492.687-.517 1.215h-2.04z"/>
+       22     </svg>
+       23   ),
+       24   youtube: (
+       25     <svg viewBox="0 0 24 24" fill="currentColor">
+       26       <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 
+          3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 
+          6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.
+          136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0
+           0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.
+          568V8.432L15.818 12l-6.273 3.568z"/>
+       27     </svg>
+       28   )
+       29 };
+       30 
+       31 interface SocialLinkProps {
+       32   name: string;
+       33   url: string;
+       34   icon: string;
+       35   variant?: 'footer' | 'menu';
+       36 }
+       37 
+       38 export function SocialLink({ name, url, icon, variant = 'footer' }
+          : SocialLinkProps) {
+       39   const iconEl = icons[icon] || null;
+       40 
+       41   if (variant === 'menu') {
+       42     return (
+       43       <a
+       44         href={url}
+       45         target="_blank"
+       46         rel="noopener noreferrer"
+       47         className="flex items-center gap-3 p-3 text-[#c4b8a8] hove
+          r:text-[#c9a96e] hover:bg-[#c9a96e]/5 transition-all duration-300 
+          rounded-lg group"
+       48       >
+       49         <span className="w-5 h-5 text-[#8a7e6b] group-hover:text-[
+          #c9a96e] transition-colors">
+       50           {iconEl}
+       51         </span>
+       52         <span className="text-sm">{name}</span>
+       53       </a>
+       54     );
+       55   }
+       56 
+       57   return (
+       58     <a
+       59       href={url}
+       60       target="_blank"
+       61       rel="noopener noreferrer"
+       62       className="flex items-center gap-2 text-[#c9a96e] hover:text
+          -[#f5f0eb] transition-colors"
+       63     >
+       64       <svg className="social-icon w-4 h-4" viewBox="0 0 24 24" xml
+          ns="http://www.w3.org/2000/svg">
+       65         {iconEl}
+       66       </svg>
+       67       <span className="body-md text-sm">{name}</span>
+       68     </a>
+       69   );
+       70 }
+       71 
+       72 export function SocialIcon({ icon, className = 'w-5 h-5' }: { icon
+          : string; className?: string }) {
+       73   return (
+       74     <span className={className}>
+       75       {icons[icon] || null}
+       76     </span>
+       77   );
+       78 }
+
+
+ Thinking... 
+ │ Now let me create the dynamic menu component inspired by Richard Mille's 
+ │ vertical sidebar navigation.
+ ▪ Now let me create the dynamic menu component inspired by Richard Mille's
+   vertical sidebar:
+  ✓  Write(/home/.../mobile-menu.tsx)
+     → Accepted (+149, -0)
+
+         1 'use client';
+         2 
+         3 import { useState } from 'react';
+         4 import Link from 'next/link';
+         5 import { useTransitionNavigation } from '@/components/page-transi
+           tion';
+         6 import { menuItems, menuTabs, socialAccounts } from '@/lib/data';
+         7 import { SocialLink } from '@/components/social-links';
+         8 
+         9 interface MobileMenuProps {
+        10   isOpen: boolean;
+        11   onClose: () => void;
+        12   activePath?: string;
+        13 }
+        14 
+        15 export function MobileMenu({ isOpen, onClose, activePath }: Mobil
+           eMenuProps) {
+        16   const { navigate } = useTransitionNavigation();
+        17   const [activeTab, setActiveTab] = useState(0);
+        18 
+        19   const handleNavigate = (href: string) => {
+        20     navigate(href);
+        21     onClose();
+        22   };
+        23 
+        24   return (
+        25     <>
+        26       {/* Menu Panel */}
+        27       <div
+        28         className="fixed top-0 right-0 h-full w-80 bg-[#0a0a0a]/9
+           8 backdrop-blur-2xl border-l border-[#c9a96e]/20 z-50 overflow-y-
+           auto"
+        29         style={{
+        30           transition: 'transform 0.4s cubic-bezier(0.23, 1, 0.32,
+            1), opacity 0.4s ease',
+        31           transform: isOpen ? 'translateX(0)' : 'translateX(100%)
+           ',
+        32           opacity: isOpen ? 1 : 0,
+        33         }}
+        34       >
+        35         {/* Close Button */}
+        36         <button
+        37           onClick={onClose}
+        38           className="absolute top-6 right-6 p-2 hover:bg-[#c9a96e
+           ]/10 rounded-lg transition-colors z-10"
+        39         >
+        40           <svg className="w-6 h-6 text-[#c9a96e]" fill="none" str
+           oke="currentColor" viewBox="0 0 24 24">
+        41             <path strokeLinecap="round" strokeLinejoin="round" st
+           rokeWidth={1.5} d="M6 18L18 6M6 6l12 12" />
+        42           </svg>
+        43         </button>
+        44 
+        45         {/* Logo */}
+        46         <div className="pt-8 px-6 pb-6">
+        47           <Link href="/" onClick={onClose}>
+        48             <div className="text-xl font-light tracking-[0.3em] t
+           ext-[#c9a96e]">ATLAS</div>
+        49           </Link>
+        50         </div>
+        51 
+        52         {/* Vertical Tabs */}
+        53         <div className="px-6">
+        54           <div className="flex flex-col gap-1 mb-6">
+        55             {menuTabs.map((tab, idx) => (
+        56               <button
+        57                 key={tab.label}
+        58                 onClick={() => setActiveTab(idx)}
+        59                 className={`text-left px-4 py-3 text-sm tracking-
+           widest transition-all duration-300 rounded-lg ${
+        60                   activeTab === idx
+        61                     ? 'text-[#c9a96e] bg-[#c9a96e]/10 border-l-2 
+           border-[#c9a96e]'
+        62                     : 'text-[#8a7e6b] hover:text-[#c4b8a8] hover:
+           bg-[#c9a96e]/5'
+        63                 }`}
+        64               >
+        65                 {tab.label}
+        66               </button>
+        67             ))}
+        68           </div>
+        69 
+        70           {/* Tab Content */}
+        71           <div className="pl-4 pb-8 border-l border-[#3d3630]/50"
+           >
+        72             {menuTabs[activeTab]?.items.map((item, idx) => (
+        73               <button
+        74                 key={item}
+        75                 onClick={() => {
+        76                   // Navigate to the corresponding section
+        77                   if (activeTab === 0) handleNavigate('/heritage'
+           );
+        78                   else if (activeTab === 1) handleNavigate('/coll
+           ections');
+        79                   else if (activeTab === 2) handleNavigate('/atel
+           ier');
+        80                   else handleNavigate('/journal');
+        81                 }}
+        82                 className="block w-full text-left py-3 text-[#c4b
+           8a8] hover:text-[#c9a96e] transition-colors text-sm"
+        83                 style={{
+        84                   transition: `all 0.3s ease ${idx * 0.05}s`
+        85                 }}
+        86               >
+        87                 {item}
+        88               </button>
+        89             ))}
+        90           </div>
+        91         </div>
+        92 
+        93         {/* Main Navigation */}
+        94         <div className="px-6 py-6 border-t border-[#3d3630]/50">
+        95           <p className="text-xs text-[#8a7e6b] tracking-widest mb
+           -4">NAVIGATION</p>
+        96           <div className="space-y-1">
+        97             {menuItems.map((item, idx) => (
+        98               <button
+        99                 key={item.name}
+       100                 onClick={() => handleNavigate(item.href)}
+       101                 className="block w-full text-left py-3 px-4 text-
+           [#f5f0eb] hover:text-[#c9a96e] hover:bg-[#c9a96e]/5 transition-al
+           l duration-300 rounded-lg tracking-widest text-sm"
+       102                 style={{
+       103                   opacity: isOpen ? 1 : 0,
+       104                   transform: isOpen ? 'translateX(0)' : 'translat
+           eX(20px)',
+       105                   transition: `all 0.4s cubic-bezier(0.23, 1, 0.3
+           2, 1) ${idx * 0.08 + 0.1}s`
+       106                 }}
+       107               >
+       108                 {item.name}
+       109               </button>
+       110             ))}
+       111           </div>
+       112         </div>
+       113 
+       114         {/* Social Accounts */}
+       115         <div className="px-6 py-6 border-t border-[#3d3630]/50">
+       116           <p className="text-xs text-[#8a7e6b] tracking-widest mb
+           -4">FOLLOW US</p>
+       117           <div className="space-y-1">
+       118             {socialAccounts.map((social, idx) => (
+       119               <SocialLink
+       120                 key={social.name}
+       121                 name={social.name}
+       122                 url={social.url}
+       123                 icon={social.icon}
+       124                 variant="menu"
+       125               />
+       126             ))}
+       127           </div>
+       128         </div>
+       129 
+       130         {/* Menu Footer */}
+       131         <div className="px-6 py-8 border-t border-[#3d3630]/50">
+       132           <p className="text-xs text-[#8a7e6b] tracking-widest">A
+           TLAS MARAKECH</p>
+       133           <p className="text-xs text-[#8a7e6b] mt-1">The Spirit o
+           f Marrakech</p>
+       134         </div>
+       135       </div>
+       136 
+       137       {/* Backdrop */}
+       138       <div
+       139         className="fixed inset-0 z-40 bg-black/60 backdrop-blur-s
+           m"
+       140         style={{
+       141           transition: 'opacity 0.3s ease',
+       142           opacity: isOpen ? 1 : 0,
+       143           pointerEvents: isOpen ? 'auto' : 'none',
+       144         }}
+       145         onClick={onClose}
+       146       />
+       147     </>
+       148   );
+       149 }
+
+
+ Thinking... 
+ │ I need to read the globals.css file to understand the current styling and fix
+ │  the label-caps error before continuing with the remaining tasks.
+ ▪ Now let me update the globals.css to fix the label-caps error and add
+   ingredient hover styles:
+  ✓  Read(/home/.../atlas/app/globals.css · lines 1-100)
+     → Read lines 1-100 of 1183
+
+        app/globals.css
+
+
+ Thinking... 
+ │ I need to find where label-caps is defined in the CSS to understand the build
+ │  error.
+  ✓  Grep('label-caps' within /home/.../atlas/app/globals.css)
+     → Found 0 matches
+
+ Thinking... 
+ │ Let me read the label-caps definition in globals.css to understand how it's 
+ │ currently defined and fix the build error.
+
+  ✓  Read(/home/.../atlas/app/globals.css · lines 761-790)
+     → Read lines 760-789 of 1183
+
+        app/globals.css
+
+
+ Thinking... 
+ │ I found the label-caps definition - it's missing @apply which causes the 
+ │ Tailwind v4 build error, so I need to fix it by converting to proper @apply 
+ │ syntax.
+ ▪ The label-caps class is defined but uses raw CSS properties instead of
+   @apply. The issue is that Tailwind v4 can't process it properly. Let me fix
+   it:
+  ✓  Edit(/home/.../atlas/app/globals.css)
+
+ Thinking... 
+ │ Now I need to add the ingredient hover tooltip styles to globals.css to 
+ │ complete the hover effects feature.
+ ▪ Now let me add the ingredient hover styles to globals.css and then update all
+    the pages. Let me add the hover effects:
+  ✓  Read(/home/.../atlas/app/globals.css · lines 1131-1180)
+     → Read lines 1130-1179 of 1179
+
+        app/globals.css
+
+
+ Thinking... 
+ │ Now I need to add the ingredient hover effect styles to globals.css to 
+ │ complete the hover functionality for ingredients.
+
+  ✓  Edit(/home/.../atlas/app/globals.css)
+
+ Thinking... 
+ │ Now I need to update the todo list to reflect progress and start updating the
+ │  homepage with the new ingredient hover effects.
+ ▪ Now let me update the homepage with ingredient hover effects and the new menu
+    component:
+  ✓  TodoWrite Set 6 todo(s)
+
+ Thinking... 
+ │ Now I'll update the homepage imports to use the new components and data file 
+ │ I created.
+
+  ✓  Edit(/home/.../atlas/app/page.tsx)
+
+ Thinking... 
+ │ Now I need to update the mobile menu section in page.tsx to use the new 
+ │ MobileMenu component instead of the inline menu implementation.
+ ▪ Now update the mobile menu section to use the new component:
+  ✓  Edit(/home/.../atlas/app/page.tsx)
+
+ Thinking... 
+ │ Now I need to update the ingredient showcase section to use the data from the
+ │  imported ingredients array and add the hover tooltip effects.
+ ▪ Now update the ingredients section with hover effects:
+  ✓  Edit(/home/.../atlas/app/page.tsx)
+
+ Thinking... 
+ │ Now I need to update the footer social links in page.tsx to use the new 
+ │ SocialLink component with the socialAccounts data instead of hardcoded inline
+ │  SVGs.
+ ▪ Now update the footer social links on the homepage:
+  ✓  Edit(/home/.../atlas/app/page.tsx)
+     → Accepted (+8, -12)
+
+       279                <div className="label-caps text-[#c9a96e] mb-4 tex
+            t-xs md:text-sm">ATLAS MARAKECH</div>
+       280                <p className="body-md text-[#8a7e6b] text-xs md:te
+            xt-base">Modern luxury fragrances.</p>
+       281                <div className="flex flex-col gap-3 mt-4">
+       282 -                <a href="https://www.instagram.com/atlas_marakec
+           -h/" target="_blank" rel="noopener noreferrer" className="flex it
+           -ems-center gap-2 text-[#c9a96e] hover:text-[#f5f0eb] transition-
+           -colors">                                                        
+       283 -                  <svg className="social-icon" viewBox="0 0 24 2
+           -4"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 
+           -1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.5
+           -84-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644
+           -.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4
+           -.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.
+           -849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.84
+           -9-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-
+           -6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072
+           - 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.07
+           -2 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.
+           -059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-
+           -4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5
+           -.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.
+           -162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c
+           --2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791
+           - 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.44
+           -1 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></s
+           -vg>                                                             
+       284 -                  <span className="body-md text-sm">Instagram</s
+           -pan>                                                            
+       285 -                </a>                                            
+       286 -                <a href="https://www.facebook.com/profile.php?id
+           -=61589002400891" target="_blank" rel="noopener noreferrer" class
+           -Name="flex items-center gap-2 text-[#c9a96e] hover:text-[#f5f0eb
+           -] transition-colors">                                           
+       287 -                  <svg className="social-icon" viewBox="0 0 24 2
+           -4"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.1
+           -92-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 
+           -4.615v3.385z"/></svg>                                           
+       288 -                  <span className="body-md text-sm">Facebook</sp
+           -an>                                                             
+       289 -                </a>                                            
+       290 -                <a href="https://twitter.com/atlasmarakech" targ
+           -et="_blank" rel="noopener noreferrer" className="flex items-cent
+           -er gap-2 text-[#c9a96e] hover:text-[#f5f0eb] transition-colors">
+       291 -                  <svg className="social-icon" viewBox="0 0 24 2
+           -4"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.
+           -214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231
+           -zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>                
+       292 -                  <span className="body-md text-sm">X / Twitter<
+           -/span>                                                          
+       293 -                </a>                                            
+       282 +                {socialAccounts.map((social) => (               
+       283 +                  <SocialLink                                   
+       284 +                    key={social.name}                           
+       285 +                    name={social.name}                          
+       286 +                    url={social.url}                            
+       287 +                    icon={social.icon}                          
+       288 +                  />                                            
+       289 +                ))}                                             
+       290                </div>
+       291              </div>
+       292              <div>
+
+
+ Thinking... 
+ │ Now I need to update the product detail page to replace the emoji with the 
+ │ product image and integrate the new MobileMenu and SocialLink components.
+ ▪ Now let me update the product detail page to replace the emoji with a picture
+    and use the new menu:
+  ✓  Edit(/home/.../app/product/[id]/page.tsx)
+     → Accepted (+3, -0)
+
+        3  import Link from 'next/link';
+        4  import { useParams } from 'next/navigation';
+        5  import { useState } from 'react';
+        6 +import { products } from '@/lib/data';                           
+        7 +import { MobileMenu } from '@/components/mobile-menu';           
+        8 +import { SocialLink, socialAccounts } from '@/components/social-l
+          +inks';                                                           
+        9  
+       10  export default function ProductDetail() {
+       11    const params = useParams();
+
+
+ Thinking... 
+ │ Now I need to remove the hardcoded products object from the component since 
+ │ we're importing it from the data file.
+
+  ✓  Edit(/home/.../app/product/[id]/page.tsx)
+     → Accepted (+1, -88)
+
+        12    const id = params.id as string;
+        13    const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+        14  
+        15 -  const products: Record<string, any> = {                       
+        16 -    '1': {                                                      
+        17 -      name: 'Celestial Meridian',                               
+        18 -      tagline: 'Series 01 // Limited Edition',                  
+        19 -      price: '$280',                                            
+        20 -      year: '2024',                                             
+        21 -      description: 'A masterwork of olfactory cartography. This 
+           -composition features a tourbillon of bergamot, amber, and precio
+           -us oud, encased in hand-blown obsidian glass.',                 
+        22 -      fullDescription: 'The Celestial Meridian represents the pi
+           -nnacle of our artisanal process. Over 400 hours of meticulous cr
+           -afting go into each bottle—from the hand-blown glass to the care
+           -ful layering of each olfactory note. This is a fragrance designe
+           -d to be discovered anew with each wearing.',                    
+        23 -      topNotes: ['Bergamot', 'Pink Pepper', 'Saffron'],         
+        24 -      heartNotes: ['Oud', 'Rose Absolute', 'Jasmine'],          
+        25 -      baseNotes: ['Amber', 'Sandalwood', 'Vetiver'],            
+        26 -      concentration: 'Eau de Parfum 50ml',                      
+        27 -      edition: '08 / 10',                                       
+        28 -      longevity: '12+ Hours'                                    
+        29 -    },                                                          
+        30 -    '2': {                                                      
+        31 -      name: 'Obsidian Night',                                   
+        32 -      tagline: 'Signature Series',                              
+        33 -      price: '$240',                                            
+        34 -      year: '2023',                                             
+        35 -      description: 'Deep, mysterious notes of midnight iris and 
+           -vetiver. Where darkness becomes allure.',                       
+        36 -      fullDescription: 'A meditation on the elegance of shadow. 
+           -The Obsidian Night captures the essence of twilight—that moment 
+           -when day surrenders to night. It is a fragrance for those who un
+           -derstand that true luxury whispers rather than shouts.',        
+        37 -      topNotes: ['Cardamom', 'Bergamot', 'Black Pepper'],       
+        38 -      heartNotes: ['Iris', 'Violet Leaf', 'Geranium'],          
+        39 -      baseNotes: ['Vetiver', 'Musk', 'Patchouli'],              
+        40 -      concentration: 'Eau de Parfum 50ml',                      
+        41 -      edition: 'Open Edition',                                  
+        42 -      longevity: '10+ Hours'                                    
+        43 -    },                                                          
+        44 -    '3': {                                                      
+        45 -      name: 'Aurore Essence',                                   
+        46 -      tagline: 'Heritage Collection',                           
+        47 -      price: '$260',                                            
+        48 -      year: '2022',                                             
+        49 -      description: 'Luminous citrus and white florals unite in a
+           - celebration of dawn. Inspired by the first light over the Swiss
+           - Alps.',                                                        
+        50 -      fullDescription: 'Aurore Essence captures the golden momen
+           -t when dawn breaks over the Alpine horizon. This fragrance is a 
+           -testament to the power of light—how it transforms, how it reveal
+           -s, how it inspires. Each note is a ray of morning sun.',        
+        51 -      topNotes: ['Lemon', 'Neroli', 'Bergamot'],                
+        52 -      heartNotes: ['Jasmine', 'White Rose', 'Lily of the Valley'
+           -],                                                              
+        53 -      baseNotes: ['White Musk', 'Cedar', 'Blonde Amber'],       
+        54 -      concentration: 'Eau de Parfum 50ml',                      
+        55 -      edition: 'Open Edition',                                  
+        56 -      longevity: '8+ Hours'                                     
+        57 -    },                                                          
+        58 -    '4': {                                                      
+        59 -      name: 'Temporal Whisper',                                 
+        60 -      tagline: 'Exclusive Release',                             
+        61 -      price: '$320',                                            
+        62 -      year: '2024',                                             
+        63 -      description: 'Ephemeral saffron, sandalwood, and rose abso
+           -lute converge in a meditation on the passage of time.',         
+        64 -      fullDescription: 'Time leaves its mark on everything it to
+           -uches. Temporal Whisper distills this truth into a fragrance tha
+           -t evolves on your skin—each hour revealing a new facet, a new em
+           -otion, a new memory. This is a scent that tells the story of you
+           -.',                                                             
+        65 -      topNotes: ['Saffron', 'Pink Pepper', 'Elemi'],            
+        66 -      heartNotes: ['Rose Absolute', 'Orris Butter', 'Ylang-Ylang
+           -'],                                                             
+        67 -      baseNotes: ['Sandalwood', 'Ambergris', 'Cashmeran'],      
+        68 -      concentration: 'Extrait de Parfum 50ml',                  
+        69 -      edition: '05 / 10',                                       
+        70 -      longevity: '14+ Hours'                                    
+        71 -    },                                                          
+        72 -    '5': {                                                      
+        73 -      name: 'Veiled Violet',                                    
+        74 -      tagline: 'New Arrival',                                   
+        75 -      price: '$270',                                            
+        76 -      year: '2025',                                             
+        77 -      description: 'Sophisticated violets, iris root, and amber 
+           -create a fragrance of quiet power and subtle grace.',           
+        78 -      fullDescription: 'The violet has long been a symbol of mod
+           -esty and refinement. Veiled Violet takes this symbolism and tran
+           -sforms it into an olfactory statement—quiet but unmistakable, de
+           -licate yet enduring. This is a fragrance for those who need no i
+           -ntroduction.',                                                  
+        79 -      topNotes: ['Violet Leaf', 'Bergamot', 'Clary Sage'],      
+        80 -      heartNotes: ['Iris Root', 'Violet', 'Heliotrope'],        
+        81 -      baseNotes: ['Amber', 'Blond Woods', 'Soft Musk'],         
+        82 -      concentration: 'Eau de Parfum 50ml',                      
+        83 -      edition: 'Open Edition',                                  
+        84 -      longevity: '9+ Hours'                                     
+        85 -    },                                                          
+        86 -    '6': {                                                      
+        87 -      name: 'Nocturne',                                         
+        88 -      tagline: 'Master Series',                                 
+        89 -      price: '$300',                                            
+        90 -      year: '2024',                                             
+        91 -      description: 'Midnight serenity expressed through rich lea
+           -ther, aged tobacco, and vanilla. A nocturnal masterpiece.',     
+        92 -      fullDescription: 'Nocturne is an ode to the hours between 
+           -dusk and dawn. It draws inspiration from the nocturnal rituals o
+           -f master perfumers past—those who knew that the most profound fr
+           -agrances reveal themselves in darkness. Each wearing is a privat
+           -e performance.',                                                
+        93 -      topNotes: ['Tobacco Leaf', 'Cinnamon', 'Black Currant'],  
+        94 -      heartNotes: ['Leather', 'Oud', 'Rose'],                   
+        95 -      baseNotes: ['Vanilla', 'Tonka Bean', 'Benzoin'],          
+        96 -      concentration: 'Eau de Parfum 50ml',                      
+        97 -      edition: '03 / 10',                                       
+        98 -      longevity: '12+ Hours'                                    
+        99 -    }                                                           
+       100 -  };                                                            
+        15 +  const product = products.find(p => p.id === id) || products[0]
+           +;                                                               
+        16  
+       102 -  const product = products[id] || products['1'];                
+       103 -                                                                
+        17    return (
+        18      <main className="bg-[#0a0a0a] text-[#f5f0eb]">
+        19        {/* Navigation */}
+
+
+ Thinking... 
+ │ Now I need to replace the emoji placeholder with the actual product image and
+ │  update the mobile menu to use the new MobileMenu component.
+ ▪ Now replace the emoji with the product image and update the mobile menu:
+  ✓  Edit(/home/.../app/product/[id]/page.tsx)
+     → Accepted (+2, -5)
+
+       64        {/* Product Hero */}
+       65        <section className="pt-24 md:pt-32 pb-12 md:pb-20 px-4 md:p
+           x-16 max-w-7xl mx-auto">
+       66          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:
+           gap-16 items-start">
+       67 -          <div className="aspect-square bg-gradient-to-br from-[#
+          -1a1a1a] to-[#141414] border border-[#3d3630] flex items-center ju
+          -stify-center">                                                   
+       68 -            <div className="text-center text-[#8a7e6b]">         
+       69 -              <div className="text-6xl md:text-8xl mb-4">🧴</div>
+       70 -              <p className="body-md text-sm md:text-base">{produc
+          -t.name}</p>                                                      
+       71 -            </div>                                               
+       67 +          <div className="aspect-square bg-gradient-to-br from-[#
+          +1a1a1a] to-[#141414] border border-[#3d3630] overflow-hidden">   
+       68 +            <img src={product.image} alt={product.name} className
+          +="w-full h-full object-cover" />                                 
+       69            </div>
+       70  
+       71            <div className="space-y-6 md:space-y-8 pt-4 md:pt-8">
+
+
+ Thinking... 
+ │ Now update the mobile menu and footer social links on the product page to use
+ │  the new components.
+ ▪ Now update the mobile menu and footer social links on the product page:
+  ✓  Edit(/home/.../app/product/[id]/page.tsx)
+     → Accepted (+3, -15)
+
+       43            </button>
+       44          </div>
+       45  
+       46 -        {mobileMenuOpen && (                                     
+       47 -          <div className="md:hidden border-t border-[#3d3630] bg-
+          -[#0a0a0a]/95 backdrop-blur-md">                                  
+       48 -            <div className="px-4 py-4 space-y-4">                
+       49 -              <Link href="/collections" onClick={() => setMobileM
+          -enuOpen(false)} className="block label-caps text-[#f5f0eb] hover:
+          -text-[#c9a96e] transition-colors py-2">Collections</Link>        
+       50 -              <Link href="/journal" onClick={() => setMobileMenuO
+          -pen(false)} className="block label-caps text-[#f5f0eb] hover:text
+          --[#c9a96e] transition-colors py-2">Journal</Link>                
+       51 -              <Link href="/atelier" onClick={() => setMobileMenuO
+          -pen(false)} className="block label-caps text-[#f5f0eb] hover:text
+          --[#c9a96e] transition-colors py-2">Atelier</Link>                
+       52 -              <Link href="/heritage" onClick={() => setMobileMenu
+          -Open(false)} className="block label-caps text-[#f5f0eb] hover:tex
+          -t-[#c9a96e] transition-colors py-2">Heritage</Link>              
+       53 -              <div className="pt-4 flex gap-4 border-t border-[#3
+          -d3630]">                                                         
+       54 -                <button className="text-[#c9a96e]"><svg className
+          -="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          -<path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1
+          -.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg></but
+          -ton>                                                             
+       55 -                <button className="text-[#c9a96e]"><svg className
+          -="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          -<path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1
+          -.5} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" /></svg></butt
+          -on>                                                              
+       56 -              </div>                                             
+       57 -            </div>                                               
+       58 -          </div>                                                 
+       59 -        )}                                                       
+       60 -                                                                 
+       46          <div className="divider max-w-7xl mx-auto"></div>
+       47        </nav>
+       48  
+       49 +      {/* Mobile Menu */}                                        
+       50 +      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobil
+          +eMenuOpen(false)} activePath={`/product/${id}`} />               
+       51 +                                                                 
+       52        {/* Product Hero */}
+       53        <section className="pt-24 md:pt-32 pb-12 md:pb-20 px-4 md:p
+           x-16 max-w-7xl mx-auto">
+       54          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:
+           gap-16 items-start">
+
+
+ Thinking... 
+ │ Now I need to update the footer social links on the product page to use the 
+ │ dynamic SocialLink component instead of hardcoded SVGs.
+
+  ✓  Edit(/home/.../app/product/[id]/page.tsx)
+     → Accepted (+8, -12)
+
+       150                <div className="label-caps text-[#c9a96e] mb-4 tex
+            t-xs md:text-sm">ATLAS MARAKECH</div>
+       151                <p className="body-md text-[#8a7e6b] text-xs md:te
+            xt-base">Luxury fragrances since 1842.</p>
+       152                <div className="flex flex-col gap-3 mt-4">
+       153 -                <a href="https://www.instagram.com/atlas_marakec
+           -h/" target="_blank" rel="noopener noreferrer" className="flex it
+           -ems-center gap-2 text-[#c9a96e] hover:text-[#f5f0eb] transition-
+           -colors">                                                        
+       154 -                  <svg className="social-icon" viewBox="0 0 24 2
+           -4" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0
+           - 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.0
+           -69 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.66
+           -4 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.01
+           -2-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.64
+           -4-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.9
+           -19-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.66
+           -7.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.6
+           -89-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.9
+           -8 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.0
+           -72 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 
+           -0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1
+           -.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.1
+           -62 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403
+           --2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1
+           -.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-
+           -1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.43
+           -9-1.44s-.644-1.44-1.439-1.44z"/></svg>                          
+       155 -                  <span className="body-md text-sm">Instagram</s
+           -pan>                                                            
+       156 -                </a>                                            
+       157 -                <a href="https://www.facebook.com/profile.php?id
+           -=61589002400891" target="_blank" rel="noopener noreferrer" class
+           -Name="flex items-center gap-2 text-[#c9a96e] hover:text-[#f5f0eb
+           -] transition-colors">                                           
+       158 -                  <svg className="social-icon" viewBox="0 0 24 2
+           -4" xmlns="http://www.w3.org/2000/svg"><path d="M9 8h-3v4h3v12h5v
+           --12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5
+           -h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>        
+       159 -                  <span className="body-md text-sm">Facebook</sp
+           -an>                                                             
+       160 -                </a>                                            
+       161 -                <a href="https://twitter.com/atlasmarakech" targ
+           -et="_blank" rel="noopener noreferrer" className="flex items-cent
+           -er gap-2 text-[#c9a96e] hover:text-[#f5f0eb] transition-colors">
+       162 -                  <svg className="social-icon" viewBox="0 0 24 2
+           -4" xmlns="http://www.w3.org/2000/svg"><path d="M18.244 2.25h3.30
+           -8l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.7
+           -3-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.
+           -126H5.117z"/></svg>                                             
+       163 -                  <span className="body-md text-sm">X / Twitter<
+           -/span>                                                          
+       164 -                </a>                                            
+       153 +                {socialAccounts.map((social) => (               
+       154 +                  <SocialLink                                   
+       155 +                    key={social.name}                           
+       156 +                    name={social.name}                          
+       157 +                    url={social.url}                            
+       158 +                    icon={social.icon}                          
+       159 +                  />                                            
+       160 +                ))}                                             
+       161                </div>
+       162              </div>
+       163              <div>
+
+
+ Thinking... 
+ │ Now I need to update the remaining pages to use the new shared components, 
+ │ starting with the collections page.
+ ▪ Now let me update the remaining pages (collections, heritage, atelier,
+   journal) with the new menu and social components. I'll do them in parallel:  ✓  TodoWrite Set 6 todo(s)
+
+ Thinking... 
+ │ Now I need to update the collections page with the new MobileMenu and 
+ │ SocialLink components, replacing the inline mobile menu and hardcoded social 
+ │ links.
+
+  ✓  Edit(/home/.../app/collections/page.tsx)
+     → Accepted (+4, -50)
+
+        3  import Link from 'next/link';
+        4  import { useState } from 'react';
+        5  import { useTransitionNavigation } from '@/components/page-transi
+           tion';
+        6 +import { MobileMenu } from '@/components/mobile-menu';           
+        7 +import { SocialLink, socialAccounts } from '@/components/social-l
+          +inks';                                                           
+        8 +import { products } from '@/lib/data';                           
+        9  
+       10  export default function Collections() {
+       11    const { navigate } = useTransitionNavigation();
+       12    const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+       13  
+       11 -  const fragrances = [                                           
+       12 -    {                                                            
+       13 -      id: 1,                                                     
+       14 -      name: 'Celestial Meridian',                                
+       15 -      tagline: 'Limited Edition',                                
+       16 -      description: 'Bergamot, oud, amber in perfect harmony.',   
+       17 -      notes: ['Bergamot', 'Oud', 'Amber'],                       
+       18 -      price: '$280'                                              
+       19 -    },                                                           
+       20 -    {                                                            
+       21 -      id: 2,                                                     
+       22 -      name: 'Obsidian Night',                                    
+       23 -      tagline: 'Signature Series',                               
+       24 -      description: 'Deep mystery through iris and vetiver.',     
+       25 -      notes: ['Iris', 'Vetiver', 'Musk'],                        
+       26 -      price: '$240'                                              
+       27 -    },                                                           
+       28 -    {                                                            
+       29 -      id: 3,                                                     
+       30 -      name: 'Aurore Essence',                                    
+       31 -      tagline: 'Heritage Collection',                            
+       32 -      description: 'Luminous citrus and white florals unite.',   
+       33 -      notes: ['Neroli', 'Jasmine', 'Lemon'],                     
+       34 -      price: '$260'                                              
+       35 -    },                                                           
+       36 -    {                                                            
+       37 -      id: 4,                                                     
+       38 -      name: 'Temporal Whisper',                                  
+       39 -      tagline: 'Exclusive Release',                              
+       40 -      description: 'Ephemeral saffron, sandalwood, rose absolute.
+          -',                                                               
+       41 -      notes: ['Saffron', 'Sandalwood', 'Rose'],                  
+       42 -      price: '$320'                                              
+       43 -    },                                                           
+       44 -    {                                                            
+       45 -      id: 5,                                                     
+       46 -      name: 'Veiled Violet',                                     
+       47 -      tagline: 'New Arrival',                                    
+       48 -      description: 'Sophisticated violets, iris, and amber.',    
+       49 -      notes: ['Violet', 'Iris Root', 'Amber'],                   
+       50 -      price: '$270'                                              
+       51 -    },                                                           
+       52 -    {                                                            
+       53 -      id: 6,                                                     
+       54 -      name: 'Nocturne',                                          
+       55 -      tagline: 'Master Series',                                  
+       56 -      description: 'Midnight serenity with leather and tobacco.',
+       57 -      notes: ['Leather', 'Tobacco', 'Vanilla'],                  
+       58 -      price: '$300'                                              
+       59 -    }                                                            
+       60 -  ];                                                             
+       14 +  const fragrances = products;                                   
+       15  
+       16    return (
+       17      <main className="bg-[#0a0a0a] text-[#f5f0eb]">
+
+
+ Thinking... 
+ │ Continue updating the collections page by replacing the inline mobile menu 
+ │ markup with the new MobileMenu component.
+
+  ✓  Edit(/home/.../app/collections/page.tsx)
+     → Accepted (+3, -11)
+
+       42            </button>
+       43          </div>
+       44  
+       45 -        {mobileMenuOpen && (                                     
+       46 -          <div className="md:hidden border-t border-[#3d3630] bg-
+          -[#0a0a0a]/95 backdrop-blur-md">                                  
+       47 -            <div className="px-4 py-4 space-y-4">                
+       48 -              <button onClick={() => { navigate('/collections'); 
+          -setMobileMenuOpen(false); }} className="block label-caps text-[#c
+          -9a96e] py-2 text-left w-full">Collections</button>               
+       49 -              <button onClick={() => { navigate('/journal'); setM
+          -obileMenuOpen(false); }} className="block label-caps text-[#f5f0e
+          -b] hover:text-[#c9a96e] transition-colors py-2 text-left w-full">
+          -Journal</button>                                                 
+       50 -              <button onClick={() => { navigate('/atelier'); setM
+          -obileMenuOpen(false); }} className="block label-caps text-[#f5f0e
+          -b] hover:text-[#c9a96e] transition-colors py-2 text-left w-full">
+          -Atelier</button>                                                 
+       51 -              <button onClick={() => { navigate('/heritage'); set
+          -MobileMenuOpen(false); }} className="block label-caps text-[#f5f0
+          -eb] hover:text-[#c9a96e] transition-colors py-2 text-left w-full"
+          ->Heritage</button>                                               
+       52 -            </div>                                               
+       53 -          </div>                                                 
+       54 -        )}                                                       
+       55 -                                                                 
+       45          <div className="divider max-w-7xl mx-auto"></div>
+       46        </nav>
+       47  
+       48 +      {/* Mobile Menu */}                                        
+       49 +      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobil
+          +eMenuOpen(false)} activePath="/collections" />                   
+       50 +                                                                 
+       51        {/* Hero */}
+       52        <section className="pt-24 md:pt-40 pb-12 md:pb-20 px-4 md:p
+           x-16 text-center max-w-7xl mx-auto">
+       53          <div className="label-caps text-[#c9a96e] mb-4">OUR COLLE
+           CTION</div>
+
+
+ Thinking... 
+ │ Now I need to update the footer social links in collections page to use the 
+ │ SocialLink component, and also fix the fragrance.id to be a string since 
+ │ products now come from data.ts where id is string.
+ ▪ Now update the footer social links and the fragrance id references in
+   collections:
+  ✓  Edit(/home/.../app/collections/page.tsx)
+     → Accepted (+2, -9)
+
+       65                <div className="space-y-6 group cursor-pointer anim
+           ate-fade-in-up" style={{ animationDelay: `${idx * 100}ms` }}>
+       66                  <div className="aspect-square bg-gradient-to-br f
+           rom-[#1a1a1a] to-[#141414] border border-[#3d3630] overflow-hidde
+           n group-hover:border-[#c9a96e] transition-all duration-300">
+       67                    <img 
+       68 -                    src={[                                       
+       69 -                      '/images/Gmail/1000106365.png',            
+       70 -                      '/images/Gmail/1000106389.png',            
+       71 -                      '/images/Gmail/1000106399.png',            
+       72 -                      '/images/Gmail/1000106356.png',            
+       73 -                      '/images/Gmail/1000106361.png',            
+       74 -                      '/images/Gmail/1000106367.png'             
+       75 -                    ][idx % 6]}                                  
+       68 +                    src={fragrance.image}                        
+       69                      alt={fragrance.name} 
+       70                      className="w-full h-full object-cover group-h
+           over:scale-105 transition-transform duration-300"
+       71                    />
+      ...
+       80                    </div>
+       81                    <p className="body-md text-[#c4b8a8] mb-4 text-
+           xs md:text-sm">{fragrance.description}</p>
+       82                    <div className="flex flex-wrap gap-2">
+       90 -                    {fragrance.notes.map((note, i) => (          
+       83 +                    {[...fragrance.topNotes, ...fragrance.heartNo
+          +tes, ...fragrance.baseNotes].slice(0, 3).map((note, i) => (      
+       84                        <span key={i} className="text-xs px-3 py-1 
+           border border-[#3d3630] text-[#8a7e6b] rounded-none">
+       85                          {note}
+       86                        </span>
+
+
+ Thinking... 
+ │ Now update the footer social links in collections page:
+ ▪ Now update the footer social links in collections page:
+  ✓  Edit(/home/.../app/collections/page.tsx)
+     → Accepted (+8, -12)
+
+       101                <div className="label-caps text-[#c9a96e] mb-4 tex
+            t-xs md:text-sm">ATLAS MARAKECH</div>
+       102                <p className="body-md text-[#8a7e6b] text-xs md:te
+            xt-base">Luxury fragrances since 1842.</p>
+       103                <div className="flex flex-col gap-3 mt-4">
+       104 -                <a href="https://www.instagram.com/atlas_marakec
+           -h/" target="_blank" rel="noopener noreferrer" className="flex it
+           -ems-center gap-2 text-[#c9a96e] hover:text-[#f5f0eb] transition-
+           -colors">                                                        
+       105 -                  <svg className="social-icon" viewBox="0 0 24 2
+           -4" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0
+           - 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.0
+           -69 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.66
+           -4 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.01
+           -2-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.64
+           -4-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.9
+           -19-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.66
+           -7.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.6
+           -89-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.9
+           -8 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.0
+           -72 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 
+           -0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1
+           -.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.1
+           -62 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403
+           --2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1
+           -.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-
+           -1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.43
+           -9-1.44s-.644-1.44-1.439-1.44z"/></svg>                          
+       106 -                  <span className="body-md text-sm">Instagram</s
+           -pan>                                                            
+       107 -                </a>                                            
+       108 -                <a href="https://www.facebook.com/profile.php?id
+           -=61589002400891" target="_blank" rel="noopener noreferrer" class
+           -Name="flex items-center gap-2 text-[#c9a96e] hover:text-[#f5f0eb
+           -] transition-colors">                                           
+       109 -                  <svg className="social-icon" viewBox="0 0 24 2
+           -4" xmlns="http://www.w3.org/2000/svg"><path d="M9 8h-3v4h3v12h5v
+           --12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5
+           -h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>        
+       110 -                  <span className="body-md text-sm">Facebook</sp
+           -an>                                                             
+       111 -                </a>                                            
+       112 -                <a href="https://twitter.com/atlasmarakech" targ
+           -et="_blank" rel="noopener noreferrer" className="flex items-cent
+           -er gap-2 text-[#c9a96e] hover:text-[#f5f0eb] transition-colors">
+       113 -                  <svg className="social-icon" viewBox="0 0 24 2
+           -4" xmlns="http://www.w3.org/2000/svg"><path d="M18.244 2.25h3.30
+           -8l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.7
+           -3-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.
+           -126H5.117z"/></svg>                                             
+       114 -                  <span className="body-md text-sm">X / Twitter<
+           -/span>                                                          
+       115 -                </a>                                            
+       104 +                {socialAccounts.map((social) => (               
+       105 +                  <SocialLink                                   
+       106 +                    key={social.name}                           
+       107 +                    name={social.name}                          
+       108 +                    url={social.url}                            
+       109 +                    icon={social.icon}                          
+       110 +                  />                                            
+       111 +                ))}                                             
+       112                </div>
+       113              </div>
+       114              <div>
+
+
+ Thinking... 
+ │ Now I need to update the remaining pages (heritage, atelier, journal) with 
+ │ the new components, starting with the heritage page imports.
+ ▪ Now let me update the heritage, atelier, and journal pages. I'll do the
+   imports and menu replacements for all three:
+  ✓  Edit(/home/.../app/heritage/page.tsx)
+     → Accepted (+2, -0)
+
+        3  import Link from 'next/link';
+        4  import { useState } from 'react';
+        5  import { useTransitionNavigation } from '@/components/page-transi
+           tion';
+        6 +import { MobileMenu } from '@/components/mobile-menu';           
+        7 +import { SocialLink, socialAccounts } from '@/components/social-l
+          +inks';                                                           
+        8  
+        9  export default function About() {
+       10    const { navigate } = useTransitionNavigation();
+
+
+ Thinking... 
+ │ Continue updating the heritage page by replacing the inline mobile menu code 
+ │ with the new MobileMenu component.
+
+  ✓  Edit(/home/.../app/heritage/page.tsx)
+     → Accepted (+3, -12)
+
+       55            </button>
+       56          </div>
+       57  
+       58 -        {mobileMenuOpen && (                                     
+       59 -          <div className="md:hidden border-t border-[#3d3630] bg-
+          -[#0a0a0a]/95 backdrop-blur-md">                                  
+       60 -            <div className="px-4 py-4 space-y-4">                
+       61 -              {navItems.map((item) => (                          
+       62 -                <button key={item.name} onClick={() => { navigate
+          -(item.href); setMobileMenuOpen(false); }} className="block label-
+          -caps text-[#f5f0eb] hover:text-[#c9a96e] transition-colors py-2 t
+          -ext-left w-full">                                                
+       63 -                  {item.name}                                    
+       64 -                </button>                                        
+       65 -              ))}                                                
+       66 -            </div>                                               
+       67 -          </div>                                                 
+       68 -        )}                                                       
+       69 -                                                                 
+       58          <div className="divider max-w-7xl mx-auto"></div>
+       59        </nav>
+       60  
+       61 +      {/* Mobile Menu */}                                        
+       62 +      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobil
+          +eMenuOpen(false)} activePath="/heritage" />                      
+       63 +                                                                 
+       64        {/* Hero */}
+       65        <section className="pt-32 md:pt-40 pb-12 md:pb-20 px-4 md:p
+           x-16 text-center max-w-4xl mx-auto">
+       66          <div className="label-caps text-[#c9a96e] mb-4 tracking-[
+           0.3em]">ABOUT ATLAS MARAKECH</div>
+
+
+ Thinking... 
+ │ Now I need to update the footer social links in the heritage page to use the 
+ │ SocialLink component, following the same pattern I used for the other pages.
+
+  ✓  Edit(/home/.../app/heritage/page.tsx)
+     → Accepted (+8, -12)
+
+       164                <div className="label-caps text-[#c9a96e] mb-4 tex
+            t-xs md:text-sm">ATLAS MARAKECH</div>
+       165                <p className="body-md text-[#8a7e6b] text-xs md:te
+            xt-base">Modern luxury fragrances.</p>
+       166                <div className="flex flex-col gap-3 mt-4">
+       167 -                <a href="https://www.instagram.com/atlas_marakec
+           -h/" target="_blank" rel="noopener noreferrer" className="flex it
+           -ems-center gap-2 text-[#c9a96e] hover:text-[#f5f0eb] transition-
+           -colors">                                                        
+       168 -                  <svg className="social-icon" viewBox="0 0 24 2
+           -4"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 
+           -1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.5
+           -84-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644
+           -.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4
+           -.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.
+           -849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.84
+           -9-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-
+           -6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072
+           - 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.07
+           -2 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.
+           -059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-
+           -4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5
+           -.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.
+           -162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c
+           --2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791
+           - 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.44
+           -1 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></s
+           -vg>                                                             
+       169 -                  <span className="body-md text-sm">Instagram</s
+           -pan>                                                            
+       170 -                </a>                                            
+       171 -                <a href="https://www.facebook.com/profile.php?id
+           -=61589002400891" target="_blank" rel="noopener noreferrer" class
+           -Name="flex items-center gap-2 text-[#c9a96e] hover:text-[#f5f0eb
+           -] transition-colors">                                           
+       172 -                  <svg className="social-icon" viewBox="0 0 24 2
+           -4"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.1
+           -92-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 
+           -4.615v3.385z"/></svg>                                           
+       173 -                  <span className="body-md text-sm">Facebook</sp
+           -an>                                                             
+       174 -                </a>                                            
+       175 -                <a href="https://twitter.com/atlasmarakech" targ
+           -et="_blank" rel="noopener noreferrer" className="flex items-cent
+           -er gap-2 text-[#c9a96e] hover:text-[#f5f0eb] transition-colors">
+       176 -                  <svg className="social-icon" viewBox="0 0 24 2
+           -4"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.
+           -214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231
+           -zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>                
+       177 -                  <span className="body-md text-sm">X / Twitter<
+           -/span>                                                          
+       178 -                </a>                                            
+       167 +                {socialAccounts.map((social) => (               
+       168 +                  <SocialLink                                   
+       169 +                    key={social.name}                           
+       170 +                    name={social.name}                          
+       171 +                    url={social.url}                            
+       172 +                    icon={social.icon}                          
+       173 +                  />                                            
+       174 +                ))}                                             
+       175                </div>
+       176              </div>
+       177              <div>
+
+
+ Thinking... 
+ │ Now update the atelier page imports to use the new MobileMenu and SocialLink 
+ │ components.
+
+  ✓  Edit(/home/.../app/atelier/page.tsx)
+     → Accepted (+2, -0)
+
+        3  import Link from 'next/link';
+        4  import { useState } from 'react';
+        5  import { useTransitionNavigation } from '@/components/page-transi
+           tion';
+        6 +import { MobileMenu } from '@/components/mobile-menu';           
+        7 +import { SocialLink, socialAccounts } from '@/components/social-l
+          +inks';                                                           
+        8  
+        9  export default function Atelier() {
+       10    const { navigate } = useTransitionNavigation();
+
+
+ Thinking... 
+ │ Now I need to replace the inline mobile menu code with the MobileMenu 
+ │ component in the atelier page, following the same pattern used for the other 
+ │ pages.
+
+  ✓  Edit(/home/.../app/atelier/page.tsx)
+     → Accepted (+3, -15)
+
+       70            </button>
+       71          </div>
+       72  
+       73 -        {mobileMenuOpen && (                                     
+       74 -          <div className="md:hidden border-t border-[#3d3630] bg-
+          -[#0a0a0a]/95 backdrop-blur-md">                                  
+       75 -            <div className="px-4 py-4 space-y-4">                
+       76 -              <button onClick={() => { navigate('/collections'); 
+          -setMobileMenuOpen(false); }} className="block label-caps text-[#f
+          -5f0eb] hover:text-[#c9a96e] transition-colors py-2 text-left w-fu
+          -ll">Collections</button>                                         
+       77 -              <button onClick={() => { navigate('/journal'); setM
+          -obileMenuOpen(false); }} className="block label-caps text-[#f5f0e
+          -b] hover:text-[#c9a96e] transition-colors py-2 text-left w-full">
+          -Journal</button>                                                 
+       78 -              <button onClick={() => { navigate('/atelier'); setM
+          -obileMenuOpen(false); }} className="block label-caps text-[#c9a96
+          -e] py-2 text-left w-full">Atelier</button>                       
+       79 -              <button onClick={() => { navigate('/heritage'); set
+          -MobileMenuOpen(false); }} className="block label-caps text-[#f5f0
+          -eb] hover:text-[#c9a96e] transition-colors py-2 text-left w-full"
+          ->Heritage</button>                                               
+       80 -              <div className="pt-4 flex gap-4 border-t border-[#3
+          -d3630]">                                                         
+       81 -                <button className="text-[#c9a96e]"><svg className
+          -="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          -<path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1
+          -.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg></but
+          -ton>                                                             
+       82 -                <button className="text-[#c9a96e]"><svg className
+          -="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          -<path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1
+          -.5} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" /></svg></butt
+          -on>                                                              
+       83 -              </div>                                             
+       84 -            </div>                                               
+       85 -          </div>                                                 
+       86 -        )}                                                       
+       87 -                                                                 
+       73          <div className="divider max-w-7xl mx-auto"></div>
+       74        </nav>
+       75  
+       76 +      {/* Mobile Menu */}                                        
+       77 +      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobil
+          +eMenuOpen(false)} activePath="/atelier" />                       
+       78 +                                                                 
+       79        {/* Hero */}
+       80        <section className="pt-24 md:pt-40 pb-12 md:pb-20 px-4 md:p
+           x-16 text-center max-w-7xl mx-auto">
+       81          <div className="label-caps text-[#c9a96e] mb-4">GLOBAL AT
+           ELIER</div>
+
+
+ Thinking... 
+ │ Now update the atelier footer social links to use the SocialLink component, 
+ │ following the same pattern used for the other pages.
+
+  ✓  Edit(/home/.../app/atelier/page.tsx)
+     → Accepted (+8, -12)
+
+       140                <div className="label-caps text-[#c9a96e] mb-4 tex
+            t-xs md:text-sm">ATLAS MARAKECH</div>
+       141                <p className="body-md text-[#8a7e6b] text-xs md:te
+            xt-base">Luxury fragrances since 1842.</p>
+       142                <div className="flex flex-col gap-3 mt-4">
+       143 -                <a href="https://www.instagram.com/atlas_marakec
+           -h/" target="_blank" rel="noopener noreferrer" className="flex it
+           -ems-center gap-2 text-[#c9a96e] hover:text-[#f5f0eb] transition-
+           -colors">                                                        
+       144 -                  <svg className="social-icon" viewBox="0 0 24 2
+           -4" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0
+           - 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.0
+           -69 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.66
+           -4 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.01
+           -2-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.64
+           -4-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.9
+           -19-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.66
+           -7.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.6
+           -89-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.9
+           -8 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.0
+           -72 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 
+           -0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1
+           -.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.1
+           -62 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403
+           --2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1
+           -.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-
+           -1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.43
+           -9-1.44s-.644-1.44-1.439-1.44z"/></svg>                          
+       145 -                  <span className="body-md text-sm">Instagram</s
+           -pan>                                                            
+       146 -                </a>                                            
+       147 -                <a href="https://www.facebook.com/profile.php?id
+           -=61589002400891" target="_blank" rel="noopener noreferrer" class
+           -Name="flex items-center gap-2 text-[#c9a96e] hover:text-[#f5f0eb
+           -] transition-colors">                                           
+       148 -                  <svg className="social-icon" viewBox="0 0 24 2
+           -4" xmlns="http://www.w3.org/2000/svg"><path d="M9 8h-3v4h3v12h5v
+           --12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5
+           -h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>        
+       149 -                  <span className="body-md text-sm">Facebook</sp
+           -an>                                                             
+       150 -                </a>                                            
+       151 -                <a href="https://twitter.com/atlasmarakech" targ
+           -et="_blank" rel="noopener noreferrer" className="flex items-cent
+           -er gap-2 text-[#c9a96e] hover:text-[#f5f0eb] transition-colors">
+       152 -                  <svg className="social-icon" viewBox="0 0 24 2
+           -4" xmlns="http://www.w3.org/2000/svg"><path d="M18.244 2.25h3.30
+           -8l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.7
+           -3-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.
+           -126H5.117z"/></svg>                                             
+       153 -                  <span className="body-md text-sm">X / Twitter<
+           -/span>                                                          
+       154 -                </a>                                            
+       143 +                {socialAccounts.map((social) => (               
+       144 +                  <SocialLink                                   
+       145 +                    key={social.name}                           
+       146 +                    name={social.name}                          
+       147 +                    url={social.url}                            
+       148 +                    icon={social.icon}                          
+       149 +                  />                                            
+       150 +                ))}                                             
+       151                </div>
+       152              </div>
+       153              <div>
+
+
+ Thinking... 
+ │ Continuing to update the remaining pages with the new components, now 
+ │ updating the journal page imports following the same pattern used for the 
+ │ other pages.
+ ▪ Now the journal page:
+  ✓  Edit(/home/.../app/journal/page.tsx)
+     → Accepted (+2, -0)
+
+        3  import Link from 'next/link';
+        4  import { useState } from 'react';
+        5  import { useTransitionNavigation } from '@/components/page-transi
+           tion';
+        6 +import { MobileMenu } from '@/components/mobile-menu';           
+        7 +import { SocialLink, socialAccounts } from '@/components/social-l
+          +inks';                                                           
+        8  
+        9  export default function Journal() {
+       10    const { navigate } = useTransitionNavigation();
+
+
+ Thinking... 
+ │ Now replace the inline mobile menu with the MobileMenu component in the 
+ │ journal page, following the same pattern used for the other pages.
+
+  ✓  Edit(/home/.../app/journal/page.tsx)
+     → Accepted (+3, -15)
+
+       70            </button>
+       71          </div>
+       72  
+       73 -        {mobileMenuOpen && (                                     
+       74 -          <div className="md:hidden border-t border-[#3d3630] bg-
+          -[#0a0a0a]/95 backdrop-blur-md">                                  
+       75 -            <div className="px-4 py-4 space-y-4">                
+       76 -              <button onClick={() => { navigate('/collections'); 
+          -setMobileMenuOpen(false); }} className="block label-caps text-[#f
+          -5f0eb] hover:text-[#c9a96e] transition-colors py-2 text-left w-fu
+          -ll">Collections</button>                                         
+       77 -              <button onClick={() => { navigate('/journal'); setM
+          -obileMenuOpen(false); }} className="block label-caps text-[#c9a96
+          -e] py-2 text-left w-full">Journal</button>                       
+       78 -              <button onClick={() => { navigate('/atelier'); setM
+          -obileMenuOpen(false); }} className="block label-caps text-[#f5f0e
+          -b] hover:text-[#c9a96e] transition-colors py-2 text-left w-full">
+          -Atelier</button>                                                 
+       79 -              <button onClick={() => { navigate('/heritage'); set
+          -MobileMenuOpen(false); }} className="block label-caps text-[#f5f0
+          -eb] hover:text-[#c9a96e] transition-colors py-2 text-left w-full"
+          ->Heritage</button>                                               
+       80 -              <div className="pt-4 flex gap-4 border-t border-[#3
+          -d3630]">                                                         
+       81 -                <button className="text-[#c9a96e]"><svg className
+          -="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          -<path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1
+          -.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg></but
+          -ton>                                                             
+       82 -                <button className="text-[#c9a96e]"><svg className
+          -="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          -<path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1
+          -.5} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" /></svg></butt
+          -on>                                                              
+       83 -              </div>                                             
+       84 -            </div>                                               
+       85 -          </div>                                                 
+       86 -        )}                                                       
+       87 -                                                                 
+       73          <div className="divider max-w-7xl mx-auto"></div>
+       74        </nav>
+       75  
+       76 +      {/* Mobile Menu */}                                        
+       77 +      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobil
+          +eMenuOpen(false)} activePath="/journal" />                       
+       78 +                                                                 
+       79        {/* Hero */}
+       80        <section className="pt-24 md:pt-40 pb-12 md:pb-20 px-4 md:p
+           x-16 text-center max-w-7xl mx-auto">
+       81          <div className="label-caps text-[#c9a96e] mb-4">ARTISANAL
+            JOURNAL</div>
+
+
+ Thinking... 
+ │ Now update the journal footer social links to use the SocialLink component, 
+ │ following the same pattern as the other pages.
+
+  ✓  Edit(/home/.../app/journal/page.tsx)
+     → Accepted (+8, -12)
+
+       114                <div className="label-caps text-[#c9a96e] mb-4 tex
+            t-xs md:text-sm">ATLAS MARAKECH</div>
+       115                <p className="body-md text-[#8a7e6b] text-xs md:te
+            xt-base">Luxury fragrances since 1842.</p>
+       116                <div className="flex flex-col gap-3 mt-4">
+       117 -                <a href="https://www.instagram.com/atlas_marakec
+           -h/" target="_blank" rel="noopener noreferrer" className="flex it
+           -ems-center gap-2 text-[#c9a96e] hover:text-[#f5f0eb] transition-
+           -colors">                                                        
+       118 -                  <svg className="social-icon" viewBox="0 0 24 2
+           -4" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0
+           - 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.0
+           -69 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.66
+           -4 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.01
+           -2-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.64
+           -4-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.9
+           -19-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.66
+           -7.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.6
+           -89-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.9
+           -8 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.0
+           -72 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 
+           -0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1
+           -.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.1
+           -62 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403
+           --2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1
+           -.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-
+           -1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.43
+           -9-1.44s-.644-1.44-1.439-1.44z"/></svg>                          
+       119 -                  <span className="body-md text-sm">Instagram</s
+           -pan>                                                            
+       120 -                </a>                                            
+       121 -                <a href="https://www.facebook.com/profile.php?id
+           -=61589002400891" target="_blank" rel="noopener noreferrer" class
+           -Name="flex items-center gap-2 text-[#c9a96e] hover:text-[#f5f0eb
+           -] transition-colors">                                           
+       122 -                  <svg className="social-icon" viewBox="0 0 24 2
+           -4" xmlns="http://www.w3.org/2000/svg"><path d="M9 8h-3v4h3v12h5v
+           --12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5
+           -h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>        
+       123 -                  <span className="body-md text-sm">Facebook</sp
+           -an>                                                             
+       124 -                </a>                                            
+       125 -                <a href="https://twitter.com/atlasmarakech" targ
+           -et="_blank" rel="noopener noreferrer" className="flex items-cent
+           -er gap-2 text-[#c9a96e] hover:text-[#f5f0eb] transition-colors">
+       126 -                  <svg className="social-icon" viewBox="0 0 24 2
+           -4" xmlns="http://www.w3.org/2000/svg"><path d="M18.244 2.25h3.30
+           -8l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.7
+           -3-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.
+           -126H5.117z"/></svg>                                             
+       127 -                  <span className="body-md text-sm">X / Twitter<
+           -/span>                                                          
+       128 -                </a>                                            
+       117 +                {socialAccounts.map((social) => (               
+       118 +                  <SocialLink                                   
+       119 +                    key={social.name}                           
+       120 +                    name={social.name}                          
+       121 +                    url={social.url}                            
+       122 +                    icon={social.icon}                          
+       123 +                  />                                            
+       124 +                ))}                                             
+       125                </div>
+       126              </div>
+       127              <div>
+
+
+ Thinking... 
+ │ All pages have been updated with the new components, so I should mark the 
+ │ todo list as complete and verify the build works.
+ ▪ Now let me verify the build works:
+  ✓  TodoWrite Set 7 todo(s)
+
+ Thinking... 
+ │ Now that all pages have been updated, I need to verify the build works to 
+ │ ensure there are no errors.
+
+  ✓  Bash(npm run build 2>&1 | head -100)
+     │ atlas@0.1.0 (mailto:atlas@0.1.0) build
+     │ next build
+
+     ▲ Next.js 16.2.4 (Turbopack)
+
+       Creating an optimized production build ...
+
+     │ Build error occurred
+     │ Error: Turbopack build failed with 10 errors:
+     │ ./app/atelier/page.tsx:7:1
+     │ Export socialAccounts doesn't exist in target module
+     │    5 | import { useTransitionNavigation } from 
+     '@/components/page-transition';
+     │    6 | import { MobileMenu } from '@/components/mobile-menu';
+     │  7 | import { SocialLink, socialAccounts } from 
+     '@/components/social-links';
+     │  | 
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     │    8 |
+     │    9 | export default function Atelier() {
+     │   10 |   const { navigate } = useTransitionNavigation();
+
+     The export socialAccounts was not found in module
+     [project]/components/social-links.tsx [app-client] (ecmascript).
+     Did you mean to import SocialIcon?
+     All exports of the module are statically known (It doesn't have dynamic
+      exports). So it's known statically that the requested export doesn't
+     exist.
+
+     Import traces:
+       Client Component Browser:
+         ./app/atelier/page.tsx [Client Component Browser]
+         ./app/atelier/page.tsx [Server Component]
+
+       Client Component SSR:
+         ./app/atelier/page.tsx [Client Component SSR]
+         ./app/atelier/page.tsx [Server Component]
+
+     ./app/atelier/page.tsx:7:1
+     Export socialAccounts doesn't exist in target module
+        5 | import { useTransitionNavigation } from
+     '@/components/page-transition';
+        6 | import { MobileMenu } from '@/components/mobile-menu';
+     │  7 | import { SocialLink, socialAccounts } from 
+     '@/components/social-links';
+     │  | 
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     │    8 |
+     │    9 | export default function Atelier() {
+     │   10 |   const { navigate } = useTransitionNavigation();
+
+     The export socialAccounts was not found in module
+     [project]/components/social-links.tsx [app-ssr] (ecmascript).
+     Did you mean to import SocialIcon?
+     All exports of the module are statically known (It doesn't have dynamic
+      exports). So it's known statically that the requested export doesn't
+     exist.
+
+     Import traces:
+       Client Component Browser:
+         ./app/atelier/page.tsx [Client Component Browser]
+         ./app/atelier/page.tsx [Server Component]
+
+       Client Component SSR:
+         ./app/atelier/page.tsx [Client Component SSR]
+         ./app/atelier/page.tsx [Server Component]
+
+     ./app/collections/page.tsx:7:1
+     Export socialAccounts doesn't exist in target module
+        5 | import { useTransitionNavigation } from
+     '@/components/page-transition';
+        6 | import { MobileMenu } from '@/components/mobile-menu';
+     │  7 | import { SocialLink, socialAccounts } from 
+     '@/components/social-links';
+     │  | 
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     │    8 | import { products } from '@/lib/data';
+     │    9 |
+     │   10 | export default function Collections() {
+
+     The export socialAccounts was not found in module
+     [project]/components/social-links.tsx [app-client] (ecmascript).
+     Did you mean to import SocialIcon?
+     All exports of the module are statically known (It doesn't have dynamic
+      exports). So it's known statically that the requested export doesn't
+     exist.
+
+     Import traces:
+       Client Component Browser:
+         ./app/collections/page.tsx [Client Component Browser]
+         ./app/collections/page.tsx [Server Component]
+
+       Client Component SSR:
+         ./app/collections/page.tsx [Client Component SSR]
+         ./app/collections/page.tsx [Server Component]
+
+     ./app/collections/page.tsx:7:1
+     Export socialAccounts doesn't exist in target module
+        5 | import { useTransitionNavigation } from
+     '@/components/page-transition';
+        6 | import { MobileMenu } from '@/components/mobile-menu';
+     │  7 | import { SocialLink, socialAccounts } from 
+     '@/components/social-links';
+     │  | 
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     │    8 | import { products } from '@/lib/data';
+     │    9 |
+     │   10 | export default function Collections() {
+
+     The export socialAccounts was not found in module
+     [project]/components/social-links.tsx [app-ssr] (ecmascript).
+     Did you mean to import SocialIcon?
+     All exports of the module are statically known (It doesn't have dynamic
+      exports). So it's known statically that the requested export doesn't
+     exist.
+
+     Import traces:
+       Client Component Browser:
+         ./app/collections/page.tsx [Client Component Browser]
+         ./app/collections/page.tsx [Server Component]
+
+ Thinking... 
+ │ The build error shows socialAccounts is imported from the wrong file - it's 
+ │ defined in lib/data.ts not social-links.tsx, so I need to fix the imports in 
+ │ all affected pages.
+ ▪ The socialAccounts is imported from the wrong file. It should come from
+   @/lib/data. Let me fix all the imports:
+  ✓  Edit(/home/.../app/atelier/page.tsx)
+     → Accepted (+2, -1)
+
+        4  import { useState } from 'react';
+        5  import { useTransitionNavigation } from '@/components/page-transi
+           tion';
+        6  import { MobileMenu } from '@/components/mobile-menu';
+        7 -import { SocialLink, socialAccounts } from '@/components/social-l
+          -inks';                                                           
+        7 +import { SocialLink } from '@/components/social-links';          
+        8 +import { socialAccounts } from '@/lib/data';                     
+        9  
+       10  export default function Atelier() {
+       11    const { navigate } = useTransitionNavigation();
+
+
+ Thinking... 
+ │ Need to apply the same import fix to collections, heritage, journal, and 
+ │ product pages since they all incorrectly import socialAccounts from 
+ │ social-links instead of lib/data.
+  ✓  Edit(/home/.../app/collections/page.tsx)
+     → Accepted (+2, -2)
+
+        4  import { useState } from 'react';
+        5  import { useTransitionNavigation } from '@/components/page-transi
+           tion';
+        6  import { MobileMenu } from '@/components/mobile-menu';
+        7 -import { SocialLink, socialAccounts } from '@/components/social-l
+          -inks';                                                           
+        8 -import { products } from '@/lib/data';                           
+        7 +import { SocialLink } from '@/components/social-links';          
+        8 +import { products, socialAccounts } from '@/lib/data';           
+        9  
+       10  export default function Collections() {
+       11    const { navigate } = useTransitionNavigation();
+
+
+ Thinking... 
+ │ Need to apply the same import fix to the heritage page that was applied to 
+ │ atelier and collections pages.
+
+  ✓  Edit(/home/.../app/heritage/page.tsx)
+     → Accepted (+2, -1)
+
+        4  import { useState } from 'react';
+        5  import { useTransitionNavigation } from '@/components/page-transi
+           tion';
+        6  import { MobileMenu } from '@/components/mobile-menu';
+        7 -import { SocialLink, socialAccounts } from '@/components/social-l
+          -inks';                                                           
+        7 +import { SocialLink } from '@/components/social-links';          
+        8 +import { socialAccounts } from '@/lib/data';                     
+        9  
+       10  export default function About() {
+       11    const { navigate } = useTransitionNavigation();
+
+
+ Thinking... 
+ │ Continue fixing the same import error in the remaining pages - journal page 
+ │ needs the same correction.
+
+  ✓  Edit(/home/.../app/journal/page.tsx)
+     → Accepted (+2, -1)
+
+        4  import { useState } from 'react';
+        5  import { useTransitionNavigation } from '@/components/page-transi
+           tion';
+        6  import { MobileMenu } from '@/components/mobile-menu';
+        7 -import { SocialLink, socialAccounts } from '@/components/social-l
+          -inks';                                                           
+        7 +import { SocialLink } from '@/components/social-links';          
+        8 +import { socialAccounts } from '@/lib/data';                     
+        9  
+       10  export default function Journal() {
+       11    const { navigate } = useTransitionNavigation();
+
+
+ Thinking... 
+ │ Now fix the same import issue in the product detail page.
+
+  ✓  Edit(/home/.../app/product/[id]/page.tsx)
+     → Accepted (+2, -1)
+
+        5  import { useState } from 'react';
+        6  import { products } from '@/lib/data';
+        7  import { MobileMenu } from '@/components/mobile-menu';
+        8 -import { SocialLink, socialAccounts } from '@/components/social-l
+          -inks';                                                           
+        8 +import { SocialLink } from '@/components/social-links';          
+        9 +import { products, socialAccounts } from '@/lib/data';           
+       10  
+       11  export default function ProductDetail() {
+       12    const params = useParams();
+
+
+ Thinking... 
+ │ The previous edit created a duplicate import statement for products from 
+ │ lib/data, need to consolidate into a single import line.
+ ▪ There's a duplicate import. Let me fix it:
+  ✓  Edit(/home/.../app/product/[id]/page.tsx)
+     → Accepted (+1, -2)
+
+        3  import Link from 'next/link';
+        4  import { useParams } from 'next/navigation';
+        5  import { useState } from 'react';
+        6 -import { products } from '@/lib/data';                           
+        6 +import { products, socialAccounts } from '@/lib/data';           
+        7  import { MobileMenu } from '@/components/mobile-menu';
+        8  import { SocialLink } from '@/components/social-links';
+        9 -import { products, socialAccounts } from '@/lib/data';           
+        9  
+       10  export default function ProductDetail() {
+       11    const params = useParams();
+
+
+ Thinking... 
+ │ The homepage also imports socialAccounts from the wrong location and has an 
+ │ unused menuItems import that needs to be cleaned up.
+ ▪ Also fix the homepage import:
+  ✓  Edit(/home/.../atlas/app/page.tsx)
+     → Accepted (+1, -1)
+
+        6  import { GrainOverlay, RevealSection, SectionSeparator, AnimatedH
+           eroTitle, AmbientLight } from '@/components/vfx';
+        7  import { useI18n } from '@/components/i18n';
+        8  import { MobileMenu } from '@/components/mobile-menu';
+        9 -import { ingredients, socialAccounts, menuItems } from '@/lib/dat
+          -a';                                                              
+        9 +import { ingredients, socialAccounts } from '@/lib/data';        
+       10  import { SocialLink } from '@/components/social-links';
+       11  
+       12  /* ── Main Page ── */
+
+
+ Thinking... 
+ │ After fixing all the import errors across multiple files, I need to run the 
+ │ build again to verify everything compiles correctly.
+ ▪ Now let me build again:
+  ✓  Bash(npm run build 2>&1 | head -80)
+     │ atlas@0.1.0 (mailto:atlas@0.1.0) build
+     │ next build
+
+     ▲ Next.js 16.2.4 (Turbopack)
+
+       Creating an optimized production build ...
+     ✓ Compiled successfully in 8.8s
+       Running TypeScript ...
+       Finished TypeScript in 8.5s ...
+       Collecting page data using 3 workers ...
+       Generating static pages using 3 workers (0/11) ...
+       Generating static pages using 3 workers (2/11)
+       Generating static pages using 3 workers (5/11)
+       Generating static pages using 3 workers (8/11)
+     ✓ Generating static pages using 3 workers (11/11) in 951ms
+       Finalizing page optimization ...
+
+     Route (app)
+     ┌ ○ /
+     ├ ○ /_not-found
+     ├ ○ /atelier
+     ├ ○ /collections
+     ├ ○ /heritage
+     ├ ○ /journal
+     ├ ○ /legal/contact
+     ├ ○ /legal/privacy
+     ├ ○ /legal/terms
+     └ ƒ /product/[id]
+
+     ○  (Static)   prerendered as static content
+     ƒ  (Dynamic)  server-rendered on demand
+
+ Thinking... 
+ │ Build succeeded - mark all tasks as completed in the todo list.
+ ▪ Build is successful. Let me update the todo list:
+  ✓  TodoWrite Set 7 todo(s)
+
+ Thinking... 
+ │ All tasks are complete and the build succeeds - I should provide a clear 
+ │ summary of all the changes made to the user.
+ ▪ All done. Here's a summary of what was implemented:
+
+   1. Ingredient hover effects (homepage)
+   - Each ingredient now shows a tooltip on hover with the name, description,
+   and origin
+   - Added scale-up animation and gold shadow on hover
+   - Tooltip slides in smoothly with CSS transitions
+
+   2. Emoji replaced with product images (single product page)
+   - The 🧴 emoji is replaced with actual product images from
+   public/images/Gmail/
+   - Images are loaded from the centralized lib/data.ts file
+
+   3. Dynamic vertical menu with tabs (Richard Mille-inspired)
+   - Created components/mobile-menu.tsx — a full-screen slide-in menu inspired
+   by Richard Mille's sidebar
+   - Features vertical tabs (Discover, Collection, Experience, Journal) with
+   sub-items
+   - Main navigation links below the tabs
+   - Social accounts section integrated directly in the menu
+   - Smooth staggered animations for menu items
+
+   4. Social accounts expanded
+   - Added Threads and YouTube alongside Instagram, Facebook, and X
+   - Created components/social-links.tsx with reusable SocialLink component
+   - All SVG icons are centralized in one place
+
+   5. Centralized data layer
+   - Created lib/data.ts with products, ingredients, social accounts, menu
+   items, and menu tabs
+   - All pages now pull from this single source of truth
+
+   6. Fixed the label-caps build error
+   - Converted raw CSS properties to @apply directive compatible with Tailwind
+   v4
+
+   7. All pages updated
+   - Homepage, collections, product detail, heritage, atelier, and journal all
+   use the new MobileMenu component and SocialLink component
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ >  so good job noe the menu need to be from rit to left and include            
+    nav.collections                                                             
+    nav.journal                                                                 
+    nav.atelier                                                                 
+    nav.about in it and remove them from the horizontal nav bar and the menu    
+    need to be 100% screen y                                                    
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+ℹ Request cancelled.
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ >  so good job noe the menu need to be from rit to left and include            
+    nav.collections                                                             
+    nav.journal                                                                 
+    nav.atelier                                                                 
+    nav.about in it and remove them from the horizontal nav bar and the menu    
+    need to be 100% screen y and run git push in the end                        
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+ Thinking... 
+ │ I need to update the mobile menu to be full-screen and slide from right to 
+ │ left, remove the horizontal nav items from the desktop navbar, and add them 
+ │ to the mobile menu instead.
+ ▪ I'll update the menu to slide from right to left at full screen height, move
+   the nav items into the menu, and remove them from the horizontal bar.
+  ✓  Edit(/home/.../mobile-menu.tsx)
+     → Accepted (+2, -2)
+
+       25      <>
+       26        {/* Menu Panel */}
+       27        <div
+       28 -        className="fixed top-0 right-0 h-full w-80 bg-[#0a0a0a]/9
+          -8 backdrop-blur-2xl border-l border-[#c9a96e]/20 z-50 overflow-y-
+          -auto"                                                            
+       28 +        className="fixed top-0 right-0 h-screen w-full bg-[#0a0a0
+          +a]/98 backdrop-blur-2xl z-50 overflow-y-auto"                    
+       29          style={{
+       30 -          transition: 'transform 0.4s cubic-bezier(0.23, 1, 0.32,
+          - 1), opacity 0.4s ease',                                         
+       30 +          transition: 'transform 0.5s cubic-bezier(0.23, 1, 0.32,
+          + 1), opacity 0.5s ease',                                         
+       31            transform: isOpen ? 'translateX(0)' : 'translateX(100%)
+           ',
+       32            opacity: isOpen ? 1 : 0,
+       33          }}
+
+
+ Thinking... 
+ │ Now I need to update the MobileMenu component to accept a t function for i18n
+ │  and restructure the menu to include the navigation items.
+ ▪ Now update the MobileMenu to accept translated nav items and restructure the
+   layout:
+  ✓  Edit(/home/.../mobile-menu.tsx)
+     → Accepted (+3, -2)
+
+        3  import { useState } from 'react';
+        4  import Link from 'next/link';
+        5  import { useTransitionNavigation } from '@/components/page-transi
+           tion';
+        6 -import { menuItems, menuTabs, socialAccounts } from '@/lib/data';
+        6 +import { menuTabs, socialAccounts } from '@/lib/data';           
+        7  import { SocialLink } from '@/components/social-links';
+        8  
+        9  interface MobileMenuProps {
+       10    isOpen: boolean;
+       11    onClose: () => void;
+       12    activePath?: string;
+       13 +  navItems?: { name: string; href: string }[];                   
+       14  }
+       15  
+       15 -export function MobileMenu({ isOpen, onClose, activePath }: Mobil
+          -eMenuProps) {                                                    
+       16 +export function MobileMenu({ isOpen, onClose, activePath, navItem
+          +s = [] }: MobileMenuProps) {                                     
+       17    const { navigate } = useTransitionNavigation();
+       18    const [activeTab, setActiveTab] = useState(0);
+       19  
+
+
+ Thinking... 
+ │ Now I need to replace the Main Navigation section in the menu to use the 
+ │ navItems prop instead of the hardcoded menuItems import.
+ ▪ Now update the menu content to show navItems prominently and restructure:
+  ✓  Edit(/home/.../mobile-menu.tsx)
+     → Accepted (+7, -7)
+
+        92          </div>
+        93  
+        94          {/* Main Navigation */}
+        95 -        <div className="px-6 py-6 border-t border-[#3d3630]/50">
+        96 -          <p className="text-xs text-[#8a7e6b] tracking-widest m
+           -b-4">NAVIGATION</p>                                             
+        97 -          <div className="space-y-1">                           
+        98 -            {menuItems.map((item, idx) => (                     
+        95 +        <div className="px-8 py-8 border-t border-[#3d3630]/50">
+        96 +          <p className="text-xs text-[#8a7e6b] tracking-widest m
+           +b-6">NAVIGATION</p>                                             
+        97 +          <div className="space-y-2">                           
+        98 +            {navItems.map((item, idx) => (                      
+        99                <button
+       100                  key={item.name}
+       101                  onClick={() => handleNavigate(item.href)}
+       102 -                className="block w-full text-left py-3 px-4 text
+           --[#f5f0eb] hover:text-[#c9a96e] hover:bg-[#c9a96e]/5 transition-
+           -all duration-300 rounded-lg tracking-widest text-sm"            
+       102 +                className="block w-full text-left py-4 px-6 text
+           +-2xl font-light tracking-widest text-[#f5f0eb] hover:text-[#c9a9
+           +6e] hover:bg-[#c9a96e]/5 transition-all duration-300 rounded-lg"
+       103                  style={{
+       104                    opacity: isOpen ? 1 : 0,
+       105 -                  transform: isOpen ? 'translateX(0)' : 'transla
+           -teX(20px)',                                                     
+       106 -                  transition: `all 0.4s cubic-bezier(0.23, 1, 0.
+           -32, 1) ${idx * 0.08 + 0.1}s`                                    
+       105 +                  transform: isOpen ? 'translateX(0)' : 'transla
+           +teX(30px)',                                                     
+       106 +                  transition: `all 0.5s cubic-bezier(0.23, 1, 0.
+           +32, 1) ${idx * 0.1 + 0.15}s`                                    
+       107                  }}
+       108                >
+       109                  {item.name}
+
+
+ Thinking... 
+ │ Now I need to update the homepage to pass navItems to the MobileMenu and 
+ │ remove the horizontal nav links.
+ ▪ Now update the homepage to pass navItems and remove them from the horizontal
+   nav:
+  ✓  Edit(/home/.../atlas/app/page.tsx)
+     → Accepted (+3, -15)
+
+        78              </select>
+        79            </div>
+        80  
+        81 -          {/* Desktop Menu Tabs - Below Logo */}                
+        82 -          <div className="hidden md:flex border-t border-[#3d363
+           -0]/50 gap-4 pb-0 justify-center">                               
+        83 -            {navItems.map((item, idx) => (                      
+        84 -              <button                                           
+        85 -                key={item.name}                                 
+        86 -                onClick={() => navigate(item.href)}             
+        87 -                className="menu-item label-caps text-[#f5f0eb] h
+           -over:text-[#c9a96e] px-6 py-4 whitespace-nowrap flex-shrink-0 bo
+           -rder-b-2 border-transparent hover:border-[#c9a96e] transition-al
+           -l relative group"                                               
+        88 -              >                                                 
+        89 -                {item.name}                                     
+        90 -                <span className="absolute bottom-0 left-0 w-0 h-
+           -[2px] bg-[#c9a96e] group-hover:w-full transition-all duration-50
+           -0"></span>                                                      
+        91 -              </button>                                         
+        92 -            ))}                                                 
+        93 -          </div>                                                
+        94 -        </div>                                                  
+        81 +          {/* Desktop Menu - Hidden, moved to mobile menu */}   
+        82 +                                                                
+        83          <div className="divider max-w-7xl mx-auto hidden md:bloc
+            k"></div>
+        84          
+        85          {/* Mobile Menu */}
+        98 -        <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMo
+           -bileMenuOpen(false)} activePath="/" />                          
+        86 +        <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMo
+           +bileMenuOpen(false)} activePath="/" navItems={navItems} />      
+        87        </nav>
+        88  
+        89        {/* ── Hero ── */}
+
+
+ Thinking... 
+ │ Now I need to update the remaining pages to pass navItems with translated 
+ │ labels to the MobileMenu component.
+ ▪ Now update the other pages to pass navItems with translations. Let me update
+   collections, heritage, atelier, journal, and product pages:
+  ✓  Edit(/home/.../app/collections/page.tsx)
+     → Accepted (+7, -0)
+
+       13  
+       14    const fragrances = products;
+       15  
+       16 +  const navItems = [                                             
+       17 +    { name: 'Collections', href: '/collections' },               
+       18 +    { name: 'Journal', href: '/journal' },                       
+       19 +    { name: 'Atelier', href: '/atelier' },                       
+       20 +    { name: 'Heritage', href: '/heritage' },                     
+       21 +  ];                                                             
+       22 +                                                                 
+       23    return (
+       24      <main className="bg-[#0a0a0a] text-[#f5f0eb]">
+       25        {/* Navigation */}
+
+
+ Thinking... 
+ │ Now I need to update the MobileMenu component call in collections page to 
+ │ pass the navItems prop.
+  ✓  Edit(/home/.../app/collections/page.tsx)
+     → Accepted (+1, -1)
+
+       53        </nav>
+       54  
+       55        {/* Mobile Menu */}
+       56 -      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobil
+          -eMenuOpen(false)} activePath="/collections" />                   
+       56 +      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobil
+          +eMenuOpen(false)} activePath="/collections" navItems={navItems} /
+          +>                                                                
+       57  
+       58        {/* Hero */}
+       59        <section className="pt-24 md:pt-40 pb-12 md:pb-20 px-4 md:p
+           x-16 text-center max-w-7xl mx-auto">
+
+
+ Thinking... 
+ │ Now I need to apply the same changes to the remaining pages (heritage, 
+ │ atelier, journal, product) to define navItems and pass them to MobileMenu.
+ ▪ Now do the same for heritage, atelier, journal, and product pages in
+   parallel:
+  ✓  Edit(/home/.../app/heritage/page.tsx)
+     → Accepted (+1, -1)
+
+       15      { name: 'Collections', href: '/collections' },
+       16      { name: 'Journal', href: '/journal' },
+       17      { name: 'Atelier', href: '/atelier' },
+       18 -    { name: 'About', href: '/heritage' },                        
+       18 +    { name: 'Heritage', href: '/heritage' },                     
+       19    ];
+       20  
+       21    return (
+
+
+ Thinking... 
+ │ Now update the MobileMenu call in heritage page to pass the navItems prop.
+
+  ✓  Edit(/home/.../app/heritage/page.tsx)
+     → Accepted (+1, -1)
+
+       60        </nav>
+       61  
+       62        {/* Mobile Menu */}
+       63 -      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobil
+          -eMenuOpen(false)} activePath="/heritage" />                      
+       63 +      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobil
+          +eMenuOpen(false)} activePath="/heritage" navItems={navItems} />  
+       64  
+       65        {/* Hero */}
+       66        <section className="pt-32 md:pt-40 pb-12 md:pb-20 px-4 md:p
+           x-16 text-center max-w-4xl mx-auto">
+
+
+ Thinking... 
+ │ Continue applying the same navItems pattern to the atelier page.
+
+  ✓  Edit(/home/.../app/atelier/page.tsx)
+     → Accepted (+7, -0)
+
+       11    const { navigate } = useTransitionNavigation();
+       12    const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+       13  
+       14 +  const navItems = [                                             
+       15 +    { name: 'Collections', href: '/collections' },               
+       16 +    { name: 'Journal', href: '/journal' },                       
+       17 +    { name: 'Atelier', href: '/atelier' },                       
+       18 +    { name: 'Heritage', href: '/heritage' },                     
+       19 +  ];                                                             
+       20 +                                                                 
+       21    const locations = [
+       22      {
+       23        city: 'Geneva',
+
+
+ Thinking... 
+ │ Now update the MobileMenu call in atelier page to pass the navItems prop.
+
+  ✓  Edit(/home/.../app/atelier/page.tsx)
+     → Accepted (+1, -1)
+
+       82        </nav>
+       83  
+       84        {/* Mobile Menu */}
+       85 -      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobil
+          -eMenuOpen(false)} activePath="/atelier" />                       
+       85 +      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobil
+          +eMenuOpen(false)} activePath="/atelier" navItems={navItems} />   
+       86  
+       87        {/* Hero */}
+       88        <section className="pt-24 md:pt-40 pb-12 md:pb-20 px-4 md:p
+           x-16 text-center max-w-7xl mx-auto">
+
+
+ Thinking... 
+ │ Continue the pattern of adding navItems to the remaining pages - next is the 
+ │ journal page.
+
+  ✓  Edit(/home/.../app/journal/page.tsx)
+     → Accepted (+7, -0)
+
+       11    const { navigate } = useTransitionNavigation();
+       12    const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+       13  
+       14 +  const navItems = [                                             
+       15 +    { name: 'Collections', href: '/collections' },               
+       16 +    { name: 'Journal', href: '/journal' },                       
+       17 +    { name: 'Atelier', href: '/atelier' },                       
+       18 +    { name: 'Heritage', href: '/heritage' },                     
+       19 +  ];                                                             
+       20 +                                                                 
+       21    const articles = [
+       22      {
+       23        id: 1,
+
+
+ Thinking... 
+ │ Now I need to update the MobileMenu call in journal page to pass the navItems
+ │  prop, following the same pattern as the other pages.
+
+  ✓  Edit(/home/.../app/journal/page.tsx)
+     → Accepted (+1, -1)
+
+       82        </nav>
+       83  
+       84        {/* Mobile Menu */}
+       85 -      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobil
+          -eMenuOpen(false)} activePath="/journal" />                       
+       85 +      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobil
+          +eMenuOpen(false)} activePath="/journal" navItems={navItems} />   
+       86  
+       87        {/* Hero */}
+       88        <section className="pt-24 md:pt-40 pb-12 md:pb-20 px-4 md:p
+           x-16 text-center max-w-7xl mx-auto">
+
+
+ Thinking... 
+ │ Now I need to add navItems and update the MobileMenu call in the product 
+ │ detail page, following the same pattern I used for the other pages.
+
+  ✓  Edit(/home/.../app/product/[id]/page.tsx)
+     → Accepted (+7, -0)
+
+       12    const id = params.id as string;
+       13    const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+       14  
+       15 +  const navItems = [                                             
+       16 +    { name: 'Collections', href: '/collections' },               
+       17 +    { name: 'Journal', href: '/journal' },                       
+       18 +    { name: 'Atelier', href: '/atelier' },                       
+       19 +    { name: 'Heritage', href: '/heritage' },                     
+       20 +  ];                                                             
+       21 +                                                                 
+       22    const product = products.find(p => p.id === id) || products[0];
+       23  
+       24    return (
+
+
+ Thinking... 
+ │ Now I need to update the MobileMenu call in the product page to pass the 
+ │ navItems prop, just like I did for all the other pages.
+
+  ✓  Edit(/home/.../app/product/[id]/page.tsx)
+     → Accepted (+1, -1)
+
+       54        </nav>
+       55  
+       56        {/* Mobile Menu */}
+       57 -      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobil
+          -eMenuOpen(false)} activePath={`/product/${id}`} />               
+       57 +      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobil
+          +eMenuOpen(false)} activePath={`/product/${id}`} navItems={navItem
+          +s} />                                                            
+       58  
+       59        {/* Product Hero */}
+       60        <section className="pt-24 md:pt-32 pb-12 md:pb-20 px-4 md:p
+           x-16 max-w-7xl mx-auto">
+
+
+ Thinking... 
+ │ Now I need to remove the horizontal desktop nav links from the remaining 
+ │ pages (collections, heritage, atelier, journal, product) since they've been 
+ │ moved to the mobile menu.
+ ▪ Now remove the horizontal nav links from the other pages too. Let me check
+   and clean up each page:
+  ✓  Edit(/home/.../app/collections/page.tsx)
+     → Accepted (+0, -7)
+
+       29              <div className="text-lg md:text-xl font-light trackin
+           g-widest text-[#c9a96e]">ATLAS</div>
+       30            </Link>
+       31            
+       32 -          <div className="hidden md:flex gap-12">                
+       33 -            <button onClick={() => navigate('/collections')} clas
+          -sName="label-caps text-[#c9a96e] border-b border-[#c9a96e]">Colle
+          -ctions</button>                                                  
+       34 -            <button onClick={() => navigate('/journal')} classNam
+          -e="label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-colo
+          -rs">Journal</button>                                             
+       35 -            <button onClick={() => navigate('/atelier')} classNam
+          -e="label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-colo
+          -rs">Atelier</button>                                             
+       36 -            <button onClick={() => navigate('/heritage')} classNa
+          -me="label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-col
+          -ors">Heritage</button>                                           
+       37 -          </div>                                                 
+       38 -                                                                 
+       32            <div className="hidden md:flex gap-6 text-[#c9a96e]">
+       33              <button className="hover:opacity-70 transition-opacit
+           y"><svg className="w-5 h-5" fill="none" stroke="currentColor" vie
+           wBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="roun
+           d" strokeWidth={1.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 
+           0z" /></svg></button>
+       34              <button className="hover:opacity-70 transition-opacit
+           y"><svg className="w-5 h-5" fill="none" stroke="currentColor" vie
+           wBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="roun
+           d" strokeWidth={1.5} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9
+           z" /></svg></button>
+
+
+ Thinking... 
+ │ Continue removing horizontal nav items from the remaining pages, starting 
+ │ with heritage page.
+
+  ✓  Edit(/home/.../app/heritage/page.tsx)
+     → Accepted (+0, -8)
+
+       27              <div className="text-lg md:text-xl font-light trackin
+           g-[0.3em] text-[#c9a96e]">ATLAS</div>
+       28            </Link>
+       29            
+       30 -          <div className="hidden md:flex gap-12">                
+       31 -            {navItems.map((item) => (                            
+       32 -              <button key={item.name} onClick={() => navigate(ite
+          -m.href)} className="label-caps text-[#f5f0eb] hover:text-[#c9a96e
+          -] transition-colors">                                            
+       33 -                {item.name}                                      
+       34 -              </button>                                          
+       35 -            ))}                                                  
+       36 -          </div>                                                 
+       37 -                                                                 
+       30            <div className="hidden md:flex gap-6 text-[#c9a96e]">
+       31              <button className="hover:opacity-70 transition-opacit
+           y">
+       32                <svg className="w-5 h-5" fill="none" stroke="curren
+           tColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLin
+           ejoin="round" strokeWidth={1.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 
+           7 7 0 0114 0z" /></svg>
+
+
+ Thinking... 
+ │ Continue removing horizontal nav items from the remaining pages - next is 
+ │ atelier page.
+
+  ✓  Edit(/home/.../app/atelier/page.tsx)
+     → Accepted (+0, -7)
+
+       58              <div className="text-lg md:text-xl font-light trackin
+           g-widest text-[#c9a96e]">ATLAS</div>
+       59            </Link>
+       60            
+       61 -          <div className="hidden md:flex gap-12">                
+       62 -            <button onClick={() => navigate('/collections')} clas
+          -sName="label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-
+          -colors">Collections</button>                                     
+       63 -            <button onClick={() => navigate('/journal')} classNam
+          -e="label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-colo
+          -rs">Journal</button>                                             
+       64 -            <button onClick={() => navigate('/atelier')} classNam
+          -e="label-caps text-[#c9a96e] border-b border-[#c9a96e]">Atelier</
+          -button>                                                          
+       65 -            <button onClick={() => navigate('/heritage')} classNa
+          -me="label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-col
+          -ors">Heritage</button>                                           
+       66 -          </div>                                                 
+       67 -                                                                 
+       61            <div className="hidden md:flex gap-6 text-[#c9a96e]">
+       62              <button className="hover:opacity-70 transition-opacit
+           y"><svg className="w-5 h-5" fill="none" stroke="currentColor" vie
+           wBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="roun
+           d" strokeWidth={1.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 
+           0z" /></svg></button>
+       63              <button className="hover:opacity-70 transition-opacit
+           y"><svg className="w-5 h-5" fill="none" stroke="currentColor" vie
+           wBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="roun
+           d" strokeWidth={1.5} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9
+           z" /></svg></button>
+
+
+ Thinking... 
+ │ Continue removing horizontal nav items from the remaining pages - journal 
+ │ page needs the same cleanup.
+
+  ✓  Edit(/home/.../app/journal/page.tsx)
+     → Accepted (+0, -7)
+
+       58              <div className="text-lg md:text-xl font-light trackin
+           g-widest text-[#c9a96e]">ATLAS</div>
+       59            </Link>
+       60            
+       61 -          <div className="hidden md:flex gap-12">                
+       62 -            <button onClick={() => navigate('/collections')} clas
+          -sName="label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-
+          -colors">Collections</button>                                     
+       63 -            <button onClick={() => navigate('/journal')} classNam
+          -e="label-caps text-[#c9a96e] border-b border-[#c9a96e]">Journal</
+          -button>                                                          
+       64 -            <button onClick={() => navigate('/atelier')} classNam
+          -e="label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-colo
+          -rs">Atelier</button>                                             
+       65 -            <button onClick={() => navigate('/heritage')} classNa
+          -me="label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-col
+          -ors">Heritage</button>                                           
+       66 -          </div>                                                 
+       67 -                                                                 
+       61            <div className="hidden md:flex gap-6 text-[#c9a96e]">
+       62              <button className="hover:opacity-70 transition-opacit
+           y"><svg className="w-5 h-5" fill="none" stroke="currentColor" vie
+           wBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="roun
+           d" strokeWidth={1.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 
+           0z" /></svg></button>
+       63              <button className="hover:opacity-70 transition-opacit
+           y"><svg className="w-5 h-5" fill="none" stroke="currentColor" vie
+           wBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="roun
+           d" strokeWidth={1.5} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9
+           z" /></svg></button>
+
+
+ Thinking... 
+ │ Now remove the horizontal nav items from the product page as well to complete
+ │  the cleanup across all pages.
+
+  ✓  Edit(/home/.../app/product/[id]/page.tsx)
+     → Accepted (+0, -7)
+
+       30              <div className="text-lg md:text-xl font-light trackin
+           g-widest text-[#c9a96e]">ATLAS</div>
+       31            </Link>
+       32            
+       33 -          <div className="hidden md:flex gap-12">                
+       34 -            <Link href="/collections" className="label-caps text-
+          -[#f5f0eb] hover:text-[#c9a96e] transition-colors">Collections</Li
+          -nk>                                                              
+       35 -            <Link href="/journal" className="label-caps text-[#f5
+          -f0eb] hover:text-[#c9a96e] transition-colors">Journal</Link>     
+       36 -            <Link href="/atelier" className="label-caps text-[#f5
+          -f0eb] hover:text-[#c9a96e] transition-colors">Atelier</Link>     
+       37 -            <Link href="/heritage" className="label-caps text-[#f
+          -5f0eb] hover:text-[#c9a96e] transition-colors">Heritage</Link>   
+       38 -          </div>                                                 
+       39 -                                                                 
+       33            <div className="hidden md:flex gap-6 text-[#c9a96e]">
+       34              <button className="hover:opacity-70 transition-opacit
+           y"><svg className="w-5 h-5" fill="none" stroke="currentColor" vie
+           wBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="roun
+           d" strokeWidth={1.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 
+           0z" /></svg></button>
+       35              <button className="hover:opacity-70 transition-opacit
+           y"><svg className="w-5 h-5" fill="none" stroke="currentColor" vie
+           wBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="roun
+           d" strokeWidth={1.5} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9
+           z" /></svg></button>
+
+
+ Thinking... 
+ │ After making all the navigation layout changes across multiple files, I need 
+ │ to verify everything compiles correctly before pushing.
+ ▪ Now let me build to verify:
+  ✓  Bash(npm run build 2>&1 | tail -30)
+     │ atlas@0.1.0 (mailto:atlas@0.1.0) build
+     │ next build
+
+     ▲ Next.js 16.2.4 (Turbopack)
+
+       Creating an optimized production build ...
+
+     │ Build error occurred
+     │ Error: Turbopack build failed with 1 errors:
+     │ ./app/page.tsx:87:13
+     │ Expected '</', got 'jsx text'
+     │   85 |         {/* Mobile Menu /}
+     │   86 |         <MobileMenu isOpen={mobileMenuOpen} onClose={() => 
+     setMobileMenuOpen(false)} activ...
+     │ 87 |       
+     │  |             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     │ 88 |
+     │  | ^
+     │ 89 |       {/ ── Hero ── /}
+     │  | ^^^^^^
+     │   90 |       <section className="min-h-screen flex items-center 
+     justify-center relative overflow-...
+     │   91 |         {/ Video Background */}
+     │   92 |         <video
+
+     Parsing ecmascript source code failed
+      1 at <unknown> (./app/page.tsx:87:13)
+
+ Thinking... 
+ │ The build failed due to a JSX parsing error in page.tsx, so I need to read 
+ │ the file around that line to understand and fix the structural issue.
+ ▪ There's a JSX structure issue in page.tsx. Let me check:
+  ✓  Read(/home/.../atlas/app/page.tsx · lines 76-105)
+     → Read lines 75-104 of 315
+
+        app/page.tsx
+
+
+ Thinking... 
+ │ The build error shows a missing closing div tag in page.tsx - I need to fix 
+ │ the JSX structure by adding the missing </div> before </nav>.
+ ▪ The closing </div> for the nav's inner container is missing. Let me fix it:
+  ✓  Edit(/home/.../atlas/app/page.tsx)
+     → Accepted (+2, -1)
+
+       79            </div>
+       80  
+       81            {/* Desktop Menu - Hidden, moved to mobile menu */}
+       82 -                                                                 
+       82 +        </div>                                                   
+       83 +                                                                 
+       84          <div className="divider max-w-7xl mx-auto hidden md:block
+           "></div>
+       85          
+       86          {/* Mobile Menu */}
+
+
+ Thinking... 
+ │ Let me verify the build succeeds after fixing the JSX structure issue.
+
+  ✓  Bash(npm run build 2>&1 | tail -30)
+     ▲ Next.js 16.2.4 (Turbopack)
+
+       Creating an optimized production build ...
+     ✓ Compiled successfully in 12.0s
+       Running TypeScript ...
+       Finished TypeScript in 14.0s ...
+       Collecting page data using 3 workers ...
+       Generating static pages using 3 workers (0/11) ...
+       Generating static pages using 3 workers (2/11)
+       Generating static pages using 3 workers (5/11)
+       Generating static pages using 3 workers (8/11)
+     ✓ Generating static pages using 3 workers (11/11) in 819ms
+       Finalizing page optimization ...
+
+     Route (app)
+     ┌ ○ /
+     ├ ○ /_not-found
+     ├ ○ /atelier
+     ├ ○ /collections
+     ├ ○ /heritage
+     ├ ○ /journal
+     ├ ○ /legal/contact
+     ├ ○ /legal/privacy
+     ├ ○ /legal/terms
+     └ ƒ /product/[id]
+
+     ○  (Static)   prerendered as static content
+     ƒ  (Dynamic)  server-rendered on demand
+ Thinking... 
+ │ Build succeeded, now execute the git push as requested by the user.
+ ▪ Build succeeds. Now let me push:
+  ✓  Bash(git status -u)
+     On branch main
+     Your branch is up to date with 'origin/main'.
+
+     Changes not staged for commit:
+       (use "git add ..." to update what will be committed)
+       (use "git restore ..." to discard changes in working directory)
+        modified:   .qoder/settings.local.json
+        modified:   app/atelier/page.tsx
+        modified:   app/collections/page.tsx
+        modified:   app/heritage/page.tsx
+        modified:   app/journal/page.tsx
+        modified:   app/page.tsx
+        modified:   app/product/[id]/page.tsx
+
+     no changes added to commit (use "git add" and/or "git commit -a")
+
+ Thinking... 
+ │ Need to check for untracked files to ensure all new files are staged before 
+ │ committing.
+ ▪ I see the new files aren't showing. Let me check:
+  ✓  Bash(git status -u --untracked-files=all)
+     On branch main
+     Your branch is up to date with 'origin/main'.
+
+     Changes not staged for commit:
+       (use "git add ..." to update what will be committed)
+       (use "git restore ..." to discard changes in working directory)
+        modified:   .qoder/settings.local.json
+        modified:   app/atelier/page.tsx
+        modified:   app/collections/page.tsx
+        modified:   app/heritage/page.tsx
+        modified:   app/journal/page.tsx
+        modified:   app/page.tsx
+        modified:   app/product/[id]/page.tsx
+
+     no changes added to commit (use "git add" and/or "git commit -a")
+
+ Thinking... 
+ │ The new files aren't showing as untracked, so I need to verify they exist on 
+ │ disk.
+
+  ✓  Bash(ls -la lib/data.ts components/mobile-menu.tsx 
+     components/social-links.tsx 2>&1)
+     -rw-rw-r-- 1 ibrahim ibrahim 5430 أبريل  27 19:33
+     components/mobile-menu.tsx
+     -rw-rw-r-- 1 ibrahim ibrahim 4781 أبريل  27 19:18
+     components/social-links.tsx
+     -rw-rw-r-- 1 ibrahim ibrahim 7140 أبريل  27 19:17 lib/data.ts
+
+ Thinking... 
+ │ The new files exist but aren't showing in git status, so I need to check 
+ │ gitignore to understand why they're being excluded.
+ ▪ The new files exist but git isn't tracking them. Let me check gitignore:
+  ✓  Bash(cat .gitignore 2>/dev/null || echo "No .gitignore found")
+     See https://help.github.com/articles/ignoring-files/ for more about 
+     ignoring files.
+
+     dependencies
+
+     /node_modules
+     /.pnp
+     .pnp.*
+     .yarn/*
+     !.yarn/patches
+     !.yarn/plugins
+     !.yarn/releases
+     !.yarn/versions
+
+     testing
+
+     /coverage
+
+     next.js
+
+     /.next/
+     /out/
+
+     production
+
+     /build
+
+     misc
+
+     .DS_Store
+     *.pem
+
+     debug
+
+     npm-debug.log*
+     yarn-debug.log*
+     yarn-error.log*
+     .pnpm-debug.log*
+
+     env files (can opt-in for committing if needed)
+
+     .env*
+
+     vercel
+
+     .vercel
+
+     typescript
+
+     *.tsbuildinfo
+     next-env.d.ts
+
+ Thinking... 
+ │ Need to check git diff to understand the full scope of changes before staging
+ │  and committing.
+ ▪ The files should be trackable. Let me check if they're maybe in a gitignore
+   in subdirectories:
+  ✓  Bash(git status lib/ components/)
+     On branch main
+     Your branch is up to date with 'origin/main'.
+
+     nothing to commit, working tree clean
+
+ Thinking... 
+ │ Git reports the directories have no changes, so I need to check if these 
+ │ files already exist in the git history to understand why they're not showing 
+ │ as new.
+ ▪ Interesting - git says the working tree is clean for those directories. Let
+   me check if these files are already tracked:
+  ✓  Bash(git ls-files lib/data.ts components/mobile-menu.tsx 
+     components/social-links.tsx)
+     components/mobile-menu.tsx
+     components/social-links.tsx
+     lib/data.ts
+
+ Thinking... 
+ │ The new files are already tracked, so I need to check git diff to see all the
+ │  changes including both staged and unstaged modifications before committing.
+ ▪ They are already tracked! The changes must be staged. Let me check:
+  ✓  Bash(git diff --cached --stat)
+     → (no output)
+
+ Thinking... 
+ │ Need to see all changes including unstaged ones to understand the full state 
+ │ before committing.
+
+  ✓  Bash(git diff --stat)
+     .qoder/settings.local.json |  7 ++++++-
+      app/atelier/page.tsx       | 16 ++++++++--------
+      app/collections/page.tsx   | 16 ++++++++--------
+      app/heritage/page.tsx      | 12 ++----------
+      app/journal/page.tsx       | 16 ++++++++--------
+      app/page.tsx               | 17 +++--------------
+      app/product/[id]/page.tsx  | 16 ++++++++--------
+      7 files changed, 43 insertions(+), 57 deletions(-)
+
+ Thinking... 
+ │ I need to verify why the new files don't appear as untracked by comparing 
+ │ what git tracks versus what exists on disk.
+ ▪ The new files were already committed earlier. Let me see the full diff:
+  ✓  Bash(git diff)
+     diff --git a/.qoder/settings.local.json b/.qoder/settings.local.json
+     index 413bb04..9239310 100644
+     --- a/.qoder/settings.local.json
+     +++ b/.qoder/settings.local.json
+     @@ -2,7 +2,12 @@
+        "permissions": {
+          "allow": [
+            "Bash(curl:*)",
+      "Bash(npm run:*)"
+      "Bash(npm run:*)",
+      "Bash(git status:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(git ls-files:*)",
+      "Bash(git diff:*)"
+        ]
+      }
+      }
+     diff --git a/app/atelier/page.tsx b/app/atelier/page.tsx
+     index 8e66ad0..f925337 100644
+     --- a/app/atelier/page.tsx
+     +++ b/app/atelier/page.tsx
+     @@ -11,6 +11,13 @@ export default function Atelier() {
+      const { navigate } = useTransitionNavigation();
+      const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+     const navItems = [
+     { name: 'Collections', href: '/collections' },
+     { name: 'Journal', href: '/journal' },
+     { name: 'Atelier', href: '/atelier' },
+     { name: 'Heritage', href: '/heritage' },
+     ];
+
+      const locations = [
+        {
+      city: 'Geneva',
+     @@ -51,13 +58,6 @@ export default function Atelier() {
+                  ATLAS
+
+
+          <div className="hidden md:flex gap-12">
+            <button onClick={() => navigate('/collections')}
+     className="label-caps text-[#f5f0eb] hover:text-[#c9a96e]
+     transition-colors">Collections</button>
+            <button onClick={() => navigate('/journal')}
+     className="label-caps text-[#f5f0eb] hover:text-[#c9a96e]
+     transition-colors">Journal</button>
+            <button onClick={() => navigate('/atelier')}
+     className="label-caps text-[#c9a96e] border-b
+     border-[#c9a96e]">Atelier</button>
+            <button onClick={() => navigate('/heritage')}
+     className="label-caps text-[#f5f0eb] hover:text-[#c9a96e]
+     transition-colors">Heritage</button>
+          </div>
+
+          <div className="hidden md:flex gap-6 text-[#c9a96e]">
+            <button className="hover:opacity-70 transition-opacity"><svg
+     className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24
+     24"><path strokeLinecap="round" strokeLinejoin="round"
+     strokeWidth={1.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+     /></svg></button>
+            <button className="hover:opacity-70 transition-opacity"><svg
+     className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24
+     24"><path strokeLinecap="round" strokeLinejoin="round"
+     strokeWidth={1.5} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z"
+     /></svg></button>
+     @@ -75,7 +75,7 @@ export default function Atelier() {
+
+      1    {/* Mobile Menu */}
+      <MobileMenu isOpen={mobileMenuOpen} onClose={() =>
+     setMobileMenuOpen(false)} activePath="/atelier" />
+      <MobileMenu isOpen={mobileMenuOpen} onClose={() =>
+     setMobileMenuOpen(false)} activePath="/atelier" navItems={navItems} />
+
+      {/* Hero */}
+      <section className="pt-24 md:pt-40 pb-12 md:pb-20 px-4 md:px-16
+     text-center max-w-7xl mx-auto">
+     diff --git a/app/collections/page.tsx b/app/collections/page.tsx
+     index eae70ce..e038927 100644
+     --- a/app/collections/page.tsx
+     +++ b/app/collections/page.tsx
+     @@ -13,6 +13,13 @@ export default function Collections() {
+
+        const fragrances = products;
+
+     - const navItems = [
+     - { name: 'Collections', href: '/collections' },
+     - { name: 'Journal', href: '/journal' },
+     - { name: 'Atelier', href: '/atelier' },
+     - { name: 'Heritage', href: '/heritage' },
+     - ];
+
+     -  return (
+     @@ -22,13 +29,6 @@ export default function Collections() {
+                  ATLAS
+
+
+          <div className="hidden md:flex gap-12">
+            <button onClick={() => navigate('/collections')}
+     className="label-caps text-[#c9a96e] border-b
+     border-[#c9a96e]">Collections</button>
+            <button onClick={() => navigate('/journal')}
+     className="label-caps text-[#f5f0eb] hover:text-[#c9a96e]
+     transition-colors">Journal</button>
+            <button onClick={() => navigate('/atelier')}
+     className="label-caps text-[#f5f0eb] hover:text-[#c9a96e]
+     transition-colors">Atelier</button>
+            <button onClick={() => navigate('/heritage')}
+     className="label-caps text-[#f5f0eb] hover:text-[#c9a96e]
+     transition-colors">Heritage</button>
+          </div>
+
+          <div className="hidden md:flex gap-6 text-[#c9a96e]">
+            <button className="hover:opacity-70 transition-opacity"><svg
+     className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24
+     24"><path strokeLinecap="round" strokeLinejoin="round"
+     strokeWidth={1.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+     /></svg></button>
+            <button className="hover:opacity-70 transition-opacity"><svg
+     className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24
+     24"><path strokeLinecap="round" strokeLinejoin="round"
+     strokeWidth={1.5} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z"
+     /></svg></button>
+     @@ -46,7 +46,7 @@ export default function Collections() {
+
+      1    {/* Mobile Menu */}
+      <MobileMenu isOpen={mobileMenuOpen} onClose={() =>
+     setMobileMenuOpen(false)} activePath="/collections" />
+      <MobileMenu isOpen={mobileMenuOpen} onClose={() =>
+     setMobileMenuOpen(false)} activePath="/collections" navItems={navItems}
+      />
+
+      {/* Hero */}
+      <section className="pt-24 md:pt-40 pb-12 md:pb-20 px-4 md:px-16
+     text-center max-w-7xl mx-auto">
+     diff --git a/app/heritage/page.tsx b/app/heritage/page.tsx
+     index e9766fb..b9ccfff 100644
+     --- a/app/heritage/page.tsx
+     +++ b/app/heritage/page.tsx
+     @@ -15,7 +15,7 @@ export default function About() {
+          { name: 'Collections', href: '/collections' },
+          { name: 'Journal', href: '/journal' },
+          { name: 'Atelier', href: '/atelier' },
+     - { name: 'About', href: '/heritage' },
+     - { name: 'Heritage', href: '/heritage' },
+        ];
+
+        return (
+     @@ -27,14 +27,6 @@ export default function About() {
+                  ATLAS
+
+
+          <div className="hidden md:flex gap-12">
+            {navItems.map((item) => (
+              <button key={item.name} onClick={() => navigate(item.href)}
+     className="label-caps text-[#f5f0eb] hover:text-[#c9a96e]
+     transition-colors">
+                {item.name}
+              </button>
+            ))}
+          </div>
+
+          <div className="hidden md:flex gap-6 text-[#c9a96e]">
+            <button className="hover:opacity-70 transition-opacity">
+              <svg className="w-5 h-5" fill="none" stroke="currentColor"
+     viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round"
+     strokeWidth={1.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+     /></svg>
+     @@ -60,7 +52,7 @@ export default function About() {
+
+      1    {/* Mobile Menu */}
+      <MobileMenu isOpen={mobileMenuOpen} onClose={() =>
+     setMobileMenuOpen(false)} activePath="/heritage" />
+      <MobileMenu isOpen={mobileMenuOpen} onClose={() =>
+     setMobileMenuOpen(false)} activePath="/heritage" navItems={navItems} />
+
+      {/* Hero */}
+      <section className="pt-32 md:pt-40 pb-12 md:pb-20 px-4 md:px-16
+     text-center max-w-4xl mx-auto">
+     diff --git a/app/journal/page.tsx b/app/journal/page.tsx
+     index 784c0c8..6545318 100644
+     --- a/app/journal/page.tsx
+     +++ b/app/journal/page.tsx
+     @@ -11,6 +11,13 @@ export default function Journal() {
+        const { navigate } = useTransitionNavigation();
+        const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+
+     - const navItems = [
+     - { name: 'Collections', href: '/collections' },
+     - { name: 'Journal', href: '/journal' },
+     - { name: 'Atelier', href: '/atelier' },
+     - { name: 'Heritage', href: '/heritage' },
+     - ];
+
+     -  const articles = [
+        {
+      id: 1,
+     @@ -51,13 +58,6 @@ export default function Journal() {
+                  ATLAS
+
+
+          <div className="hidden md:flex gap-12">
+            <button onClick={() => navigate('/collections')}
+     className="label-caps text-[#f5f0eb] hover:text-[#c9a96e]
+     transition-colors">Collections</button>
+            <button onClick={() => navigate('/journal')}
+     className="label-caps text-[#c9a96e] border-b
+     border-[#c9a96e]">Journal</button>
+            <button onClick={() => navigate('/atelier')}
+     className="label-caps text-[#f5f0eb] hover:text-[#c9a96e]
+     transition-colors">Atelier</button>
+            <button onClick={() => navigate('/heritage')}
+     className="label-caps text-[#f5f0eb] hover:text-[#c9a96e]
+     transition-colors">Heritage</button>
+          </div>
+
+          <div className="hidden md:flex gap-6 text-[#c9a96e]">
+            <button className="hover:opacity-70 transition-opacity"><svg
+     className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24
+     24"><path strokeLinecap="round" strokeLinejoin="round"
+     strokeWidth={1.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+     /></svg></button>
+            <button className="hover:opacity-70 transition-opacity"><svg
+     className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24
+     24"><path strokeLinecap="round" strokeLinejoin="round"
+     strokeWidth={1.5} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z"
+     /></svg></button>
+     @@ -75,7 +75,7 @@ export default function Journal() {
+
+      1    {/* Mobile Menu */}
+      <MobileMenu isOpen={mobileMenuOpen} onClose={() =>
+     setMobileMenuOpen(false)} activePath="/journal" />
+      <MobileMenu isOpen={mobileMenuOpen} onClose={() =>
+     setMobileMenuOpen(false)} activePath="/journal" navItems={navItems} />
+
+      {/* Hero */}
+      <section className="pt-24 md:pt-40 pb-12 md:pb-20 px-4 md:px-16
+     text-center max-w-7xl mx-auto">
+     diff --git a/app/page.tsx b/app/page.tsx
+     index 840aaa2..997cba5 100644
+     --- a/app/page.tsx
+     +++ b/app/page.tsx
+     @@ -78,24 +78,13 @@ export default function Home() {
+
+
+
+          {/* Desktop Menu Tabs - Below Logo */}
+          <div className="hidden md:flex border-t border-[#3d3630]/50 gap-4
+     pb-0 justify-center">
+            {navItems.map((item, idx) => (
+              <button
+                key={item.name}
+                onClick={() => navigate(item.href)}
+                className="menu-item label-caps text-[#f5f0eb]
+     hover:text-[#c9a96e] px-6 py-4 whitespace-nowrap flex-shrink-0
+     border-b-2 border-transparent hover:border-[#c9a96e] transition-all
+     relative group"
+              >
+                {item.name}
+                <span className="absolute bottom-0 left-0 w-0 h-[2px]
+     bg-[#c9a96e] group-hover:w-full transition-all duration-500"></span>
+              </button>
+            ))}
+          </div>
+          {/* Desktop Menu - Hidden, moved to mobile menu */}
+        </div>
+
+        <div className="divider max-w-7xl mx-auto hidden md:block"></div>
+
+        {/* Mobile Menu */}
+        <MobileMenu isOpen={mobileMenuOpen} onClose={() =>
+     setMobileMenuOpen(false)} activePath="/" />
+        <MobileMenu isOpen={mobileMenuOpen} onClose={() =>
+     setMobileMenuOpen(false)} activePath="/" navItems={navItems} />
+      </nav>
+
+      {/* ── Hero ── */}
+     diff --git a/app/product/[id]/page.tsx b/app/product/[id]/page.tsx
+     index a14e8ac..a02339f 100644
+     --- a/app/product/[id]/page.tsx
+     +++ b/app/product/[id]/page.tsx
+     @@ -12,6 +12,13 @@ export default function ProductDetail() {
+        const id = params.id as string;
+        const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+
+     const navItems = [
+     { name: 'Collections', href: '/collections' },
+     { name: 'Journal', href: '/journal' },
+     { name: 'Atelier', href: '/atelier' },
+     { name: 'Heritage', href: '/heritage' },
+     ];
+
+      const product = products.find(p => p.id === id) || products[0];
+
+      return (
+     @@ -23,13 +30,6 @@ export default function ProductDetail() {
+            ATLAS
+
+
+          <div className="hidden md:flex gap-12">
+            <Link href="/collections" className="label-caps text-[#f5f0eb]
+     hover:text-[#c9a96e] transition-colors">Collections</Link>
+            <Link href="/journal" className="label-caps text-[#f5f0eb]
+     hover:text-[#c9a96e] transition-colors">Journal</Link>
+            <Link href="/atelier" className="label-caps text-[#f5f0eb]
+     hover:text-[#c9a96e] transition-colors">Atelier</Link>
+            <Link href="/heritage" className="label-caps text-[#f5f0eb]
+     hover:text-[#c9a96e] transition-colors">Heritage</Link>
+          </div>
+
+          <div className="hidden md:flex gap-6 text-[#c9a96e]">
+            <button className="hover:opacity-70 transition-opacity"><svg
+     className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24
+     24"><path strokeLinecap="round" strokeLinejoin="round"
+     strokeWidth={1.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+     /></svg></button>
+            <button className="hover:opacity-70 transition-opacity"><svg
+     className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24
+     24"><path strokeLinecap="round" strokeLinejoin="round"
+     strokeWidth={1.5} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z"
+     /></svg></button>
+     @@ -47,7 +47,7 @@ export default function ProductDetail() {
+
+      1    {/* Mobile Menu */}
+      <MobileMenu isOpen={mobileMenuOpen} onClose={() =>
+     setMobileMenuOpen(false)} activePath={`/product/${id}`} />
+      <MobileMenu isOpen={mobileMenuOpen} onClose={() =>
+     setMobileMenuOpen(false)} activePath={`/product/${id}`}
+     navItems={navItems} />
+
+      {/* Product Hero */}
+      <section className="pt-24 md:pt-32 pb-12 md:pb-20 px-4 md:px-16
+     max-w-7xl mx-auto">
+
+ Thinking... 
+ │ Now I need to stage the relevant changed files (excluding 
+ │ settings.local.json) for commit.
+ ▪ Good, all changes look correct. Now let me commit and push:
+  ✓  Bash(git add app/page.tsx app/collections/page.tsx 
+     app/heritage/page.tsx app/atelier/page.tsx app/journal/page.tsx 
+     app/product/\[id\]/page.tsx components/mobile-menu…)
+     → (no output)
+
+ Thinking... 
+ │ After staging the files, I need to check git status to verify the staging was
+ │  successful before creating the commit.
+
+  ✓  Bash(git status)
+     On branch main
+     Your branch is up to date with 'origin/main'.
+
+     Changes to be committed:
+       (use "git restore --staged ..." to unstage)
+        modified:   app/atelier/page.tsx
+        modified:   app/collections/page.tsx
+        modified:   app/heritage/page.tsx
+        modified:   app/journal/page.tsx
+        modified:   app/page.tsx
+        modified:   app/product/[id]/page.tsx
+
+     Changes not staged for commit:
+       (use "git add ..." to update what will be committed)
+       (use "git restore ..." to discard changes in working directory)
+        modified:   .qoder/settings.local.json
+
+ Thinking... 
+ │ Files are staged, now I need to create a commit with a descriptive message 
+ │ summarizing the changes.
+
+  ✓  Bash(git commit -m "$(cat <<'EOF'
+     Enhance: Full-screen mobile menu with nav items, right-to-left slide…)
+     Auto packing the repository in background for optimum performance.
+     See "git help gc" for manual housekeeping.
+     warning: The last gc run reported the following. Please correct the
+     root cause
+     and remove .git/gc.log
+     Automatic cleanup will not be performed until the file is removed.
+
+     warning: There are too many unreachable loose objects; run 'git prune'
+     to remove them.
+
+     [main 028e269] Enhance: Full-screen mobile menu with nav items,
+     right-to-left slide
+      6 files changed, 37 insertions(+), 56 deletions(-)
+
+ Thinking... 
+ │ Commit succeeded, now push to remote as requested.
+
+  ✓  Bash(git push)
+     To github.com:ibrahim24-crypto/atlas.git
+        ed486c4..028e269  main -> main
+
+ Thinking... 
+ │ The push succeeded, so I should summarize the completed changes for the user.
+ ▪ Done. Pushed successfully. Here's what changed:
+
+   - Menu now slides right-to-left at full screen height (h-screen w-full)
+   - Nav items moved into the menu — Collections, Journal, Atelier, Heritage are
+    now inside the mobile menu as large clickable links
+   - Horizontal nav bar removed from all pages — the top bar now only shows the
+   hamburger (left), ATLAS logo (center), and language selector (right)
+   - Menu structure: Logo → Vertical tabs → Nav items → Social accounts → Footer
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ >  ibrahim@localhost:~/projects/atlas$ git push                                
+    Everything up-to-date                                                       
+    ibrahim@localhost:~/projects/atlas$ git add                                 
+    Nothing specified, nothing added.                                           
+    hint: Maybe you wanted to say 'git add .'?                                  
+    hint: Turn this message off by running                                      
+    hint: "git config advice.addEmptyPathspec false"                            
+    ibrahim@localhost:~/projects/atlas$ git add .                               
+    ibrahim@localhost:~/projects/atlas$ gith commit -m "added menu"             
+    Command 'gith' not found, did you mean:                                     
+      command 'geth' from snap geth (v1.9.5)                                    
+      command 'gitu' from snap gitu (v0.39.0)                                   
+      command 'git' from deb git (1:2.43.0-1ubuntu7.3)                          
+      command 'gitk' from deb gitk (1:2.43.0-1ubuntu7.3)                        
+      command 'gitg' from deb gitg (44-1)                                       
+      command 'gita' from deb gita (0.16.6.1-2)                                 
+      command 'gth' from deb genomethreader (1.7.3+dfsg-8)                      
+      command 'girth' from deb sgb (1:20210202-2)                               
+    See 'snap info <snapname>' for additional versions.                         
+    ibrahim@localhost:~/projects/atlas$ git commit -m "added menu"              
+    Auto packing the repository in background for optimum performance.          
+    See "git help gc" for manual housekeeping.                                  
+    [main ed486c4] added menu                                                   
+     15 files changed, 3342 insertions(+), 413 deletions(-)                     
+     rename conversation-2026-04-26-151040-quodercli.txt =>                     
+    ai/conversation-2026-04-26-151040-quodercli.txt (100%)                      
+     rename conversation-2026-04-26-151040.txt =>                               
+    ai/conversation-2026-04-26-151040.txt (100%)                                
+     rename qodercli.txt => ai/qodercli.txt (100%)                              
+     create mode 100644 ai/session ai.md                                        
+     create mode 100644 components/mobile-menu.tsx                              
+     create mode 100644 components/social-links.tsx                             
+     create mode 100644 lib/data.ts                                             
+    ibrahim@localhost:~/projects/atlas$ git push                                
+    Enumerating objects: 44, done.                                              
+    Counting objects: 100% (44/44), done.                                       
+    Delta compression using up to 4 threads                                     
+    Compressing objects: 100% (12/12), done.                                    
+    Writing objects: 100% (25/25), 30.05 KiB | 30.05 MiB/s, done.               
+    Total 25 (delta 9), reused 21 (delta 5), pack-reused 0                      
+    remote: Resolving deltas: 100% (9/9), completed with 8 local objects.       
+    To github.com:ibrahim24-crypto/atlas.git                                    
+       6344390..ed486c4  main -> main                                           
+    ibrahim@localhost:~/projects/atlas$                                         
+     use this                                                                   
+                                                                                
+    reduce menu x                                                               
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+ Thinking... 
+ │ The user wants a smaller close button in the menu, so I'll reduce the 
+ │ padding, size, and positioning values of the close button element.
+ ▪ I'll reduce the menu close button size.
+  ✓  Read(/home/.../mobile-menu.tsx · lines 26-55)
+     → Read lines 25-54 of 151
+
+        components/mobile-menu.tsx
+
+ℹ Request cancelled.
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ >  add hover to ingredients                                                    
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ >  reduce the menu s x size                                                    
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+ Thinking... 
+ │ The user wants a narrower menu, so I'll change the width from full-screen 
+ │ (w-full) to a smaller fixed width.
+ ▪ I'll reduce the menu width from full-screen to a more reasonable size.
+  x  Edit(/home/.../mobile-menu.tsx)
+
+ Thinking... 
+ │ Need to read the file first before editing it since the Read tool requirement
+ │  wasn't met.
+
+  ✓  Read(/home/.../mobile-menu.tsx · lines 28-37)
+     → Read lines 27-36 of 151
+
+        components/mobile-menu.tsx
+
+
+ Thinking... 
+ │ Now that I've read the file, I can apply the edit to reduce the menu width 
+ │ from w-full to w-72.
+
+  ✓  Edit(/home/.../mobile-menu.tsx)
+     → Accepted (+1, -1)
+
+       26      <>
+       27        {/* Menu Panel */}
+       28        <div
+       29 -        className="fixed top-0 right-0 h-screen w-full bg-[#0a0a0
+          -a]/98 backdrop-blur-2xl z-50 overflow-y-auto"                    
+       29 +        className="fixed top-0 right-0 h-screen w-72 bg-[#0a0a0a]
+          +/98 backdrop-blur-2xl z-50 overflow-y-auto"                      
+       30          style={{
+       31            transition: 'transform 0.5s cubic-bezier(0.23, 1, 0.32,
+            1), opacity 0.5s ease',
+       32            transform: isOpen ? 'translateX(0)' : 'translateX(100%)
+           ',
+
+
+ Thinking... 
+ │ Verify the build still works after reducing menu width.
+
+  ✓  Bash(npm run build 2>&1 | tail -15)
+     ┌ ○ /
+     ├ ○ /_not-found
+     ├ ○ /atelier
+     ├ ○ /collections
+     ├ ○ /heritage
+     ├ ○ /journal
+     ├ ○ /legal/contact
+     ├ ○ /legal/privacy
+     ├ ○ /legal/terms
+     └ ƒ /product/[id]
+
+     ○  (Static)   prerendered as static content
+     ƒ  (Dynamic)  server-rendered on demand
+
+ Thinking... 
+ │ Build succeeded, now commit and push the menu width reduction as user 
+ │ previously requested.
+
+  ✓  Bash(git add components/mobile-menu.tsx && git commit -m "$(cat <<'EOF'
+     Fix: Reduce menu panel width from full-screen to w-72…)
+     Auto packing the repository in background for optimum performance.
+     See "git help gc" for manual housekeeping.
+     warning: The last gc run reported the following. Please correct the
+     root cause
+     and remove .git/gc.log
+     Automatic cleanup will not be performed until the file is removed.
+
+     warning: There are too many unreachable loose objects; run 'git prune'
+     to remove them.
+
+     [main 29f1f8f] Fix: Reduce menu panel width from full-screen to w-72
+      1 file changed, 1 insertion(+), 1 deletion(-)
+     To github.com:ibrahim24-crypto/atlas.git
+        028e269..29f1f8f  main -> main
+
+ Thinking... 
+ │ The menu width has been reduced and pushed successfully, so I should confirm 
+ │ the change to the user.
+ ▪ Done. Menu width reduced from w-full to w-72 (288px) and pushed.
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ >  more x axis zise                                                            
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+ Thinking... 
+ │ User wants the menu wider, so I'll increase the width from w-72 to w-96.
+
+  ✓  Edit(/home/.../mobile-menu.tsx)
+     → Accepted (+1, -1)
+
+       26      <>
+       27        {/* Menu Panel */}
+       28        <div
+       29 -        className="fixed top-0 right-0 h-screen w-72 bg-[#0a0a0a]
+          -/98 backdrop-blur-2xl z-50 overflow-y-auto"                      
+       29 +        className="fixed top-0 right-0 h-screen w-96 bg-[#0a0a0a]
+          +/98 backdrop-blur-2xl z-50 overflow-y-auto"                      
+       30          style={{
+       31            transition: 'transform 0.5s cubic-bezier(0.23, 1, 0.32,
+            1), opacity 0.5s ease',
+       32            transform: isOpen ? 'translateX(0)' : 'translateX(100%)
+           ',
+
+
+ Thinking... 
+ │ User wants the menu wider, so I'll increase it from w-72 to w-96 and push the
+ │  change.
+
+  ✓  Bash(git add components/mobile-menu.tsx && git commit -m "Fix: Increase
+      menu width to w-96" && git push)
+     Auto packing the repository in background for optimum performance.
+     See "git help gc" for manual housekeeping.
+     warning: The last gc run reported the following. Please correct the
+     root cause
+     and remove .git/gc.log
+     Automatic cleanup will not be performed until the file is removed.
+
+     warning: There are too many unreachable loose objects; run 'git prune'
+     to remove them.
+
+     [main bb9efc7] Fix: Increase menu width to w-96
+      1 file changed, 1 insertion(+), 1 deletion(-)
+     To github.com:ibrahim24-crypto/atlas.git
+        29f1f8f..bb9efc7  main -> main
+
+ Thinking... 
+ │ The edit and push completed successfully, so I'll confirm the change to the 
+ │ user.
+ ▪ Done. Menu width increased to w-96 (384px) and pushed.
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ >  CHANGE NAV.X wih names or change them to smtng else and add hover on        
+    ingredients under the produts picture                                       
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+✕  [API Error: SSE message timeout: no data for 60s]
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ >  menu from right to left                                                     
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+✕  [API Error: SSE message timeout: no data for 60s]

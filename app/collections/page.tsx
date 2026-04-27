@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useState } from 'react';
 import { useTransitionNavigation } from '@/components/page-transition';
 import { MobileMenu } from '@/components/mobile-menu';
+import { DesktopMenu } from '@/components/desktop-menu';
 import { SocialLink } from '@/components/social-links';
 import { products, socialAccounts } from '@/lib/data';
 
@@ -47,6 +48,9 @@ export default function Collections() {
 
       {/* Mobile Menu */}
       <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} activePath="/collections" navItems={navItems} />
+
+      {/* Desktop Menu */}
+      <DesktopMenu isOpen={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} navItems={navItems} />
 
       {/* Hero */}
       <section className="pt-24 md:pt-40 pb-12 md:pb-20 px-4 md:px-16 text-center max-w-7xl mx-auto">
