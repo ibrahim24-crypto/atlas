@@ -764,7 +764,7 @@ body {
 }
 
 .label-caps {
-  @apply text-xs font-medium leading-relaxed tracking-[0.2em] uppercase;
+  @apply text-xs font-medium uppercase tracking-[0.2em] leading-relaxed;
 }
 
 /* Social Icons */
@@ -1013,4 +1013,201 @@ body {
   background: linear-gradient(90deg, transparent, rgba(201, 169, 110, 0.1), transparent);
   background-size: 200% 100%;
   animation: shimmer 3s infinite;
+}
+
+/* ── ENHANCED MENU ANIMATIONS ── */
+/* Desktop Menu - Smooth entrance with underline reveal */
+@keyframes desktopMenuItemEnter {
+  0% {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.menu-item {
+  animation: desktopMenuItemEnter 0.6s cubic-bezier(0.23, 1, 0.32, 1) forwards !important;
+  position: relative;
+  overflow: hidden;
+}
+
+.menu-item::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: linear-gradient(90deg, #c9a96e, #dfc08a, #c9a96e);
+  transition: width 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  opacity: 0;
+}
+
+.menu-item:hover::before {
+  width: 100%;
+  opacity: 1;
+}
+
+/* Mobile Menu - Smooth slide-in from right */
+@keyframes mobileMenuSlideIn {
+  0% {
+    opacity: 0;
+    transform: translateX(100%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Mobile Menu - RTL Support */
+[dir="rtl"] .mobile-menu-overlay {
+  animation: mobileMenuSlideInRTL 0.4s cubic-bezier(0.23, 1, 0.32, 1) forwards;
+}
+
+@keyframes mobileMenuSlideInRTL {
+  0% {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Mobile Menu Items - Staggered entrance */
+@keyframes mobileMenuItemStagger {
+  0% {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.mobile-menu-item {
+  animation: mobileMenuItemStagger 0.5s cubic-bezier(0.23, 1, 0.32, 1) forwards;
+  transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+/* Mobile Menu Item Hover - Enhanced feedback */
+.mobile-menu-item:hover {
+  padding-left: 16px;
+  color: #dfc08a;
+  background: rgba(201, 169, 110, 0.15);
+  transform: translateX(4px);
+  box-shadow: inset 3px 0 0 #c9a96e;
+}
+
+/* Hamburger button animation - Smooth rotation */
+@keyframes hamburgerRotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(90deg);
+  }
+}
+
+.hamburger-btn {
+  transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.hamburger-btn:hover {
+  transform: scale(1.15) rotate(5deg);
+  background-color: rgba(201, 169, 110, 0.1);
+}
+
+.hamburger-btn:active {
+  transform: scale(0.95);
+}
+
+/* Navigation bar entrance */
+@keyframes navBarSlideDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+nav {
+  animation: navBarSlideDown 0.8s cubic-bezier(0.23, 1, 0.32, 1) forwards;
+}
+
+/* Mobile Menu Backdrop fade-in */
+@keyframes backdropFadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* Responsive animations - Tablet & Mobile */
+@media (max-width: 768px) {
+  .menu-item {
+    font-size: 0.875rem;
+  }
+
+  .mobile-menu-item {
+    padding: 1rem;
+    font-size: 1.125rem;
+  }
+
+  .mobile-menu-item:nth-child(1) { animation-delay: 0.15s; }
+  .mobile-menu-item:nth-child(2) { animation-delay: 0.25s; }
+  .mobile-menu-item:nth-child(3) { animation-delay: 0.35s; }
+  .mobile-menu-item:nth-child(4) { animation-delay: 0.45s; }
+}
+
+/* Smooth transitions for all interactive elements */
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Ingredient Hover Tooltip */
+.ingredient-tooltip {
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%) translateY(8px);
+  background: #1a1a1a;
+  border: 1px solid #c9a96e/30;
+  padding: 12px 16px;
+  border-radius: 8px;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  pointer-events: none;
+  white-space: nowrap;
+  z-index: 50;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+}
+
+.ingredient-tooltip::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: #1a1a1a;
+}
+
+.ingredient-group:hover .ingredient-tooltip {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(-50%) translateY(0);
 }

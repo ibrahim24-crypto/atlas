@@ -3,61 +3,15 @@
 import Link from 'next/link';
 import { useState } from 'react';
 import { useTransitionNavigation } from '@/components/page-transition';
+import { MobileMenu } from '@/components/mobile-menu';
+import { SocialLink } from '@/components/social-links';
+import { products, socialAccounts } from '@/lib/data';
 
 export default function Collections() {
   const { navigate } = useTransitionNavigation();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
-  const fragrances = [
-    {
-      id: 1,
-      name: 'Celestial Meridian',
-      tagline: 'Limited Edition',
-      description: 'Bergamot, oud, amber in perfect harmony.',
-      notes: ['Bergamot', 'Oud', 'Amber'],
-      price: '$280'
-    },
-    {
-      id: 2,
-      name: 'Obsidian Night',
-      tagline: 'Signature Series',
-      description: 'Deep mystery through iris and vetiver.',
-      notes: ['Iris', 'Vetiver', 'Musk'],
-      price: '$240'
-    },
-    {
-      id: 3,
-      name: 'Aurore Essence',
-      tagline: 'Heritage Collection',
-      description: 'Luminous citrus and white florals unite.',
-      notes: ['Neroli', 'Jasmine', 'Lemon'],
-      price: '$260'
-    },
-    {
-      id: 4,
-      name: 'Temporal Whisper',
-      tagline: 'Exclusive Release',
-      description: 'Ephemeral saffron, sandalwood, rose absolute.',
-      notes: ['Saffron', 'Sandalwood', 'Rose'],
-      price: '$320'
-    },
-    {
-      id: 5,
-      name: 'Veiled Violet',
-      tagline: 'New Arrival',
-      description: 'Sophisticated violets, iris, and amber.',
-      notes: ['Violet', 'Iris Root', 'Amber'],
-      price: '$270'
-    },
-    {
-      id: 6,
-      name: 'Nocturne',
-      tagline: 'Master Series',
-      description: 'Midnight serenity with leather and tobacco.',
-      notes: ['Leather', 'Tobacco', 'Vanilla'],
-      price: '$300'
-    }
-  ];
+  const fragrances = products;
 
   return (
     <main className="bg-[#0a0a0a] text-[#f5f0eb]">
@@ -88,19 +42,11 @@ export default function Collections() {
           </button>
         </div>
 
-        {mobileMenuOpen && (
-          <div className="md:hidden border-t border-[#3d3630] bg-[#0a0a0a]/95 backdrop-blur-md">
-            <div className="px-4 py-4 space-y-4">
-              <button onClick={() => { navigate('/collections'); setMobileMenuOpen(false); }} className="block label-caps text-[#c9a96e] py-2 text-left w-full">Collections</button>
-              <button onClick={() => { navigate('/journal'); setMobileMenuOpen(false); }} className="block label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-colors py-2 text-left w-full">Journal</button>
-              <button onClick={() => { navigate('/atelier'); setMobileMenuOpen(false); }} className="block label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-colors py-2 text-left w-full">Atelier</button>
-              <button onClick={() => { navigate('/heritage'); setMobileMenuOpen(false); }} className="block label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-colors py-2 text-left w-full">Heritage</button>
-            </div>
-          </div>
-        )}
-
         <div className="divider max-w-7xl mx-auto"></div>
       </nav>
+
+      {/* Mobile Menu */}
+      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} activePath="/collections" />
 
       {/* Hero */}
       <section className="pt-24 md:pt-40 pb-12 md:pb-20 px-4 md:px-16 text-center max-w-7xl mx-auto">
@@ -119,14 +65,7 @@ export default function Collections() {
               <div className="space-y-6 group cursor-pointer animate-fade-in-up" style={{ animationDelay: `${idx * 100}ms` }}>
                 <div className="aspect-square bg-gradient-to-br from-[#1a1a1a] to-[#141414] border border-[#3d3630] overflow-hidden group-hover:border-[#c9a96e] transition-all duration-300">
                   <img 
-                    src={[
-                      '/images/Gmail/1000106365.png',
-                      '/images/Gmail/1000106389.png',
-                      '/images/Gmail/1000106399.png',
-                      '/images/Gmail/1000106356.png',
-                      '/images/Gmail/1000106361.png',
-                      '/images/Gmail/1000106367.png'
-                    ][idx % 6]} 
+                    src={fragrance.image} 
                     alt={fragrance.name} 
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                   />
@@ -141,7 +80,7 @@ export default function Collections() {
                   </div>
                   <p className="body-md text-[#c4b8a8] mb-4 text-xs md:text-sm">{fragrance.description}</p>
                   <div className="flex flex-wrap gap-2">
-                    {fragrance.notes.map((note, i) => (
+                    {[...fragrance.topNotes, ...fragrance.heartNotes, ...fragrance.baseNotes].slice(0, 3).map((note, i) => (
                       <span key={i} className="text-xs px-3 py-1 border border-[#3d3630] text-[#8a7e6b] rounded-none">
                         {note}
                       </span>
@@ -162,18 +101,14 @@ export default function Collections() {
               <div className="label-caps text-[#c9a96e] mb-4 text-xs md:text-sm">ATLAS MARAKECH</div>
               <p className="body-md text-[#8a7e6b] text-xs md:text-base">Luxury fragrances since 1842.</p>
               <div className="flex flex-col gap-3 mt-4">
-                <a href="https://www.instagram.com/atlas_marakech/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-[#c9a96e] hover:text-[#f5f0eb] transition-colors">
-                  <svg className="social-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
-                  <span className="body-md text-sm">Instagram</span>
-                </a>
-                <a href="https://www.facebook.com/profile.php?id=61589002400891" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-[#c9a96e] hover:text-[#f5f0eb] transition-colors">
-                  <svg className="social-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>
-                  <span className="body-md text-sm">Facebook</span>
-                </a>
-                <a href="https://twitter.com/atlasmarakech" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-[#c9a96e] hover:text-[#f5f0eb] transition-colors">
-                  <svg className="social-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-                  <span className="body-md text-sm">X / Twitter</span>
-                </a>
+                {socialAccounts.map((social) => (
+                  <SocialLink
+                    key={social.name}
+                    name={social.name}
+                    url={social.url}
+                    icon={social.icon}
+                  />
+                ))}
               </div>
             </div>
             <div>
