@@ -78,24 +78,13 @@ export default function Home() {
             </select>
           </div>
 
-          {/* Desktop Menu Tabs - Below Logo */}
-          <div className="hidden md:flex border-t border-[#3d3630]/50 gap-4 pb-0 justify-center">
-            {navItems.map((item, idx) => (
-              <button
-                key={item.name}
-                onClick={() => navigate(item.href)}
-                className="menu-item label-caps text-[#f5f0eb] hover:text-[#c9a96e] px-6 py-4 whitespace-nowrap flex-shrink-0 border-b-2 border-transparent hover:border-[#c9a96e] transition-all relative group"
-              >
-                {item.name}
-                <span className="absolute bottom-0 left-0 w-0 h-[2px] bg-[#c9a96e] group-hover:w-full transition-all duration-500"></span>
-              </button>
-            ))}
-          </div>
+          {/* Desktop Menu - Hidden, moved to mobile menu */}
         </div>
+        
         <div className="divider max-w-7xl mx-auto hidden md:block"></div>
         
         {/* Mobile Menu */}
-        <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} activePath="/" />
+        <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} activePath="/" navItems={navItems} />
       </nav>
 
       {/* ── Hero ── */}

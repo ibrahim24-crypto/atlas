@@ -15,7 +15,7 @@ export default function About() {
     { name: 'Collections', href: '/collections' },
     { name: 'Journal', href: '/journal' },
     { name: 'Atelier', href: '/atelier' },
-    { name: 'About', href: '/heritage' },
+    { name: 'Heritage', href: '/heritage' },
   ];
 
   return (
@@ -27,14 +27,6 @@ export default function About() {
             <div className="text-lg md:text-xl font-light tracking-[0.3em] text-[#c9a96e]">ATLAS</div>
           </Link>
           
-          <div className="hidden md:flex gap-12">
-            {navItems.map((item) => (
-              <button key={item.name} onClick={() => navigate(item.href)} className="label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-colors">
-                {item.name}
-              </button>
-            ))}
-          </div>
-
           <div className="hidden md:flex gap-6 text-[#c9a96e]">
             <button className="hover:opacity-70 transition-opacity">
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg>
@@ -60,7 +52,7 @@ export default function About() {
       </nav>
 
       {/* Mobile Menu */}
-      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} activePath="/heritage" />
+      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} activePath="/heritage" navItems={navItems} />
 
       {/* Hero */}
       <section className="pt-32 md:pt-40 pb-12 md:pb-20 px-4 md:px-16 text-center max-w-4xl mx-auto">

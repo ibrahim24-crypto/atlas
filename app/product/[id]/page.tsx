@@ -12,6 +12,13 @@ export default function ProductDetail() {
   const id = params.id as string;
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
+  const navItems = [
+    { name: 'Collections', href: '/collections' },
+    { name: 'Journal', href: '/journal' },
+    { name: 'Atelier', href: '/atelier' },
+    { name: 'Heritage', href: '/heritage' },
+  ];
+
   const product = products.find(p => p.id === id) || products[0];
 
   return (
@@ -23,13 +30,6 @@ export default function ProductDetail() {
             <div className="text-lg md:text-xl font-light tracking-widest text-[#c9a96e]">ATLAS</div>
           </Link>
           
-          <div className="hidden md:flex gap-12">
-            <Link href="/collections" className="label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-colors">Collections</Link>
-            <Link href="/journal" className="label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-colors">Journal</Link>
-            <Link href="/atelier" className="label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-colors">Atelier</Link>
-            <Link href="/heritage" className="label-caps text-[#f5f0eb] hover:text-[#c9a96e] transition-colors">Heritage</Link>
-          </div>
-
           <div className="hidden md:flex gap-6 text-[#c9a96e]">
             <button className="hover:opacity-70 transition-opacity"><svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg></button>
             <button className="hover:opacity-70 transition-opacity"><svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" /></svg></button>
@@ -47,7 +47,7 @@ export default function ProductDetail() {
       </nav>
 
       {/* Mobile Menu */}
-      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} activePath={`/product/${id}`} />
+      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} activePath={`/product/${id}`} navItems={navItems} />
 
       {/* Product Hero */}
       <section className="pt-24 md:pt-32 pb-12 md:pb-20 px-4 md:px-16 max-w-7xl mx-auto">
