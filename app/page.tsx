@@ -25,10 +25,10 @@ export default function Home() {
   }, []);
 
   const navItems = [
-    { name: t('nav.collections'), href: '/collections' },
-    { name: t('nav.journal'), href: '/journal' },
-    { name: t('nav.atelier'), href: '/atelier' },
-    { name: t('nav.about'), href: '/heritage' },
+    { name: 'Collections', href: '/collections' },
+    { name: 'Journal', href: '/journal' },
+    { name: 'Atelier', href: '/atelier' },
+    { name: 'Heritage', href: '/heritage' },
   ];
 
   const handleLocaleChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
