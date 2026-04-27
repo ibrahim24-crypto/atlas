@@ -26,7 +26,7 @@ export function MobileMenu({ isOpen, onClose, activePath, navItems = [] }: Mobil
     <>
       {/* Menu Panel */}
       <div
-        className="fixed top-0 right-0 h-screen w-72 bg-[#0a0a0a]/98 backdrop-blur-2xl z-50 overflow-y-auto"
+        className="fixed top-0 right-0 h-screen w-96 bg-[#0a0a0a]/98 backdrop-blur-2xl z-50 overflow-y-auto"
         style={{
           transition: 'transform 0.5s cubic-bezier(0.23, 1, 0.32, 1), opacity 0.5s ease',
           transform: isOpen ? 'translateX(0)' : 'translateX(100%)',
