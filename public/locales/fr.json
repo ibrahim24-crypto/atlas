@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "heritage": "Héritage",
+    "collections": "Collections",
+    "journal": "Journal",
+    "atelier": "Atelier"
+  },
+  "hero": {
+    "tagline": "Élégance Raffinée en Mouvement",
+    "title": "VELORIS",
+    "subtitle": "Où le luxe rencontre le mouvement. Des parfums pour l'âme moderne.",
+    "cta_explore": "Explorer la Collection",
+    "cta_view": "Voir Tous les Parfums"
+  },
+  "philosophy": {
+    "quote": "Le luxe n'est pas une question de prix. C'est le sentiment qu'une seule goutte de parfum peut porter un monde.",
+    "author": "La Philosophie Veloris"
+  },
+  "ingredients": {
+    "title": "Les Ingrédients",
+    "subtitle": "Matières Premières"
+  },
+  "collection": {
+    "title": "Galerie d'Essences",
+    "subtitle": "Sélection Curatée"
+  },
+  "values": {
+    "title": "Le Style Veloris",
+    "subtitle": "Ce que Nous Défendons"
+  },
+  "footer": {
+    "copyright": "© 2026 VELORIS. Tous droits réservés.",
+    "tagline": "Élégance Raffinée en Mouvement"
+  }
+}

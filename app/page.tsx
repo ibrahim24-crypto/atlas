@@ -57,9 +57,9 @@ export default function Home() {
               </svg>
             </button>
             
-            {/* ATLAS Logo - Center */}
+            {/* VELORIS Logo - Center */}
             <Link href="/" className="absolute left-1/2 -translate-x-1/2">
-              <div className="text-lg md:text-xl font-light tracking-[0.3em] text-[#c9a96e]">ATLAS</div>
+              <div dir="ltr" className="text-lg md:text-xl font-light tracking-[0.3em] text-[#c9a96e]">VELORIS</div>
             </Link>
             
             {/* Language Selector - Right */}
@@ -103,15 +103,15 @@ export default function Home() {
         <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a0a]/70 via-[#0a0a0a]/80 to-[#0a0a0a]"></div>
         <div className="relative z-10 max-w-5xl mx-auto text-center space-y-6 md:space-y-8">
           <div className="label-caps text-[#c9a96e] tracking-[0.3em] mb-4 opacity-0 animate-fade-in" style={{ animationDelay: '0.8s', animationFillMode: 'forwards' }}>
-            THE SPIRIT OF MARRAKECH
+            {t('hero.tagline')}
           </div>
-          <AnimatedHeroTitle title="ATLAS MARAKECH" className="text-4xl md:text-7xl font-serif font-light leading-tight" />
+          <AnimatedHeroTitle title={t('hero.title')} className="text-4xl md:text-7xl font-serif font-light leading-tight" />
           <p className="body-lg text-[#c4b8a8] max-w-2xl mx-auto text-base md:text-lg opacity-0 animate-fade-in" style={{ animationDelay: '3s', animationFillMode: 'forwards' }}>
-            Born from the energy of Marrakech. Crafted for those who seek the extraordinary.
+            {t('hero.subtitle')}
           </p>
           <div className="flex flex-col md:flex-row gap-3 md:gap-6 justify-center pt-6 md:pt-8 opacity-0 animate-fade-in" style={{ animationDelay: '3.5s', animationFillMode: 'forwards' }}>
-            <Link href="/collections"><button className="hero-btn-primary label-caps w-full md:w-auto">Explore Collection</button></Link>
-            <Link href="/collections"><button className="hero-btn-secondary label-caps w-full md:w-auto">View All Fragrances</button></Link>
+            <Link href="/collections"><button className="hero-btn-primary label-caps w-full md:w-auto">{t('hero.cta_explore')}</button></Link>
+            <Link href="/collections"><button className="hero-btn-secondary label-caps w-full md:w-auto">{t('hero.cta_view')}</button></Link>
           </div>
         </div>
         <div className="absolute bottom-8 left-1/2 -translate-x-1/2 opacity-0 animate-fade-in" style={{ animationDelay: '4s', animationFillMode: 'forwards' }}>
@@ -131,7 +131,7 @@ export default function Home() {
             "Luxury is not about price. It's about the feeling that a single drop of fragrance can carry a world."
           </p>
           <div className="w-12 h-px bg-[#c9a96e] mx-auto mb-4"></div>
-          <p className="label-caps text-[#8a7e6b] tracking-widest">— The Atlas Philosophy</p>
+          <p className="label-caps text-[#8a7e6b] tracking-widest">— The Veloris Philosophy</p>
         </div>
       </section>
 
@@ -220,7 +220,7 @@ export default function Home() {
         <div>
           <div className="mb-12 md:mb-20">
             <div className="label-caps text-[#c9a96e] mb-4 tracking-[0.3em]">WHAT WE STAND FOR</div>
-            <h2 className="text-3xl md:text-5xl font-serif font-light text-[#f5f0eb]">The Atlas Way</h2>
+            <h2 className="text-3xl md:text-5xl font-serif font-light text-[#f5f0eb]">The Veloris Way</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-12">
             {[
@@ -266,8 +266,8 @@ export default function Home() {
         <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-12 mb-8 md:mb-12">
             <div>
-              <div className="label-caps text-[#c9a96e] mb-4 text-xs md:text-sm">ATLAS MARAKECH</div>
-              <p className="body-md text-[#8a7e6b] text-xs md:text-base">Modern luxury fragrances.</p>
+              <div className="label-caps text-[#c9a96e] mb-4 text-xs md:text-sm">VELORIS</div>
+              <p className="body-md text-[#8a7e6b] text-xs md:text-base">Refined luxury in motion.</p>
               <div className="flex flex-col gap-3 mt-4">
                 {socialAccounts.map((social) => (
                   <SocialLink
@@ -306,8 +306,8 @@ export default function Home() {
           </div>
           <div className="divider mb-8"></div>
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-xs md:text-base">
-            <p className="body-md text-[#8a7e6b]">&copy; 2026 ATLAS MARAKECH. All rights reserved.</p>
-            <p className="label-caps text-[#8a7e6b]">The Spirit of Marrakech</p>
+            <p className="body-md text-[#8a7e6b]">&copy; 2026 VELORIS. All rights reserved.</p>
+            <p className="label-caps text-[#8a7e6b]">Refined Elegance in Motion</p>
           </div>
         </div>
       </footer>

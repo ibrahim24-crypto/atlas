@@ -1,6 +1,11 @@
 'use client';
 
 import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
+import en from '@/locales/en.json';
+import ar from '@/locales/ar.json';
+import fr from '@/locales/fr.json';
+import es from '@/locales/es.json';
+import ja from '@/locales/ja.json';
 
 type Locale = 'en' | 'ar' | 'fr' | 'es' | 'ja';
 
@@ -16,22 +21,15 @@ interface I18nContextType {
 }
 
 const translations: Record<Locale, Translations> = {
-  en: {},
-  ar: {},
-  fr: {},
-  es: {},
-  ja: {},
+  en,
+  ar,
+  fr,
+  es,
+  ja,
 };
 
 async function loadTranslations(locale: Locale) {
-  if (Object.keys(translations[locale]).length === 0) {
-    try {
-      const res = await fetch(`/locales/${locale}.json`);
-      translations[locale] = await res.json();
-    } catch (e) {
-      console.error(`Failed to load ${locale} translations`);
-    }
-  }
+  // Offline: return pre-bundled translations
   return translations[locale];
 }
 
@@ -47,6 +45,7 @@ export function I18nProvider({ children }: { children: ReactNode }) {
     const savedLocale = localStorage.getItem('locale') as Locale;
     if (savedLocale && ['en', 'ar', 'fr', 'es', 'ja'].includes(savedLocale)) {
       setLocaleState(savedLocale);
+      // load from bundled translations
       loadTranslations(savedLocale).then(setDict);
     }
   }, []);

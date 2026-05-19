@@ -4,6 +4,7 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { useTransitionNavigation } from '@/components/page-transition';
 import { menuTabs, socialAccounts } from '@/lib/data';
+import { useI18n } from '@/components/i18n';
 
 interface DesktopMenuProps {
   isOpen: boolean;
@@ -13,6 +14,8 @@ interface DesktopMenuProps {
 
 export function DesktopMenu({ isOpen, onClose, navItems = [] }: DesktopMenuProps) {
   const { navigate } = useTransitionNavigation();
+  const { t, dir } = useI18n();
+  const isRtl = dir === 'rtl';
   const [activeTab, setActiveTab] = useState(0);
 
   const handleNavigate = (href: string) => {
@@ -23,20 +26,21 @@ export function DesktopMenu({ isOpen, onClose, navItems = [] }: DesktopMenuProps
     <>
       {/* Desktop Menu Panel - Compact */}
       <div
-        className="fixed top-0 right-0 h-screen w-96 bg-[#0a0a0a] z-50 hidden lg:flex flex-col"
+        className="fixed top-0 h-screen w-96 bg-[#0a0a0a] z-50 hidden lg:flex flex-col"
         style={{
           transition: 'transform 0.5s cubic-bezier(0.23, 1, 0.32, 1), opacity 0.5s ease',
-          transform: isOpen ? 'translateX(0)' : 'translateX(100%)',
+          transform: isOpen ? 'translateX(0)' : (isRtl ? 'translateX(-100%)' : 'translateX(100%)'),
           opacity: isOpen ? 1 : 0,
           pointerEvents: isOpen ? 'auto' : 'none',
           scrollbarWidth: 'none',
           msOverflowStyle: 'none',
+          [isRtl ? 'left' : 'right']: 0,
         }}
       >
         {/* Close Button */}
         <button
           onClick={onClose}
-          className="absolute top-4 right-4 p-2 hover:bg-[#c9a96e]/10 rounded-lg transition-colors z-10"
+          className={`absolute top-4 ${isRtl ? 'left-4' : 'right-4'} p-2 hover:bg-[#c9a96e]/10 rounded-lg transition-colors z-10`}
         >
           <svg className="w-5 h-5 text-[#c9a96e]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 18L18 6M6 6l12 12" />
@@ -46,7 +50,7 @@ export function DesktopMenu({ isOpen, onClose, navItems = [] }: DesktopMenuProps
         {/* Logo */}
         <div className="pt-6 px-6 pb-4 border-b border-[#3d3630]">
           <Link href="/" onClick={onClose} className="block">
-            <div className="text-lg font-light tracking-[0.2em] text-[#c9a96e]">ATLAS</div>
+            <div dir="ltr" className="text-lg font-light tracking-[0.2em] text-[#c9a96e]">VELORIS</div>
           </Link>
         </div>
 
@@ -58,7 +62,7 @@ export function DesktopMenu({ isOpen, onClose, navItems = [] }: DesktopMenuProps
               <button
                 key={tab.label}
                 onClick={() => setActiveTab(idx)}
-                className={`w-full text-left px-3 py-2 text-xs tracking-widest transition-all rounded ${
+                className={`w-full ${isRtl ? 'text-right' : 'text-left'} px-3 py-2 text-xs tracking-widest transition-all rounded ${
                   activeTab === idx
                     ? 'text-[#c9a96e] bg-[#c9a96e]/10'
                     : 'text-[#8a7e6b] hover:text-[#c4b8a8] hover:bg-[#c9a96e]/5'
@@ -81,7 +85,7 @@ export function DesktopMenu({ isOpen, onClose, navItems = [] }: DesktopMenuProps
                   else handleNavigate('/journal');
                   onClose();
                 }}
-                className="w-full text-left px-3 py-2 text-xs text-[#c4b8a8] hover:text-[#c9a96e] transition-colors rounded hover:bg-[#c9a96e]/5"
+                className={`w-full ${isRtl ? 'text-right' : 'text-left'} px-3 py-2 text-xs text-[#c4b8a8] hover:text-[#c9a96e] transition-colors rounded hover:bg-[#c9a96e]/5`}
               >
                 {item}
               </button>
@@ -97,7 +101,7 @@ export function DesktopMenu({ isOpen, onClose, navItems = [] }: DesktopMenuProps
                   handleNavigate(item.href);
                   onClose();
                 }}
-                className="w-full text-left px-3 py-2 text-sm font-light text-[#f5f0eb] hover:text-[#c9a96e] transition-colors rounded hover:bg-[#c9a96e]/5"
+                className={`w-full ${isRtl ? 'text-right' : 'text-left'} px-3 py-2 text-sm font-light text-[#f5f0eb] hover:text-[#c9a96e] transition-colors rounded hover:bg-[#c9a96e]/5`}
               >
                 {item.name}
               </button>
@@ -106,7 +110,7 @@ export function DesktopMenu({ isOpen, onClose, navItems = [] }: DesktopMenuProps
 
           {/* Social Links - Compact */}
           <div className="px-4 py-3 space-y-1 border-b border-[#3d3630]">
-            <p className="text-xs text-[#8a7e6b] tracking-widest mb-2">FOLLOW</p>
+            <p className="text-xs text-[#8a7e6b] tracking-widest mb-2">{t('ui.follow')}</p>
             <div className="grid grid-cols-3 gap-2">
               {socialAccounts.map((social) => (
                 <a
@@ -125,7 +129,7 @@ export function DesktopMenu({ isOpen, onClose, navItems = [] }: DesktopMenuProps
 
         {/* Footer */}
         <div className="px-4 py-3 text-xs text-[#8a7e6b]">
-          <p className="font-light">© 2026 ATLAS</p>
+          <p className="font-light">{t('footer.copyright')}</p>
         </div>
       </div>
 

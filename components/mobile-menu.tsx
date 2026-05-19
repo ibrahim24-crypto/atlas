@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { useTransitionNavigation } from '@/components/page-transition';
 import { menuTabs, socialAccounts } from '@/lib/data';
 import { SocialLink } from '@/components/social-links';
+import { useI18n } from '@/components/i18n';
 
 interface MobileMenuProps {
   isOpen: boolean;
@@ -15,6 +16,8 @@ interface MobileMenuProps {
 
 export function MobileMenu({ isOpen, onClose, activePath, navItems = [] }: MobileMenuProps) {
   const { navigate } = useTransitionNavigation();
+  const { t, dir } = useI18n();
+  const isRtl = dir === 'rtl';
   const [activeTab, setActiveTab] = useState(0);
 
   const handleNavigate = (href: string) => {
@@ -26,17 +29,18 @@ export function MobileMenu({ isOpen, onClose, activePath, navItems = [] }: Mobil
     <>
       {/* Menu Panel */}
       <div
-        className="fixed top-0 right-0 h-screen w-96 bg-[#0a0a0a]/98 backdrop-blur-2xl z-50 overflow-y-auto"
+        className="fixed top-0 h-screen w-96 bg-[#0a0a0a]/98 backdrop-blur-2xl z-50 overflow-y-auto"
         style={{
           transition: 'transform 0.5s cubic-bezier(0.23, 1, 0.32, 1), opacity 0.5s ease',
-          transform: isOpen ? 'translateX(0)' : 'translateX(100%)',
+          transform: isOpen ? 'translateX(0)' : (isRtl ? 'translateX(-100%)' : 'translateX(100%)'),
           opacity: isOpen ? 1 : 0,
+          [isRtl ? 'left' : 'right']: 0,
         }}
       >
         {/* Close Button */}
         <button
           onClick={onClose}
-          className="absolute top-6 right-6 p-2 hover:bg-[#c9a96e]/10 rounded-lg transition-colors z-10"
+          className={`absolute top-6 ${isRtl ? 'left-6' : 'right-6'} p-2 hover:bg-[#c9a96e]/10 rounded-lg transition-colors z-10`}
         >
           <svg className="w-6 h-6 text-[#c9a96e]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 18L18 6M6 6l12 12" />
@@ -46,7 +50,7 @@ export function MobileMenu({ isOpen, onClose, activePath, navItems = [] }: Mobil
         {/* Logo */}
         <div className="pt-8 px-6 pb-6">
           <Link href="/" onClick={onClose}>
-            <div className="text-xl font-light tracking-[0.3em] text-[#c9a96e]">ATLAS</div>
+            <div dir="ltr" className="text-xl font-light tracking-[0.3em] text-[#c9a96e]">VELORIS</div>
           </Link>
         </div>
 
@@ -57,9 +61,9 @@ export function MobileMenu({ isOpen, onClose, activePath, navItems = [] }: Mobil
               <button
                 key={tab.label}
                 onClick={() => setActiveTab(idx)}
-                className={`text-left px-4 py-3 text-sm tracking-widest transition-all duration-300 rounded-lg ${
+                className={`${isRtl ? 'text-right' : 'text-left'} px-4 py-3 text-sm tracking-widest transition-all duration-300 rounded-lg ${
                   activeTab === idx
-                    ? 'text-[#c9a96e] bg-[#c9a96e]/10 border-l-2 border-[#c9a96e]'
+                    ? `text-[#c9a96e] bg-[#c9a96e]/10 ${isRtl ? 'border-r-2' : 'border-l-2'} border-[#c9a96e]`
                     : 'text-[#8a7e6b] hover:text-[#c4b8a8] hover:bg-[#c9a96e]/5'
                 }`}
               >
@@ -69,7 +73,7 @@ export function MobileMenu({ isOpen, onClose, activePath, navItems = [] }: Mobil
           </div>
 
           {/* Tab Content */}
-          <div className="pl-4 pb-8 border-l border-[#3d3630]/50">
+          <div className={`${isRtl ? 'pr-4 border-r' : 'pl-4 border-l'} pb-8 border-[#3d3630]/50`}>
             {menuTabs[activeTab]?.items.map((item, idx) => (
               <button
                 key={item}
@@ -93,16 +97,16 @@ export function MobileMenu({ isOpen, onClose, activePath, navItems = [] }: Mobil
 
         {/* Main Navigation */}
         <div className="px-8 py-8 border-t border-[#3d3630]/50">
-          <p className="text-xs text-[#8a7e6b] tracking-widest mb-6">NAVIGATION</p>
+          <p className="text-xs text-[#8a7e6b] tracking-widest mb-6">{t('ui.navigation')}</p>
           <div className="space-y-2">
             {navItems.map((item, idx) => (
               <button
                 key={item.name}
                 onClick={() => handleNavigate(item.href)}
-                className="block w-full text-left py-4 px-6 text-2xl font-light tracking-widest text-[#f5f0eb] hover:text-[#c9a96e] hover:bg-[#c9a96e]/5 transition-all duration-300 rounded-lg"
+                className={`${isRtl ? 'text-right' : 'text-left'} block w-full py-4 px-6 text-2xl font-light tracking-widest text-[#f5f0eb] hover:text-[#c9a96e] hover:bg-[#c9a96e]/5 transition-all duration-300 rounded-lg`}
                 style={{
                   opacity: isOpen ? 1 : 0,
-                  transform: isOpen ? 'translateX(0)' : 'translateX(30px)',
+                  transform: isOpen ? 'translateX(0)' : (isRtl ? 'translateX(-30px)' : 'translateX(30px)'),
                   transition: `all 0.5s cubic-bezier(0.23, 1, 0.32, 1) ${idx * 0.1 + 0.15}s`
                 }}
               >
@@ -114,7 +118,7 @@ export function MobileMenu({ isOpen, onClose, activePath, navItems = [] }: Mobil
 
         {/* Social Accounts */}
         <div className="px-6 py-6 border-t border-[#3d3630]/50">
-          <p className="text-xs text-[#8a7e6b] tracking-widest mb-4">FOLLOW US</p>
+          <p className="text-xs text-[#8a7e6b] tracking-widest mb-4">{t('ui.follow_us')}</p>
           <div className="space-y-1">
             {socialAccounts.map((social, idx) => (
               <SocialLink
@@ -130,8 +134,8 @@ export function MobileMenu({ isOpen, onClose, activePath, navItems = [] }: Mobil
 
         {/* Menu Footer */}
         <div className="px-6 py-8 border-t border-[#3d3630]/50">
-          <p className="text-xs text-[#8a7e6b] tracking-widest">ATLAS MARAKECH</p>
-          <p className="text-xs text-[#8a7e6b] mt-1">The Spirit of Marrakech</p>
+          <p className="text-xs text-[#8a7e6b] tracking-widest">{t('hero.title')}</p>
+          <p className="text-xs text-[#8a7e6b] mt-1">{t('footer.tagline')}</p>
         </div>
       </div>
 

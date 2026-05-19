@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "heritage": "Heritage",
+    "collections": "Collections",
+    "journal": "Journal",
+    "atelier": "Atelier"
+  },
+  "hero": {
+    "tagline": "Refined Elegance in Motion",
+    "title": "VELORIS",
+    "subtitle": "Where luxury meets movement. Fragrances for the modern soul.",
+    "cta_explore": "Explore Collection",
+    "cta_view": "View All Fragrances"
+  },
+  "philosophy": {
+    "quote": "Luxury is not about price. It's about the feeling that a single drop of fragrance can carry a world.",
+    "author": "The Veloris Philosophy"
+  },
+  "ingredients": {
+    "title": "The Ingredients",
+    "subtitle": "Raw Materials"
+  },
+  "collection": {
+    "title": "Essence Gallery",
+    "subtitle": "Curated Selection"
+  },
+  "values": {
+    "title": "The Veloris Way",
+    "subtitle": "What We Stand For"
+  },
+  "footer": {
+    "copyright": "© 2026 VELORIS. All rights reserved.",
+    "tagline": "Refined Elegance in Motion"
+  }
+}

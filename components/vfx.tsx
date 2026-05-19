@@ -203,7 +203,7 @@ export function AnimatedHeroTitle({
   }, []);
 
   return (
-    <h1 className={className}>
+    <h1 className={className} dir="ltr" style={{ unicodeBidi: 'isolate', direction: 'ltr' }}>
       {title.split('').map((letter, i) => (
         <span
           key={i}

@@ -56,7 +56,7 @@ export default function Atelier() {
       <nav className="fixed top-0 w-full z-50 bg-[#0a0a0a]/90 backdrop-blur-md border-b border-neutral-800">
         <div className="max-w-7xl mx-auto px-4 md:px-16 py-6 flex justify-between items-center">
           <Link href="/">
-            <div className="text-lg md:text-xl font-light tracking-widest text-[#c9a96e]">ATLAS</div>
+            <div dir="ltr" className="text-lg md:text-xl font-light tracking-widest text-[#c9a96e]">VELORIS</div>
           </Link>
           
           <div className="hidden md:flex gap-6 text-[#c9a96e]">
@@ -86,7 +86,7 @@ export default function Atelier() {
         <div className="label-caps text-[#c9a96e] mb-4">GLOBAL ATELIER</div>
         <h1 className="text-3xl md:text-5xl font-serif text-[#f5f0eb] mb-6 md:mb-8">Visit Our Sanctuaries</h1>
         <p className="body-lg text-[#c4b8a8] max-w-2xl mx-auto text-sm md:text-base">
-          Experience ATLAS MARAKECH in our exclusive ateliers. Each location is designed as a sanctuary of craft and artistry.
+          Experience VELORIS MARAKECH in our exclusive ateliers. Each location is designed as a sanctuary of craft and artistry.
         </p>
       </section>
 
@@ -142,8 +142,8 @@ export default function Atelier() {
         <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-12 mb-8 md:mb-12">
             <div>
-              <div className="label-caps text-[#c9a96e] mb-4 text-xs md:text-sm">ATLAS MARAKECH</div>
-              <p className="body-md text-[#8a7e6b] text-xs md:text-base">Luxury fragrances since 1842.</p>
+              <div className="label-caps text-[#c9a96e] mb-4 text-xs md:text-sm">VELORIS MARAKECH</div>
+              <p className="body-md text-[#8a7e6b] text-xs md:text-base">Refined luxury in motion.</p>
               <div className="flex flex-col gap-3 mt-4">
                 {socialAccounts.map((social) => (
                   <SocialLink
@@ -182,8 +182,8 @@ export default function Atelier() {
           </div>
           <div className="divider mb-8"></div>
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-xs md:text-base">
-            <p className="body-md text-[#8a7e6b]">© 2026 ATLAS MARAKECH. All rights reserved.</p>
-            <p className="label-caps text-[#8a7e6b]">L'Art de Précision</p>
+            <p className="body-md text-[#8a7e6b]">© 2026 VELORIS MARAKECH. All rights reserved.</p>
+            <p className="label-caps text-[#8a7e6b]">Refined Elegance in Motion</p>
           </div>
         </div>
       </footer>

@@ -7,15 +7,17 @@ import { MobileMenu } from '@/components/mobile-menu';
 import { DesktopMenu } from '@/components/desktop-menu';
 import { SocialLink } from '@/components/social-links';
 import { products, socialAccounts } from '@/lib/data';
+import { useI18n } from '@/components/i18n';
 
 export default function Collections() {
   const { navigate } = useTransitionNavigation();
+  const { t } = useI18n();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const fragrances = products;
 
   const navItems = [
-    { name: 'Heritage', href: '/heritage' },
+    { name: t('nav.heritage'), href: '/heritage' },
   ];
 
   return (
@@ -24,7 +26,7 @@ export default function Collections() {
       <nav className="fixed top-0 w-full z-50 bg-[#0a0a0a]/90 backdrop-blur-md border-b border-[#3d3630]">
         <div className="max-w-7xl mx-auto px-4 md:px-16 py-6 flex justify-between items-center">
           <Link href="/">
-            <div className="text-lg md:text-xl font-light tracking-widest text-[#c9a96e]">ATLAS</div>
+            <div dir="ltr" className="text-lg md:text-xl font-light tracking-widest text-[#c9a96e]">VELORIS</div>
           </Link>
           
           <div className="hidden md:flex gap-6 text-[#c9a96e]">
@@ -51,8 +53,8 @@ export default function Collections() {
 
       {/* Hero */}
       <section className="pt-24 md:pt-40 pb-12 md:pb-20 px-4 md:px-16 text-center max-w-7xl mx-auto">
-        <div className="label-caps text-[#c9a96e] mb-4">OUR COLLECTION</div>
-        <h1 className="text-3xl md:text-5xl font-serif text-[#f5f0eb] mb-6 md:mb-8">Fragrances of Distinction</h1>
+        <div className="label-caps text-[#c9a96e] mb-4">{t('collection.subtitle')}</div>
+        <h1 className="text-3xl md:text-5xl font-serif text-[#f5f0eb] mb-6 md:mb-8">{t('collection.title')}</h1>
         <p className="body-lg text-[#c4b8a8] max-w-2xl mx-auto text-sm md:text-base">
           Each fragrance is a conversation between tradition and innovation, crafted to tell your unique story.
         </p>
@@ -99,8 +101,8 @@ export default function Collections() {
         <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-12 mb-8 md:mb-12">
             <div>
-              <div className="label-caps text-[#c9a96e] mb-4 text-xs md:text-sm">ATLAS MARAKECH</div>
-              <p className="body-md text-[#8a7e6b] text-xs md:text-base">Luxury fragrances since 1842.</p>
+              <div className="label-caps text-[#c9a96e] mb-4 text-xs md:text-sm">VELORIS</div>
+              <p className="body-md text-[#8a7e6b] text-xs md:text-base">Refined luxury in motion.</p>
               <div className="flex flex-col gap-3 mt-4">
                 {socialAccounts.map((social) => (
                   <SocialLink
@@ -139,8 +141,8 @@ export default function Collections() {
           </div>
           <div className="divider mb-8"></div>
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-xs md:text-base">
-            <p className="body-md text-[#8a7e6b]">© 2026 ATLAS MARAKECH. All rights reserved.</p>
-            <p className="label-caps text-[#8a7e6b]">L'Art de Précision</p>
+            <p className="body-md text-[#8a7e6b]">© 2026 VELORIS. All rights reserved.</p>
+            <p className="label-caps text-[#8a7e6b]">Refined Elegance in Motion</p>
           </div>
         </div>
       </footer>

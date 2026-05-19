@@ -1,0 +1,42 @@
+{
+  "nav": {
+    "heritage": "ヘリテージ",
+    "collections": "コレクション",
+    "journal": "ジャーナル",
+    "atelier": "アトリエ"
+  },
+  "hero": {
+    "tagline": "洗練された優雅さの中の動き",
+    "title": "VELORIS",
+    "subtitle": "ラグジュアリーが動きと出会う場所。現代的な魂のための香り。",
+    "cta_explore": "コレクションを探索する",
+    "cta_view": "すべての香りを表示"
+  },
+  "philosophy": {
+    "quote": "ラグジュアリーは価格についてではありません。単一の香りの一滴が世界を運ぶことができるという感覚です。",
+    "author": "ベロリスの哲学"
+  },
+  "ingredients": {
+    "title": "成分",
+    "subtitle": "原材料"
+  },
+  "collection": {
+    "title": "エッセンスギャラリー",
+    "subtitle": "厳選されたコレクション"
+  },
+  "values": {
+    "title": "ベロリスの方法",
+    "subtitle": "私たちが信じていること"
+  },
+  "ui": {
+    "navigation": "ナビゲーション",
+    "follow": "フォロー",
+    "follow_us": "フォローする",
+    "brand_short": "VELORIS"
+  },
+  "footer": {
+    "brand": "VELORIS",
+    "copyright": "© 2026 VELORIS. すべての権利を保有します。",
+    "tagline": "洗練された優雅さの中の動き"
+  }
+}

@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ATLAS MARAKECH | Luxury Fragrances",
-  description: "Discover ATLAS MARAKECH - modern luxury fragrances inspired by the spirit of Marrakech. Contemporary scents crafted for the bold and the refined.",
+  title: "VELORIS | Luxury Fragrances",
+  description: "Discover VELORIS - modern luxury fragrances crafted with refined elegance. Contemporary scents for those who move with intention and grace.",
   icons: {
     icon: "/favicon.ico",
   },
