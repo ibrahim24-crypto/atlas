@@ -25,7 +25,7 @@ export default function About() {
       <nav className="fixed top-0 w-full z-50 bg-[#0a0a0a]/90 backdrop-blur-md border-b border-[#3d3630]">
         <div className="max-w-7xl mx-auto px-4 md:px-16 py-6 flex justify-between items-center">
           <Link href="/">
-            <div dir="ltr" className="text-lg md:text-xl font-light tracking-[0.3em] text-[#c9a96e]">VELORIS</div>
+            <div dir="ltr" className="text-lg md:text-xl font-light tracking-[0.3em] text-[#c9a96e]">IREN</div>
           </Link>
           
           <div className="hidden md:flex gap-6 text-[#c9a96e]">
@@ -60,10 +60,10 @@ export default function About() {
 
       {/* Hero */}
       <section className="pt-32 md:pt-40 pb-12 md:pb-20 px-4 md:px-16 text-center max-w-4xl mx-auto">
-        <div className="label-caps text-[#c9a96e] mb-4 tracking-[0.3em]">ABOUT VELORIS</div>
+        <div className="label-caps text-[#c9a96e] mb-4 tracking-[0.3em]">ABOUT IREN</div>
         <h1 className="text-4xl md:text-6xl font-serif font-light text-[#f5f0eb] mb-6 md:mb-8">Refined Elegance<br />in Motion</h1>
         <p className="body-lg text-[#c4b8a8] max-w-2xl mx-auto text-base md:text-lg">
-          VELORIS is a modern luxury fragrance brand crafted for those who move with intention and grace. We create exceptional scents that celebrate refined elegance and the beauty of motion.
+          IREN is a modern luxury fragrance brand crafted for those who move with intention and grace. We create exceptional scents that celebrate refined elegance and the beauty of motion.
         </p>
       </section>
 
@@ -78,7 +78,7 @@ export default function About() {
                 Luxury isn't static. It flows. It breathes. It moves with you through every moment. We believe true elegance lies in refinement—in the careful balance between sophistication and vitality.
               </p>
               <p className="body-lg text-[#c4b8a8] text-sm md:text-base">
-                Every VELORIS fragrance is designed to enhance your presence. Not to shout, but to resonate. To move with you, not against you.
+                Every IREN fragrance is designed to enhance your presence. Not to shout, but to resonate. To move with you, not against you.
               </p>
             </div>
             <div className="aspect-square bg-gradient-to-br from-[#1a1a1a] to-[#0a0a0a] border border-[#3d3630] flex items-center justify-center">
@@ -107,7 +107,7 @@ export default function About() {
               },
               {
                 title: 'Compose',
-                description: 'Master perfumers who craft with intention. Every VELORIS fragrance goes through meticulous iterations to achieve perfect balance.'
+                description: 'Master perfumers who craft with intention. Every IREN fragrance goes through meticulous iterations to achieve perfect balance.'
               },
               {
                 title: 'Deliver',
@@ -129,7 +129,7 @@ export default function About() {
           <div className="label-caps text-[#c9a96e] mb-4">THE PEOPLE</div>
           <h2 className="text-2xl md:text-4xl font-serif font-light text-[#f5f0eb]">Built by People Who Love Perfume</h2>
           <p className="body-lg text-[#c4b8a8] max-w-2xl mx-auto text-sm md:text-base">
-            We're a collective of fragrance artisans, designers, and creatives dedicated to creating luxury fragrances. We started VELORIS because we wanted to build a brand that celebrates refined elegance and movement.
+            We're a collective of fragrance artisans, designers, and creatives dedicated to creating luxury fragrances. We started IREN because we wanted to build a brand that celebrates refined elegance and movement.
           </p>
           <p className="body-lg text-[#c4b8a8] max-w-2xl mx-auto text-sm md:text-base">
             We're new. We're hungry. And we're just getting started.
@@ -139,7 +139,7 @@ export default function About() {
 
       {/* CTA */}
       <section className="py-12 md:py-20 px-4 md:px-16 max-w-7xl mx-auto text-center space-y-6 md:space-y-8">
-        <h2 className="text-2xl md:text-4xl font-serif font-light text-[#f5f0eb]">Discover VELORIS</h2>
+        <h2 className="text-2xl md:text-4xl font-serif font-light text-[#f5f0eb]">Discover IREN</h2>
         <p className="body-lg text-[#c4b8a8] max-w-2xl mx-auto text-sm md:text-base">
           Explore our collection or visit our atelier to experience the fragrances in person.
         </p>
@@ -158,7 +158,7 @@ export default function About() {
         <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-12 mb-8 md:mb-12">
             <div>
-              <div className="label-caps text-[#c9a96e] mb-4 text-xs md:text-sm">VELORIS MOTION</div>
+              <div className="label-caps text-[#c9a96e] mb-4 text-xs md:text-sm">IREN MOTION</div>
               <p className="body-md text-[#8a7e6b] text-xs md:text-base">Modern luxury fragrances.</p>
               <div className="flex flex-col gap-3 mt-4">
                 {socialAccounts.map((social) => (
@@ -196,7 +196,7 @@ export default function About() {
           </div>
           <div className="divider mb-8"></div>
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-xs md:text-base">
-            <p className="body-md text-[#8a7e6b]">&copy; 2026 VELORIS MOTION. All rights reserved.</p>
+            <p className="body-md text-[#8a7e6b]">&copy; 2026 IREN MOTION. All rights reserved.</p>
             <p className="label-caps text-[#8a7e6b]">The Spirit of Elegance</p>
           </div>
         </div>

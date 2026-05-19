@@ -28,7 +28,7 @@ export default function ProductDetail() {
       <nav className="fixed top-0 w-full z-50 bg-[#0a0a0a]/90 backdrop-blur-md border-b border-neutral-800">
         <div className="max-w-7xl mx-auto px-4 md:px-16 py-6 flex justify-between items-center">
           <Link href="/">
-            <div dir="ltr" className="text-lg md:text-xl font-light tracking-widest text-[#c9a96e]">VELORIS</div>
+            <div dir="ltr" className="text-lg md:text-xl font-light tracking-widest text-[#c9a96e]">IREN</div>
           </Link>
           
           <div className="hidden md:flex gap-6 text-[#c9a96e]">
@@ -211,7 +211,7 @@ export default function ProductDetail() {
         <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-12 mb-8 md:mb-12">
             <div>
-              <div className="label-caps text-[#c9a96e] mb-4 text-xs md:text-sm">VELORIS MARAKECH</div>
+              <div className="label-caps text-[#c9a96e] mb-4 text-xs md:text-sm">IREN MARAKECH</div>
               <p className="body-md text-[#8a7e6b] text-xs md:text-base">Refined luxury in motion.</p>
               <div className="flex flex-col gap-3 mt-4">
                 {socialAccounts.map((social) => (
@@ -251,7 +251,7 @@ export default function ProductDetail() {
           </div>
           <div className="divider mb-8"></div>
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-xs md:text-base">
-            <p className="body-md text-[#8a7e6b]">© 2026 VELORIS MARAKECH. All rights reserved.</p>
+            <p className="body-md text-[#8a7e6b]">© 2026 IREN MARAKECH. All rights reserved.</p>
             <p className="label-caps text-[#8a7e6b]">Refined Elegance in Motion</p>
           </div>
         </div>

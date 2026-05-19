@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "VELORIS | Luxury Fragrances",
-  description: "Discover VELORIS - modern luxury fragrances crafted with refined elegance. Contemporary scents for those who move with intention and grace.",
+  title: "IREN | Luxury Fragrances",
+  description: "Discover IREN - modern luxury fragrances crafted with refined elegance. Contemporary scents for those who move with intention and grace.",
   icons: {
     icon: "/favicon.ico",
   },

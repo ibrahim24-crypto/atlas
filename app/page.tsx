@@ -57,9 +57,9 @@ export default function Home() {
               </svg>
             </button>
             
-            {/* VELORIS Logo - Center */}
+            {/* IREN Logo - Center */}
             <Link href="/" className="absolute left-1/2 -translate-x-1/2">
-              <div dir="ltr" className="text-lg md:text-xl font-light tracking-[0.3em] text-[#c9a96e]">VELORIS</div>
+              <div dir="ltr" className="text-lg md:text-xl font-light tracking-[0.3em] text-[#c9a96e]">IREN</div>
             </Link>
             
             {/* Language Selector - Right */}
@@ -131,7 +131,7 @@ export default function Home() {
             "Luxury is not about price. It's about the feeling that a single drop of fragrance can carry a world."
           </p>
           <div className="w-12 h-px bg-[#c9a96e] mx-auto mb-4"></div>
-          <p className="label-caps text-[#8a7e6b] tracking-widest">— The Veloris Philosophy</p>
+          <p className="label-caps text-[#8a7e6b] tracking-widest">— The Iren Philosophy</p>
         </div>
       </section>
 
@@ -220,7 +220,7 @@ export default function Home() {
         <div>
           <div className="mb-12 md:mb-20">
             <div className="label-caps text-[#c9a96e] mb-4 tracking-[0.3em]">WHAT WE STAND FOR</div>
-            <h2 className="text-3xl md:text-5xl font-serif font-light text-[#f5f0eb]">The Veloris Way</h2>
+            <h2 className="text-3xl md:text-5xl font-serif font-light text-[#f5f0eb]">The Iren Way</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-12">
             {[
@@ -266,7 +266,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-12 mb-8 md:mb-12">
             <div>
-              <div className="label-caps text-[#c9a96e] mb-4 text-xs md:text-sm">VELORIS</div>
+              <div className="label-caps text-[#c9a96e] mb-4 text-xs md:text-sm">IREN</div>
               <p className="body-md text-[#8a7e6b] text-xs md:text-base">Refined luxury in motion.</p>
               <div className="flex flex-col gap-3 mt-4">
                 {socialAccounts.map((social) => (
@@ -306,7 +306,7 @@ export default function Home() {
           </div>
           <div className="divider mb-8"></div>
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-xs md:text-base">
-            <p className="body-md text-[#8a7e6b]">&copy; 2026 VELORIS. All rights reserved.</p>
+            <p className="body-md text-[#8a7e6b]">&copy; 2026 IREN. All rights reserved.</p>
             <p className="label-caps text-[#8a7e6b]">Refined Elegance in Motion</p>
           </div>
         </div>

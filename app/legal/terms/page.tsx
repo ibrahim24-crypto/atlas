@@ -12,7 +12,7 @@ export default function Terms() {
       <nav className="fixed top-0 w-full z-50 bg-[#0a0a0a]/90 backdrop-blur-md border-b border-neutral-800">
         <div className="max-w-7xl mx-auto px-4 md:px-16 py-6 flex justify-between items-center">
           <Link href="/">
-            <div dir="ltr" className="text-lg md:text-xl font-light tracking-widest text-[#c9a96e]">VELORIS</div>
+            <div dir="ltr" className="text-lg md:text-xl font-light tracking-widest text-[#c9a96e]">IREN</div>
           </Link>
           
           <div className="hidden md:flex gap-12">
@@ -59,7 +59,7 @@ export default function Terms() {
           <section className="space-y-4">
             <h2 className="text-2xl font-serif text-[#c9a96e]">2. Use License</h2>
             <p className="body-lg text-sm md:text-base">
-              Permission is granted to temporarily download one copy of the materials (information or software) on VELORIS MOTION's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+              Permission is granted to temporarily download one copy of the materials (information or software) on IREN MOTION's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
             </p>
             <ul className="list-disc list-inside space-y-2 text-sm md:text-base">
               <li>Modifying or copying the materials</li>
@@ -73,21 +73,21 @@ export default function Terms() {
           <section className="space-y-4">
             <h2 className="text-2xl font-serif text-[#c9a96e]">3. Disclaimer</h2>
             <p className="body-lg text-sm md:text-base">
-              The materials on VELORIS MOTION's website are provided on an 'as is' basis. VELORIS MOTION makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+              The materials on IREN MOTION's website are provided on an 'as is' basis. IREN MOTION makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
             </p>
           </section>
 
           <section className="space-y-4">
             <h2 className="text-2xl font-serif text-[#c9a96e]">4. Limitations</h2>
             <p className="body-lg text-sm md:text-base">
-              In no event shall VELORIS MOTION or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on VELORIS MOTION's website.
+              In no event shall IREN MOTION or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on IREN MOTION's website.
             </p>
           </section>
 
           <section className="space-y-4">
             <h2 className="text-2xl font-serif text-[#c9a96e]">5. Accuracy of Materials</h2>
             <p className="body-lg text-sm md:text-base">
-              The materials appearing on VELORIS MOTION's website could include technical, typographical, or photographic errors. VELORIS MOTION does not warrant that any of the materials on its website are accurate, complete, or current.
+              The materials appearing on IREN MOTION's website could include technical, typographical, or photographic errors. IREN MOTION does not warrant that any of the materials on its website are accurate, complete, or current.
             </p>
           </section>
 
@@ -100,7 +100,7 @@ export default function Terms() {
         <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-12 mb-8">
             <div>
-              <div className="label-caps text-[#c9a96e] mb-4 text-xs md:text-sm">VELORIS MOTION</div>
+              <div className="label-caps text-[#c9a96e] mb-4 text-xs md:text-sm">IREN MOTION</div>
               <p className="body-md text-[#8a7e6b] text-xs md:text-base">Luxury fragrances since 1842.</p>
             </div>
             <div>
@@ -138,7 +138,7 @@ export default function Terms() {
           </div>
           <div className="divider mb-8"></div>
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-xs">
-            <p className="body-md text-[#8a7e6b]">© 2026 VELORIS MOTION. All rights reserved.</p>
+            <p className="body-md text-[#8a7e6b]">© 2026 IREN MOTION. All rights reserved.</p>
             <p className="label-caps text-[#8a7e6b]">L'Art de Précision</p>
           </div>
         </div>

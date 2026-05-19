@@ -12,7 +12,7 @@ export default function Privacy() {
       <nav className="fixed top-0 w-full z-50 bg-[#0a0a0a]/90 backdrop-blur-md border-b border-neutral-800">
         <div className="max-w-7xl mx-auto px-4 md:px-16 py-6 flex justify-between items-center">
           <Link href="/">
-            <div dir="ltr" className="text-lg md:text-xl font-light tracking-widest text-[#c9a96e]">VELORIS</div>
+            <div dir="ltr" className="text-lg md:text-xl font-light tracking-widest text-[#c9a96e]">IREN</div>
           </Link>
           
           <div className="hidden md:flex gap-12">
@@ -52,7 +52,7 @@ export default function Privacy() {
           <section className="space-y-4">
             <h2 className="text-2xl font-serif text-[#c9a96e]">1. Introduction</h2>
             <p className="body-lg text-sm md:text-base">
-              VELORIS MOTION ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website.
+              IREN MOTION ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website.
             </p>
           </section>
 
@@ -106,7 +106,7 @@ export default function Privacy() {
         <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-12 mb-8">
             <div>
-              <div className="label-caps text-[#c9a96e] mb-4 text-xs md:text-sm">VELORIS MOTION</div>
+              <div className="label-caps text-[#c9a96e] mb-4 text-xs md:text-sm">IREN MOTION</div>
               <p className="body-md text-[#8a7e6b] text-xs md:text-base">Luxury fragrances since 1842.</p>
             </div>
             <div>
@@ -144,7 +144,7 @@ export default function Privacy() {
           </div>
           <div className="divider mb-8"></div>
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-xs">
-            <p className="body-md text-[#8a7e6b]">© 2026 VELORIS MOTION. All rights reserved.</p>
+            <p className="body-md text-[#8a7e6b]">© 2026 IREN MOTION. All rights reserved.</p>
             <p className="label-caps text-[#8a7e6b]">L'Art de Précision</p>
           </div>
         </div>

@@ -50,7 +50,7 @@ export function MobileMenu({ isOpen, onClose, activePath, navItems = [] }: Mobil
         {/* Logo */}
         <div className="pt-8 px-6 pb-6">
           <Link href="/" onClick={onClose}>
-            <div dir="ltr" className="text-xl font-light tracking-[0.3em] text-[#c9a96e]">VELORIS</div>
+            <div dir="ltr" className="text-xl font-light tracking-[0.3em] text-[#c9a96e]">IREN</div>
           </Link>
         </div>
 

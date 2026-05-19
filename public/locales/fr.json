@@ -7,14 +7,14 @@
   },
   "hero": {
     "tagline": "Élégance Raffinée en Mouvement",
-    "title": "VELORIS",
+    "title": "IREN",
     "subtitle": "Où le luxe rencontre le mouvement. Des parfums pour l'âme moderne.",
     "cta_explore": "Explorer la Collection",
     "cta_view": "Voir Tous les Parfums"
   },
   "philosophy": {
     "quote": "Le luxe n'est pas une question de prix. C'est le sentiment qu'une seule goutte de parfum peut porter un monde.",
-    "author": "La Philosophie Veloris"
+    "author": "La Philosophie Iren"
   },
   "ingredients": {
     "title": "Les Ingrédients",
@@ -25,11 +25,11 @@
     "subtitle": "Sélection Curatée"
   },
   "values": {
-    "title": "Le Style Veloris",
+    "title": "Le Style Iren",
     "subtitle": "Ce que Nous Défendons"
   },
   "footer": {
-    "copyright": "© 2026 VELORIS. Tous droits réservés.",
+    "copyright": "© 2026 IREN. Tous droits réservés.",
     "tagline": "Élégance Raffinée en Mouvement"
   }
 }

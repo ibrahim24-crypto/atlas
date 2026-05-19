@@ -50,7 +50,7 @@ export function DesktopMenu({ isOpen, onClose, navItems = [] }: DesktopMenuProps
         {/* Logo */}
         <div className="pt-6 px-6 pb-4 border-b border-[#3d3630]">
           <Link href="/" onClick={onClose} className="block">
-            <div dir="ltr" className="text-lg font-light tracking-[0.2em] text-[#c9a96e]">VELORIS</div>
+            <div dir="ltr" className="text-lg font-light tracking-[0.2em] text-[#c9a96e]">IREN</div>
           </Link>
         </div>
 
